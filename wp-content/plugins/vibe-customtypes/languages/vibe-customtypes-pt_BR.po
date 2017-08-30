@@ -1,0 +1,5150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vibe Custom Types\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-30 14:45+0530\n"
+"PO-Revision-Date: 2016-11-30 14:46+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: VibeThemes <vibethemes@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Digite seu nome de usuário no Envato Marketplace."
+
+#: autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Digite API Key no seu Envato Marketplace."
+
+#: autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "A API \"set \" é um parâmetro obrigatório."
+
+#: autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "O Envato Marketplace \"item ID\" é um parâmetro obrigatório."
+
+#: autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "Um erro HTTP inesperado ocorreu durante o pedido API."
+
+#: autoupdate/class-plugin-update.php:376
+#: autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "Tente novamente"
+
+#: autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "Ocorreu um erro desconhecido"
+
+#: autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"O plugin foi atualizado, mas não pode ser reativado. Por favor, reativá-lo "
+"manualmente."
+
+#: autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "Plugin reativado com sucesso."
+
+#: autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr "Atualizações de Plugins"
+
+#: autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "Usuário: "
+
+#: autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "Email: "
+
+#: autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "Chave: "
+
+#: autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<p>Sua atualização do plugin está <span style=\"color:green\">ativa</span></"
+"p>"
+
+#: autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>Seu lançamento <span style=\"color:red\">não é válida</span>, atualização "
+"automatica está <span style=\"color:red\">desativada</span>.</p>"
+
+#: autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "Editar Chave"
+
+#: autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>Não é possível validar a ativação de atualização.</p>"
+
+#: autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "Adicionar Chave"
+
+#: autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "Nome de usuário"
+
+#: autoupdate/class-plugin-update.php:638 includes/musettings.php:1243
+#: includes/musettings.php:1259 includes/musettings.php:1278
+#: includes/musettings.php:1294 metaboxes/meta_box.php:810
+msgid "Email"
+msgstr "Email"
+
+#: autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "Nome de usuário do Themeforest ( para Auto-Atualização )"
+
+#: custom-post-types.php:18
+msgid "Learning Management System"
+msgstr "Learning Management System"
+
+#: custom-post-types.php:19 includes/permalinks.php:181
+msgid "Statistics"
+msgstr "Estatísticas"
+
+#: custom-post-types.php:20 custom_meta_boxes.php:1268
+#: metaboxes/library/vibe-editor.php:2724
+#: metaboxes/library/vibe-editor.php:2746
+msgid "Settings"
+msgstr "Configurações"
+
+#: custom-post-types.php:21
+msgid "Lms Tree"
+msgstr ""
+
+#: custom-post-types.php:73
+msgid "Course Category"
+msgstr "Categoria do Curso"
+
+#: custom-post-types.php:74 custom-post-types.php:75
+msgid "Category"
+msgstr "Categoria"
+
+#: custom-post-types.php:76
+msgid "Add New Course Category"
+msgstr "Adicionar Nova Categoria de Curso"
+
+#: custom-post-types.php:77
+msgid "All Categories"
+msgstr "Todas Categorias"
+
+#: custom-post-types.php:97 custom-post-types.php:98
+msgid "Courses"
+msgstr "Cursos"
+
+#: custom-post-types.php:99 custom_meta_boxes.php:860
+#: includes/class.export.php:14 includes/permalinks.php:98
+#: includes/statistics.php:21 includes/statistics.php:752
+msgid "Course"
+msgstr "Curso"
+
+#: custom-post-types.php:100
+msgid "Add New Course"
+msgstr "Adicionar Novo Curso"
+
+#: custom-post-types.php:101
+msgid "All Courses"
+msgstr "Todos os Curso"
+
+#: custom-post-types.php:122 custom-post-types.php:123
+msgid "Units"
+msgstr "Aulas"
+
+#: custom-post-types.php:124 includes/class.export.php:15
+#: includes/permalinks.php:134
+msgid "Unit"
+msgstr "Aula"
+
+#: custom-post-types.php:125
+msgid "Add New Unit"
+msgstr "Adicionar Nova Aula"
+
+#: custom-post-types.php:126
+msgid "All Units"
+msgstr "Todas as Aulas"
+
+#: custom-post-types.php:146 custom-post-types.php:147
+#: custom-post-types.php:148 custom-post-types.php:231
+#: custom-post-types.php:232
+msgid "Tag"
+msgstr "Tag"
+
+#: custom-post-types.php:149 custom-post-types.php:233
+msgid "Add New Tag"
+msgstr "Adicionar Nova Tag"
+
+#: custom-post-types.php:150 custom-post-types.php:234
+msgid "All Tags"
+msgstr "Todas Tags"
+
+#: custom-post-types.php:165 custom-post-types.php:166
+msgid "Quizes"
+msgstr "Testes"
+
+#: custom-post-types.php:167 includes/class.export.php:16
+#: includes/permalinks.php:118
+msgid "Quiz"
+msgstr "Teste"
+
+#: custom-post-types.php:168
+msgid "All Quizes"
+msgstr "Todos os Testes"
+
+#: custom-post-types.php:187 custom-post-types.php:188
+#: custom-post-types.php:189
+msgid "Quiz type"
+msgstr "Tipo de prova"
+
+#: custom-post-types.php:190
+msgid "Add New Quiz type"
+msgstr "Adicionar Novo Tipo de Prova"
+
+#: custom-post-types.php:191
+msgid "All Quiz types"
+msgstr "Todos os Tipos de Provas"
+
+#: custom-post-types.php:207 custom-post-types.php:208
+msgid "Question Bank"
+msgstr "Banco de Perguntas"
+
+#: custom-post-types.php:209 includes/class.export.php:17
+msgid "Question"
+msgstr "Pergunta"
+
+#: custom-post-types.php:210
+msgid "All Questions"
+msgstr "Todas as Perguntas"
+
+#: custom-post-types.php:230
+msgid "Question Tag"
+msgstr "Tag da Pergunta"
+
+#: custom-post-types.php:254 custom-post-types.php:255
+msgid "Events"
+msgstr "Eventos"
+
+#: custom-post-types.php:256
+msgid "Event"
+msgstr "Evento"
+
+#: custom-post-types.php:257
+msgid "Add New Events"
+msgstr "Adicionar Novo Evento"
+
+#: custom-post-types.php:258
+msgid "All Events"
+msgstr "Todos os Evento"
+
+#: custom-post-types.php:278 custom-post-types.php:279
+#: custom-post-types.php:280
+msgid "Event type"
+msgstr "Tipo de Evento"
+
+#: custom-post-types.php:281
+msgid "Add New Event type"
+msgstr "Adicionar Novo Tipo de Evento"
+
+#: custom-post-types.php:282
+msgid "All Event types"
+msgstr "Todos os Tipos de Eventos"
+
+#: custom-post-types.php:303 custom-post-types.php:304
+msgid "Assignments"
+msgstr "Tarefas"
+
+#: custom-post-types.php:305 includes/class.export.php:18
+#: includes/musettings.php:2416
+msgid "Assignment"
+msgstr "Tarefa"
+
+#: custom-post-types.php:306
+msgid "Add New Assignment"
+msgstr "Adicionar Nova Tarefa"
+
+#: custom-post-types.php:307
+msgid "All Assignments"
+msgstr "Todas as Tarefa"
+
+#: custom-post-types.php:328 custom-post-types.php:329
+#: custom-post-types.php:330
+msgid "Assignment type"
+msgstr "Tipo de Tarefa"
+
+#: custom-post-types.php:331
+msgid "Add New Assignment type"
+msgstr "Adicionar Novo Tipo de Tarefa"
+
+#: custom-post-types.php:332
+msgid "All Assignment types"
+msgstr "Todos os tipos de Tarefas"
+
+#: custom-post-types.php:350 custom-post-types.php:351
+msgid "Payments"
+msgstr "Pagamento"
+
+#: custom-post-types.php:352
+msgid "Payment"
+msgstr "Pagamento"
+
+#: custom-post-types.php:353
+msgid "Add New Payment"
+msgstr "Adicionar Novo pagamento"
+
+#: custom-post-types.php:354
+msgid "Payouts"
+msgstr ""
+
+#: custom-post-types.php:373 custom-post-types.php:375
+#: custom_meta_boxes.php:348
+msgid "Certificate Template"
+msgstr "Modelo de Certificado"
+
+#: custom-post-types.php:374
+msgid "Certificates Template"
+msgstr "Modelos de Certificados"
+
+#: custom-post-types.php:376
+msgid "Add New Certificate"
+msgstr "Adicionar Novo Certificado"
+
+#: custom-post-types.php:377
+msgid "Certificate Templates"
+msgstr "Modelo de Certificado"
+
+#: custom-post-types.php:396 custom-post-types.php:397
+#: custom-post-types.php:398
+msgid "Linkage"
+msgstr "Linkage"
+
+#: custom-post-types.php:399
+msgid "Add New Link"
+msgstr "Adicionar Novo Link"
+
+#: custom-post-types.php:400
+msgid "All Links"
+msgstr "Todos Links"
+
+#: custom-post-types.php:418 custom-post-types.php:419
+#: custom-post-types.php:420
+msgid "Level"
+msgstr "Níveis"
+
+#: custom-post-types.php:421
+msgid "Add New Level"
+msgstr "Adicionar Novo Nível"
+
+#: custom-post-types.php:422
+msgid "All Levels"
+msgstr "Todos os Níveis"
+
+#: custom-post-types.php:441 custom-post-types.php:442
+#: custom-post-types.php:443 custom_meta_boxes.php:923
+msgid "Location"
+msgstr "Localização"
+
+#: custom-post-types.php:444
+#, fuzzy
+msgid "Add New Location"
+msgstr "Adicionar Novo Link"
+
+#: custom-post-types.php:445
+#, fuzzy
+msgid "All Locations"
+msgstr "Localização"
+
+#: custom-post-types.php:468 custom-post-types.php:469
+msgid "Testimonials"
+msgstr "Depoimentos"
+
+#: custom-post-types.php:470
+msgid "Testimonial"
+msgstr "Depoimento"
+
+#: custom-post-types.php:471
+msgid "All Testimonials"
+msgstr "Todos Depoimentos"
+
+#: custom-post-types.php:495 custom-post-types.php:496
+msgid "Popups"
+msgstr "Popups"
+
+#: custom-post-types.php:497
+msgid "Popup"
+msgstr "Popup"
+
+#: custom-post-types.php:498
+msgid "All Popups"
+msgstr "Todos Popups"
+
+#: custom_meta_boxes.php:31
+msgid "Post Sub-Title"
+msgstr "Post Subtítulo"
+
+#: custom_meta_boxes.php:32
+msgid "Post Sub- Title."
+msgstr "Post Sub- Título."
+
+#: custom_meta_boxes.php:39
+msgid "Post Template"
+msgstr "Modelo de Post"
+
+#: custom_meta_boxes.php:40
+msgid "Select a post template for showing content."
+msgstr "Selecione um modelo de post para a exibição de conteúdo."
+
+#: custom_meta_boxes.php:44
+msgid "Content on Left"
+msgstr "Conteúdo a Esquerda"
+
+#: custom_meta_boxes.php:45
+msgid "Content on Right"
+msgstr "Conteúdo a Direita"
+
+#: custom_meta_boxes.php:46
+msgid "Full Width"
+msgstr "Largura Total"
+
+#: custom_meta_boxes.php:51 custom_meta_boxes.php:152 custom_meta_boxes.php:163
+#: custom_meta_boxes.php:1070 metaboxes/library/vibe-editor.php:2402
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: custom_meta_boxes.php:52 custom_meta_boxes.php:164
+#: custom_meta_boxes.php:1071
+msgid "Select a Sidebar | Default : mainsidebar"
+msgstr "Selecione a Sidebar | Padrão : mainsidebar"
+
+#: custom_meta_boxes.php:58 custom_meta_boxes.php:116
+msgid "Show Page Title"
+msgstr "Mostrar Título da Página"
+
+#: custom_meta_boxes.php:59 custom_meta_boxes.php:117
+msgid "Show Page/Post Title."
+msgstr "Visualizar Página/Título Post"
+
+#: custom_meta_boxes.php:64 custom_meta_boxes.php:77 custom_meta_boxes.php:91
+#: custom_meta_boxes.php:104 custom_meta_boxes.php:122
+#: custom_meta_boxes.php:145 custom_meta_boxes.php:198
+#: custom_meta_boxes.php:211 custom_meta_boxes.php:224
+#: custom_meta_boxes.php:238 custom_meta_boxes.php:252
+#: custom_meta_boxes.php:266 custom_meta_boxes.php:280
+#: custom_meta_boxes.php:294 custom_meta_boxes.php:340
+#: custom_meta_boxes.php:368 custom_meta_boxes.php:381
+#: custom_meta_boxes.php:394 custom_meta_boxes.php:407
+#: custom_meta_boxes.php:488 custom_meta_boxes.php:502
+#: custom_meta_boxes.php:571 custom_meta_boxes.php:697
+#: custom_meta_boxes.php:724 custom_meta_boxes.php:737
+#: custom_meta_boxes.php:772 custom_meta_boxes.php:829
+#: custom_meta_boxes.php:916 custom_meta_boxes.php:947
+#: custom_meta_boxes.php:960 custom_meta_boxes.php:1018
+#: custom_meta_boxes.php:1104
+#, fuzzy
+msgid "Hide"
+msgstr "OCULTAR"
+
+#: custom_meta_boxes.php:66 custom_meta_boxes.php:79 custom_meta_boxes.php:93
+#: custom_meta_boxes.php:106 custom_meta_boxes.php:124
+#: custom_meta_boxes.php:147 custom_meta_boxes.php:200
+#: custom_meta_boxes.php:213 custom_meta_boxes.php:226
+#: custom_meta_boxes.php:240 custom_meta_boxes.php:254
+#: custom_meta_boxes.php:268 custom_meta_boxes.php:282
+#: custom_meta_boxes.php:296 custom_meta_boxes.php:342
+#: custom_meta_boxes.php:370 custom_meta_boxes.php:383
+#: custom_meta_boxes.php:396 custom_meta_boxes.php:409
+#: custom_meta_boxes.php:490 custom_meta_boxes.php:504
+#: custom_meta_boxes.php:573 custom_meta_boxes.php:699
+#: custom_meta_boxes.php:726 custom_meta_boxes.php:739
+#: custom_meta_boxes.php:774 custom_meta_boxes.php:831
+#: custom_meta_boxes.php:918 custom_meta_boxes.php:949
+#: custom_meta_boxes.php:962 custom_meta_boxes.php:1020
+#: custom_meta_boxes.php:1106
+#, fuzzy
+msgid "Show"
+msgstr "MOSTRAR"
+
+#: custom_meta_boxes.php:71
+msgid "Show Author Information"
+msgstr "Mostrar Informações do Autor"
+
+#: custom_meta_boxes.php:72
+msgid "Author information below post content."
+msgstr "Informações do Autor abaixo do conteúdo do post."
+
+#: custom_meta_boxes.php:85 custom_meta_boxes.php:139
+msgid "Show Breadcrumbs"
+msgstr "Mostrar Caminho de Navegação"
+
+#: custom_meta_boxes.php:86 custom_meta_boxes.php:140
+msgid "Show breadcrumbs."
+msgstr "Mostrar caminho de navegação"
+
+#: custom_meta_boxes.php:98
+msgid "Show Prev/Next Arrows"
+msgstr "Mostrar Setas Anterior/Próximo"
+
+#: custom_meta_boxes.php:99
+msgid "Show previous/next links on top below the Subheader."
+msgstr "Mostrar anterior/próximo links no topo abaixo do Sub-cabeçalho."
+
+#: custom_meta_boxes.php:131
+msgid "Page Sub-Title"
+msgstr "Subtítulo da Página"
+
+#: custom_meta_boxes.php:132
+msgid "Page Sub- Title."
+msgstr "Página Sub- Título."
+
+#: custom_meta_boxes.php:153
+msgid "Select Sidebar | Sidebar : mainsidebar"
+msgstr "Selecione Sidebar | Sidebar : mainsidebar"
+
+#: custom_meta_boxes.php:171
+msgid "Total Duration of Course"
+msgstr "Duração Total do Curso"
+
+#: custom_meta_boxes.php:172
+#, php-format
+msgid "Duration of Course (in %s)"
+msgstr "Duração do Curso (em %s)"
+
+#: custom_meta_boxes.php:178
+#, fuzzy
+msgid "Course Duration parameter"
+msgstr "Duração do Curso"
+
+#: custom_meta_boxes.php:179 custom_meta_boxes.php:421
+#: custom_meta_boxes.php:685 custom_meta_boxes.php:843
+#: custom_meta_boxes.php:1092
+#, fuzzy
+msgid "Duration parameter"
+msgstr "Duração do Curso"
+
+#: custom_meta_boxes.php:185
+msgid "Total number of Students in Course"
+msgstr "Número total de alunos no curso"
+
+#: custom_meta_boxes.php:186
+msgid "Total number of Students who have taken this Course."
+msgstr "Número total de alunos que fizeram este curso."
+
+#: custom_meta_boxes.php:192
+msgid "Unit Completion Lock"
+msgstr ""
+
+#: custom_meta_boxes.php:193
+msgid "Previous Units/Quiz must be Complete before next unit/quiz access"
+msgstr ""
+
+#: custom_meta_boxes.php:205
+#, fuzzy
+msgid "Offline Course"
+msgstr "Inclua no Curso"
+
+#: custom_meta_boxes.php:206
+#, fuzzy
+msgid "Make this an Offline Course"
+msgstr "Inscreva-se no Curso"
+
+#: custom_meta_boxes.php:218
+#, fuzzy
+msgid "Show Unit content in Curriculum"
+msgstr "Mostrar as atribuições no currículo do curso"
+
+#: custom_meta_boxes.php:219
+msgid ""
+"Display units content in Course Curriculum, unit content visible in "
+"curriculum. ( Recommended for Offline Courses )"
+msgstr ""
+
+#: custom_meta_boxes.php:232
+#, fuzzy
+msgid "Hide Course Button after subscription"
+msgstr "Ocultar botão de curso após a inscrição"
+
+#: custom_meta_boxes.php:233
+msgid ""
+"Hide Start Course/Continue Course button after Course is subscribed by user. "
+"( Recommended for Offline Courses )"
+msgstr ""
+
+#: custom_meta_boxes.php:246
+#, fuzzy
+msgid "Display Course Progress on Course home"
+msgstr "Mostrar o progresso do curso no painel do curso"
+
+#: custom_meta_boxes.php:247
+msgid ""
+"Display User Course progress on Course page. ( Recommended for Offline "
+"Courses )"
+msgstr ""
+
+#: custom_meta_boxes.php:260
+#, fuzzy
+msgid "Time based Course Progress "
+msgstr "Tempo com base no progresso do curso"
+
+#: custom_meta_boxes.php:261
+msgid ""
+"Automatically generate course progress based on duration (number of months/"
+"weeks/days/hours) passed in course.( Recommended for Offline Courses )"
+msgstr ""
+
+#: custom_meta_boxes.php:274
+#, fuzzy
+msgid "Post Course Reviews from Course Home"
+msgstr "Post restaurado para revisão"
+
+#: custom_meta_boxes.php:275
+msgid ""
+"Allow subscribed users to post Course reviews from Course home page. "
+"( Recommended for Offline Courses )"
+msgstr ""
+
+#: custom_meta_boxes.php:288
+msgid "Auto Evaluation"
+msgstr "Auto Avaliação"
+
+#: custom_meta_boxes.php:289
+#, fuzzy
+msgid ""
+"Evalute Courses based on Quizzes scores available in Course (* Requires at "
+"least 1 Quiz in course)"
+msgstr ""
+"Avaliação dos Cursos baseados na pontuação disponíveis dos quizes no curso "
+"(* Requer pelo menos um Quiz no curso)"
+
+#: custom_meta_boxes.php:301
+msgid "Course Start Date"
+msgstr "Data de Início do Curso"
+
+#: custom_meta_boxes.php:302
+msgid "Date from which Course Begins"
+msgstr "Data a partir da qual curso começa"
+
+#: custom_meta_boxes.php:307
+msgid "Maximum Students in Course"
+msgstr "Máximo Alunos no Curso"
+
+#: custom_meta_boxes.php:308
+msgid "Maximum number of students who can pursue the course at a time."
+msgstr "O número máximo de alunos que podem prosseguir o curso de cada vez."
+
+#: custom_meta_boxes.php:313
+msgid "Excellence Badge"
+msgstr "Crédito Máximo"
+
+#: custom_meta_boxes.php:314
+#, fuzzy
+msgid "Upload badge image which Students receive upon course completion"
+msgstr ""
+"Envie image distintivo para que os alunos recebam após a conclusão do curso"
+
+#: custom_meta_boxes.php:320
+msgid "Badge Percentage"
+msgstr "Percentual de Crédito"
+
+#: custom_meta_boxes.php:321
+msgid "Badge is given to people passing above percentage (out of 100)"
+msgstr "Distintivo é dado a pessoas que passam acima percentual (0 de 100)"
+
+#: custom_meta_boxes.php:327
+msgid "Badge Title"
+msgstr "Título do Distintivo"
+
+#: custom_meta_boxes.php:328
+msgid "Title is shown on hovering the badge."
+msgstr "Título é exibido ao passar o distintivo."
+
+#: custom_meta_boxes.php:334
+msgid "Completion Certificate"
+msgstr "Certificado de Conclusão"
+
+#: custom_meta_boxes.php:335
+#, fuzzy
+msgid ""
+"Enable Certificate image which Students receive upon course completion (out "
+"of 100)"
+msgstr ""
+"Ativar imagem Certificado a estudantes que recebem sobre a conclusão do "
+"curso (0 em 100)"
+
+#: custom_meta_boxes.php:349
+msgid "Select a Certificate Template"
+msgstr "Selecione um modelo de certificado"
+
+#: custom_meta_boxes.php:356
+msgid "Passing Percentage"
+msgstr "Passando Porcentagem"
+
+#: custom_meta_boxes.php:357
+msgid "Course passing percentage, for completion certificate"
+msgstr "Porcentagem para passar no curso, para certificado de conclusão"
+
+#: custom_meta_boxes.php:362
+msgid "Drip Feed"
+msgstr "Drip Feed"
+
+#: custom_meta_boxes.php:363
+msgid "Enable Drip Feed course"
+msgstr "Ativar Drip Feed curso"
+
+#: custom_meta_boxes.php:375
+msgid "Course Starting Time as Drip Feed Origin"
+msgstr ""
+
+#: custom_meta_boxes.php:376
+#, php-format
+msgid ""
+"Drip feed time calculation from Course starting date/time vs previous unit "
+"access date/time (default), %s tutorial %s"
+msgstr ""
+
+#: custom_meta_boxes.php:388
+#, fuzzy
+msgid "Section Drip Feed"
+msgstr "Permitir gotejamento seção alimentação"
+
+#: custom_meta_boxes.php:389
+#, fuzzy
+msgid "Enable Section Drip Feed (default ) course"
+msgstr "Ativar Drip Feed curso"
+
+#: custom_meta_boxes.php:401
+#, fuzzy
+msgid "Drip Duration as Unit Duration"
+msgstr "Duração da Assinatura"
+
+#: custom_meta_boxes.php:402
+msgid ""
+"Assume Drip duration same as Unit Duration. Duration between consecutive "
+"units."
+msgstr ""
+
+#: custom_meta_boxes.php:414
+#, fuzzy
+msgid "Drip Feed Duration (Static)"
+msgstr "Drip Feed Duração"
+
+#: custom_meta_boxes.php:415
+msgid ""
+"Static duration, if Drip duration not equals Unit duration. This is the "
+"duration between consecutive Drip feed units (in "
+msgstr ""
+
+#: custom_meta_boxes.php:420
+#, fuzzy
+msgid "Drip Duration parameter"
+msgstr "Defina a duração do Limite de Tempo"
+
+#: custom_meta_boxes.php:427
+msgid "Course Curriculum"
+msgstr "Currículo do Curso"
+
+#: custom_meta_boxes.php:428
+#, fuzzy
+msgid ""
+"Set Course Curriculum, prepare units and quizzes before setting up curriculum"
+msgstr ""
+"Definir currículo do curso, preparar lições e quizes antes de configurar o "
+"currículo"
+
+#: custom_meta_boxes.php:435
+#, fuzzy
+msgid "Prerequisite Course"
+msgstr "Pré-requisito do curso"
+
+#: custom_meta_boxes.php:436
+#, fuzzy
+msgid "Prerequisite courses for this course"
+msgstr "Curso Pré Requerido para este curso"
+
+#: custom_meta_boxes.php:442
+msgid "Course Retakes"
+msgstr "Repetições Curso"
+
+#: custom_meta_boxes.php:443
+msgid "Set number of times a student can re-take the course (0 to disable)"
+msgstr ""
+"Defina o número de vezes que um aluno pode voltar a fazer o curso (0 para "
+"desativar)"
+
+#: custom_meta_boxes.php:449
+msgid "Course Forum"
+msgstr "Fórum do Curso"
+
+#: custom_meta_boxes.php:450
+msgid "Connect Forum with Course."
+msgstr "Conectar Fórum com Curso."
+
+#: custom_meta_boxes.php:457
+msgid "Course Group"
+msgstr "Grupo do Curso"
+
+#: custom_meta_boxes.php:458
+msgid "Connect a Group with Course."
+msgstr "Conectar um Grupo com Curso."
+
+#: custom_meta_boxes.php:463
+msgid "Course specific instructions"
+msgstr "Instruções específicas do Curso"
+
+#: custom_meta_boxes.php:464
+msgid ""
+"Course specific instructions which would be shown in the Start course/Course "
+"status page"
+msgstr ""
+"Instruções específicas do Curso que seriam mostrados na página de status de "
+"curso / Início do Curso"
+
+#: custom_meta_boxes.php:470
+msgid "Course Completion Message"
+msgstr "Mensagem Conclusão Curso"
+
+#: custom_meta_boxes.php:471
+msgid "This message is shown to users when they Finish submit the course"
+msgstr ""
+"Esta mensagem é exibida para os usuários quando eles terminarem o curso"
+
+#: custom_meta_boxes.php:474
+#, fuzzy
+msgid "This message is shown to the user when she finishes the course."
+msgstr ""
+"Esta mensagem é exibida para os usuários quando eles terminarem o curso"
+
+#: custom_meta_boxes.php:482
+msgid "Free Course"
+msgstr "Curso Grátis"
+
+#: custom_meta_boxes.php:483
+#, fuzzy
+msgid "Set Course free for all Members"
+msgstr "Curso gratuito para todos os membros"
+
+#: custom_meta_boxes.php:495
+#, fuzzy
+msgid "Apply for Course"
+msgstr "Todos os Curso"
+
+#: custom_meta_boxes.php:496
+#, fuzzy
+msgid "Invite Student applications for Course"
+msgstr "Total de alunos em meus cursos"
+
+#: custom_meta_boxes.php:497
+msgid ""
+"Students are required to Apply for course and instructor would manually "
+"approve them to course. Do not enable \"Free\" course with this setting."
+msgstr ""
+
+#: custom_meta_boxes.php:516
+msgid "PMPro Membership"
+msgstr "PMPro Membership"
+
+#: custom_meta_boxes.php:517
+#, fuzzy
+msgid "Required Membership level for this course"
+msgstr "Nível do membro para este curso"
+
+#: custom_meta_boxes.php:531
+msgid "Associated Product"
+msgstr "Produtos Associados"
+
+#: custom_meta_boxes.php:532
+msgid "Associated Product with the Course."
+msgstr "Produtos Associados com o Curso."
+
+#: custom_meta_boxes.php:543
+msgid "Video"
+msgstr "Vídeo"
+
+#: custom_meta_boxes.php:544
+msgid "Audio"
+msgstr "Áudio"
+
+#: custom_meta_boxes.php:545
+msgid "Podcast"
+msgstr "Audio"
+
+#: custom_meta_boxes.php:546 includes/musettings.php:96
+msgid "General"
+msgstr "Geral"
+
+#: custom_meta_boxes.php:550
+msgid "Unit Description"
+msgstr "Descrição da Lição"
+
+#: custom_meta_boxes.php:551
+msgid "Small Description."
+msgstr "Descrição Pequena."
+
+#: custom_meta_boxes.php:557
+msgid "Unit Type"
+msgstr "Tipo da Lição"
+
+#: custom_meta_boxes.php:558
+msgid "Select Unit type from Video , Audio , Podcast, General , "
+msgstr "Selecione o tipo da lição para Video , Audio , Podcast, General , "
+
+#: custom_meta_boxes.php:565
+msgid "Free Unit"
+msgstr "Lição Grátis"
+
+#: custom_meta_boxes.php:566
+msgid "Set Free unit, viewable to all"
+msgstr "Definir Lição Grátis, visível para todos"
+
+#: custom_meta_boxes.php:578
+msgid "Unit Duration"
+msgstr "Duração Lição"
+
+#: custom_meta_boxes.php:579
+msgid "Duration in "
+msgstr "Duração em "
+
+#: custom_meta_boxes.php:584 custom_meta_boxes.php:585
+#, fuzzy
+msgid "Unit Duration parameter"
+msgstr "Duração Lição"
+
+#: custom_meta_boxes.php:591
+msgid "Connect Assignments"
+msgstr "Conectar uma Tarefa"
+
+#: custom_meta_boxes.php:592
+msgid "Select an Assignment which you can connect with this Unit"
+msgstr "Selecione uma tarefa que você pode se conectar com esta lição"
+
+#: custom_meta_boxes.php:600
+msgid "Unit Forum"
+msgstr "Fórum da Lição"
+
+#: custom_meta_boxes.php:601
+msgid "Connect Forum with Unit."
+msgstr "Conectar Fórum com Lição"
+
+#: custom_meta_boxes.php:610
+msgid "True or False"
+msgstr "Verdadeiro ou Falso"
+
+#: custom_meta_boxes.php:611
+msgid "Multiple Choice"
+msgstr "Múltiplas Escolhas"
+
+#: custom_meta_boxes.php:612
+msgid "Multiple Correct"
+msgstr "Múltiplas Corretas"
+
+#: custom_meta_boxes.php:613
+msgid "Sort Answers"
+msgstr "Ordenar Respostas"
+
+#: custom_meta_boxes.php:614
+msgid "Match Answers"
+msgstr "Correspondencia"
+
+#: custom_meta_boxes.php:615
+msgid "Fill in the Blank"
+msgstr "Preencha o espaço em branco"
+
+#: custom_meta_boxes.php:616
+msgid "Dropdown Select"
+msgstr "Caixa de Seleção"
+
+#: custom_meta_boxes.php:617
+msgid "Small Text"
+msgstr "Pequeno texto"
+
+#: custom_meta_boxes.php:618
+msgid "Large Text"
+msgstr "Testo Longo"
+
+#: custom_meta_boxes.php:619
+#, fuzzy
+msgid "Survey type"
+msgstr "Tipo de Evento"
+
+#: custom_meta_boxes.php:623
+msgid "Question Type"
+msgstr "Tipo da Pergunta"
+
+#: custom_meta_boxes.php:624
+msgid "Select Question type, "
+msgstr "Selecione o tipo da pergunta, "
+
+#: custom_meta_boxes.php:631
+msgid "Question Options (For Single/Multiple/Sort/Match Question types)"
+msgstr "Opções de Perguntas (Para Único/Múltiplo/Curto/Match Question types)"
+
+#: custom_meta_boxes.php:632
+msgid "Single/Mutiple Choice question options"
+msgstr "Opções única pergunta/Múltipla escolha"
+
+#: custom_meta_boxes.php:637
+msgid "Correct Answer"
+msgstr "Resposta Correta"
+
+#: custom_meta_boxes.php:638
+msgid ""
+"Enter (1 = True, 0 = false ) or Choice Number (1,2..) or comma saperated "
+"Choice numbers (1,2..) or Correct Answer for small text (All possible "
+"answers comma saperated) | 0 for No Answer or Manual Check"
+msgstr ""
+"Enter (1 = verdadeiro, 0 = false) ou escolha Número (1,2 ..) ou separados "
+"por vírgula escolha números (1,2 ..) ou resposta correca para pequenos "
+"textos (Todas as respostas possíveis separados por vírgula) | 0 para Sem "
+"Resposta ou Verificar Manual"
+
+#: custom_meta_boxes.php:644
+msgid "Answer Hint"
+msgstr "Dica da Resposta"
+
+#: custom_meta_boxes.php:645
+msgid "Add a Hint/clue for the answer to show to student"
+msgstr "Adicionar uma dica/pista da resposta para mostrar para o aluno"
+
+#: custom_meta_boxes.php:651
+msgid "Answer Explanation"
+msgstr "﻿Explicação da Resposta"
+
+#: custom_meta_boxes.php:652
+msgid "Add Answer explanation"
+msgstr "Adicionar a explicação de resposta"
+
+#: custom_meta_boxes.php:662
+msgid "Quiz Subtitle"
+msgstr "Quiz Subtítulo"
+
+#: custom_meta_boxes.php:663
+msgid "Quiz Subtitle."
+msgstr "Quiz Subtítulo."
+
+#: custom_meta_boxes.php:669 custom_meta_boxes.php:1236
+msgid "Connected Course"
+msgstr "Curso Conectado"
+
+#: custom_meta_boxes.php:674
+msgid ""
+"Connecting a quiz with a course would force the quiz to be available to "
+"users who have taken the course."
+msgstr ""
+
+#: custom_meta_boxes.php:677
+msgid "Quiz Duration"
+msgstr "Duração do Quiz"
+
+#: custom_meta_boxes.php:678
+msgid "Quiz duration in "
+msgstr "Duração do Teste em "
+
+#: custom_meta_boxes.php:678
+msgid " Enables Timer & auto submits on expire. 9999 to disable."
+msgstr " Habilitar tempo e auto envio quando expira. 9999 para desativar."
+
+#: custom_meta_boxes.php:684
+#, fuzzy
+msgid "Quiz Duration parameter"
+msgstr "Duração do Quiz"
+
+#: custom_meta_boxes.php:691
+msgid "Auto Evaluate Results"
+msgstr "Auto Avaliação dos Resultados"
+
+#: custom_meta_boxes.php:692
+msgid ""
+"Evaluate results as soon as quiz is complete. (* No Large text questions ), "
+"Diable for manual evaluate"
+msgstr ""
+"Avaliar os resultados assim que teste está completo. (* Não há grandes "
+"dúvidas de texto), Desativar para avaliar manualmente"
+
+#: custom_meta_boxes.php:704
+msgid "Number of Extra Quiz Retakes"
+msgstr "Número para extras Repetições do Quiz"
+
+#: custom_meta_boxes.php:705
+msgid ""
+"Student can reset and start the quiz all over again. Number of Extra retakes "
+"a student can take."
+msgstr ""
+"Aluno pode redefinir e começar o teste novamente. Inúmeras repetições extras "
+"um aluno pode fazer."
+
+#: custom_meta_boxes.php:711
+msgid "Post Quiz Message"
+msgstr "Post Mensagem do Quiz"
+
+#: custom_meta_boxes.php:712
+msgid "This message is shown to users when they submit the quiz"
+msgstr "Esta mensagem é mostrada para os usuários quando eles enviarem o quiz"
+
+#: custom_meta_boxes.php:718
+msgid "Dynamic Quiz"
+msgstr "Teste Dinâmico"
+
+#: custom_meta_boxes.php:719
+msgid "Dynamic quiz automatically selects questions."
+msgstr "Teste dinâmico seleciona automaticamente perguntas."
+
+#: custom_meta_boxes.php:731
+msgid "Add Check Answer Switch"
+msgstr ""
+
+#: custom_meta_boxes.php:732
+msgid "Instantly check answer answer when question is marked"
+msgstr ""
+
+#: custom_meta_boxes.php:744
+msgid "Dynamic Quiz Question tags"
+msgstr "Tag da Perguntas do Teste"
+
+#: custom_meta_boxes.php:745
+msgid ""
+"Select Question tags from where questions will be selected for the quiz."
+"(required if dynamic enabled)"
+msgstr ""
+"Selecionar tags para a Pergunta de onde perguntas serão selecionadas para o "
+"teste. (Necessário habilitar dinâmico)"
+
+#: custom_meta_boxes.php:759
+msgid "Marks per Question in Dynamic Quiz"
+msgstr "Pontos por pergunta no questionário Dinâmico"
+
+#: custom_meta_boxes.php:760
+msgid ""
+"Enter the number of marks per Questions in the dynamic quiz. (required if "
+"dynamic enabled)."
+msgstr ""
+"Digite o número de pontos por perguntas no questionário dinâmico. "
+"(obrigatório dinâmico ativado)."
+
+#: custom_meta_boxes.php:766
+msgid "Randomize Quiz Questions"
+msgstr "Perguntas do Teste randomizado"
+
+#: custom_meta_boxes.php:767
+msgid "Random Question sequence for every quiz"
+msgstr "Seqüência de pergunta aleatória para cada questionário"
+
+#: custom_meta_boxes.php:779
+msgid "Quiz Questions"
+msgstr "Perguntas Quiz"
+
+#: custom_meta_boxes.php:780
+msgid "Quiz questions for Static Quiz only"
+msgstr "Perguntas do teste para apenas para testes estáticos"
+
+#: custom_meta_boxes.php:792 includes/class.export.php:377
+msgid "Author Name"
+msgstr "Nome do Autor"
+
+#: custom_meta_boxes.php:793
+msgid "Enter the name of the testimonial author."
+msgstr "Digite o nome do autor para o depoimento."
+
+#: custom_meta_boxes.php:798
+msgid "Designation"
+msgstr "Designação"
+
+#: custom_meta_boxes.php:799
+msgid "Enter the testimonial author's designation."
+msgstr "Digite a designação do autor no depoimento."
+
+#: custom_meta_boxes.php:816
+msgid "Associated Courses"
+msgstr "Cursos Associados"
+
+#: custom_meta_boxes.php:817
+msgid "Associated Courses with this product. Enables access to the course."
+msgstr "Cursos relacionados a este produto. Permite o acesso para o curso."
+
+#: custom_meta_boxes.php:823
+msgid "Subscription "
+msgstr "Assinatura "
+
+#: custom_meta_boxes.php:824
+msgid "Enable if Product is Subscription Type (Price per month)"
+msgstr "Habilitar se o produto houver Tipo de Assinatura (Preço por mês)"
+
+#: custom_meta_boxes.php:836
+msgid "Subscription Duration"
+msgstr "Duração da Assinatura"
+
+#: custom_meta_boxes.php:837
+msgid "Duration for Subscription Products (in "
+msgstr "Duração para inscrição de produtos (em "
+
+#: custom_meta_boxes.php:842
+msgid "Product Duration parameter"
+msgstr ""
+
+#: custom_meta_boxes.php:853
+msgid "Event Sub-Title"
+msgstr "Evento SubTítulo"
+
+#: custom_meta_boxes.php:854
+msgid "Event Sub-Title."
+msgstr "Evento Sub- Título."
+
+#: custom_meta_boxes.php:861
+msgid "Select Course for which the event is valid"
+msgstr "Selecione Curso para o qual o evento é válido"
+
+#: custom_meta_boxes.php:867
+msgid "Connect an Assignment"
+msgstr "Conecte uma Tarefa"
+
+#: custom_meta_boxes.php:868
+msgid "Select an Assignment which you can connect with this Event"
+msgstr "Selecione uma tarefa que você pode se conectar com este evento"
+
+#: custom_meta_boxes.php:874
+msgid "Event Icon"
+msgstr "Ícone do Evento"
+
+#: custom_meta_boxes.php:875
+msgid "Click on icon to  select an icon for the event"
+msgstr "Clique no ícone para selecionar um ícone para o evento"
+
+#: custom_meta_boxes.php:880
+msgid "Event Color"
+msgstr "Cor do Evento"
+
+#: custom_meta_boxes.php:881
+msgid "Select color for Event"
+msgstr "Selecione a cor para o Evento"
+
+#: custom_meta_boxes.php:886
+msgid "Start Date"
+msgstr "Data de Início"
+
+#: custom_meta_boxes.php:887 custom_meta_boxes.php:899
+msgid "Date from which Event Begins"
+msgstr "Data a partir da qual evento começa"
+
+#: custom_meta_boxes.php:892
+msgid "End Date"
+msgstr "Data Final"
+
+#: custom_meta_boxes.php:893 custom_meta_boxes.php:905
+msgid "Date on which Event ends."
+msgstr "Data em que evento termina."
+
+#: custom_meta_boxes.php:898
+msgid "Start Time"
+msgstr "Hora de Início"
+
+#: custom_meta_boxes.php:904
+msgid "End Time"
+msgstr "Hora Término"
+
+#: custom_meta_boxes.php:910
+msgid "Show Location"
+msgstr "Mostrar Localização"
+
+#: custom_meta_boxes.php:911
+msgid "Show Location and Google map with the event"
+msgstr "Mostrar Localização e mapa do Google com o evento"
+
+#: custom_meta_boxes.php:924
+msgid "Location of event"
+msgstr "Localização do evento"
+
+#: custom_meta_boxes.php:929
+msgid "Additional Information"
+msgstr "Informações Adicionais"
+
+#: custom_meta_boxes.php:930
+msgid "Point wise Additional Information regarding the event"
+msgstr "Aponte sábias informações adicionais sobre o evento"
+
+#: custom_meta_boxes.php:935
+msgid "More Information"
+msgstr "Mais Informações"
+
+#: custom_meta_boxes.php:936
+msgid "Supports HTML and shortcodes"
+msgstr "Suporta HTML e shortcodes"
+
+#: custom_meta_boxes.php:941
+msgid "All Day"
+msgstr "Dia Todo"
+
+#: custom_meta_boxes.php:942
+msgid "An all Day event"
+msgstr "Um evento de dia inteiro"
+
+#: custom_meta_boxes.php:954
+msgid "Private Event"
+msgstr "Evento Privado"
+
+#: custom_meta_boxes.php:955
+msgid "Only Invited participants can see the Event"
+msgstr "Apenas os participantes convidados podem ver o evento"
+
+#: custom_meta_boxes.php:972
+msgid "Associated Product for Event Access"
+msgstr "Produtos associados para o Acesso ao Evento"
+
+#: custom_meta_boxes.php:973
+msgid "Purchase of this product grants Event access to the member."
+msgstr "A compra deste produto concede acesso ao Evento ao membro."
+
+#: custom_meta_boxes.php:984
+msgid "From"
+msgstr "A partir de"
+
+#: custom_meta_boxes.php:985 custom_meta_boxes.php:991
+msgid "Date on which Payment was done."
+msgstr "Data em que o pagamento foi feito."
+
+#: custom_meta_boxes.php:990
+msgid "To"
+msgstr "Para"
+
+#: custom_meta_boxes.php:996
+msgid "Instructor and Commissions"
+msgstr "Professor e Comissões"
+
+#: custom_meta_boxes.php:997
+msgid "Instructor commissions"
+msgstr "Comissões do Professor"
+
+#: custom_meta_boxes.php:1006
+msgid "Background Image/Pattern"
+msgstr "Imagem de Fundo/Pattern"
+
+#: custom_meta_boxes.php:1007
+msgid "Add background image"
+msgstr "Adicionar imagem de fundo"
+
+#: custom_meta_boxes.php:1012
+msgid "Enable Print & PDF"
+msgstr "Ativar Impressão & PDF"
+
+#: custom_meta_boxes.php:1013
+msgid ""
+"Displays a Print and Download as PDF Button on top right corner of "
+"certificate"
+msgstr ""
+"Exibe uma impressão e Download como PDF botão no canto superior direito do "
+"certificado"
+
+#: custom_meta_boxes.php:1025
+msgid "Certificate Width"
+msgstr "Largura do certificado"
+
+#: custom_meta_boxes.php:1026
+msgid "Add certificate width"
+msgstr "Adicionar largura certificado"
+
+#: custom_meta_boxes.php:1031
+msgid "Certificate Height"
+msgstr "Altura do certificado"
+
+#: custom_meta_boxes.php:1032
+msgid "Add certificate height"
+msgstr "Adicionar a altura do certificado"
+
+#: custom_meta_boxes.php:1037 custom_meta_boxes.php:1198
+msgid "Custom Class"
+msgstr "Custom Class"
+
+#: custom_meta_boxes.php:1038
+msgid "Add Custom Class over Certificate container."
+msgstr "Adicionar classe personalizada sobre recipiente do Certificate."
+
+#: custom_meta_boxes.php:1043
+msgid "Custom CSS"
+msgstr "CSS Personalizado"
+
+#: custom_meta_boxes.php:1044
+msgid "Add Custom CSS for Certificate."
+msgstr "Adicionar Custom CSS para Certificado."
+
+#: custom_meta_boxes.php:1049
+msgid "NOTE:"
+msgstr "NOTA:"
+
+#: custom_meta_boxes.php:1050
+msgid ""
+" USE FOLLOWING SHORTCODES TO DISPLAY RELEVANT DATA : <br />1. "
+"<strong>[certificate_student_name]</strong> : Displays Students Name<br />2. "
+"<strong>[certificate_course]</strong> : Displays Course Name<br />3. "
+"<strong>[certificate_student_marks]</strong> : Displays Students Marks in "
+"Course<br />4. <strong>[certificate_student_date]</strong>: Displays date on "
+"which Certificate was awarded to the Student<br />5. "
+"<strong>[certificate_student_email]</strong>: Displays registered email of "
+"the Student<br />6. <strong>[certificate_code]</strong>: Generates unique "
+"code for Student which can be validated from Certificate page.<br />7. "
+"<strong>[course_completion_date]</strong>: Displays course completion date "
+"from course activity."
+msgstr ""
+" UTILIZAR A SEGUINTE SHORTCODES PARA EXIBIR DADOS RELEVANTE : <br />1. "
+"<strong>[certificate_student_name]</strong> : Displays Students Name<br />2. "
+"<strong>[certificate_course]</strong> : Displays Course Name<br />3. "
+"<strong>[certificate_student_marks]</strong> : Displays Students Marks in "
+"Course<br />4. <strong>[certificate_student_date]</strong>: Displays date on "
+"which Certificate was awarded to the Student<br />5. "
+"<strong>[certificate_student_email]</strong>: Displays registered email of "
+"the Student<br />6. <strong>[certificate_code]</strong>: Generates unique "
+"code for Student which can be validated from Certificate page."
+
+#: custom_meta_boxes.php:1063
+msgid "Assignment Sub-Title"
+msgstr "Subtítulo Tarefa"
+
+#: custom_meta_boxes.php:1064
+msgid "Assignment Sub-Title."
+msgstr "Subtítulo Tarefa"
+
+#: custom_meta_boxes.php:1077
+msgid "Assignment Maximum Marks"
+msgstr "Nota Máximo Tarefa"
+
+#: custom_meta_boxes.php:1078
+msgid "Set Maximum marks for the assignment"
+msgstr "Definir nota máxima para a tarefa"
+
+#: custom_meta_boxes.php:1084
+#, fuzzy, php-format
+msgid "Assignment Maximum Time limit %s"
+msgstr "Limite Tempo Máximo Tarefa"
+
+#: custom_meta_boxes.php:1085
+msgid "Set Maximum Time limit for Assignment ( in "
+msgstr "Definir prazo máximo para tarefa ( em "
+
+#: custom_meta_boxes.php:1091
+#, fuzzy
+msgid "Assignment Duration parameter"
+msgstr "Avaliação da Tarefa"
+
+#: custom_meta_boxes.php:1098
+msgid "Include in Course Evaluation"
+msgstr "Incluir na Avaliação do Curso"
+
+#: custom_meta_boxes.php:1099
+msgid "Include assignment marks in Course Evaluation"
+msgstr "Inclui notas na Avaliação do Curso"
+
+#: custom_meta_boxes.php:1111
+msgid "Include in Course"
+msgstr "Inclua no Curso"
+
+#: custom_meta_boxes.php:1112
+msgid "Assignments marks will be shown/used in course evaluation"
+msgstr "Notas serão mostradas/utilizado em avaliação do curso"
+
+#: custom_meta_boxes.php:1119
+msgid "Assignment Submissions"
+msgstr "Trabalhos Enviados"
+
+#: custom_meta_boxes.php:1120
+msgid "Select type of assignment submissions"
+msgstr "Selecione o tipo de trabalhos enviados"
+
+#: custom_meta_boxes.php:1130
+msgid "Attachment Type"
+msgstr "Tipo de Anexo"
+
+#: custom_meta_boxes.php:1131
+msgid "Select valid attachment types "
+msgstr "Selecione tipos de anexos válidos"
+
+#: custom_meta_boxes.php:1172
+msgid "Attachment Size (in MB)"
+msgstr "Tamanho do Anexo (em MB)"
+
+#: custom_meta_boxes.php:1173
+msgid "Set Maximum Attachment size for upload ( set less than "
+msgstr "Defina o tamanho máximo de anexo para upload (configure menos de"
+
+#: custom_meta_boxes.php:1184
+msgid "Width (in px)"
+msgstr "Largura (em px)"
+
+#: custom_meta_boxes.php:1185
+msgid "Set Maximum width of popup"
+msgstr "Defina a largura máxima de popup"
+
+#: custom_meta_boxes.php:1191
+msgid "Height (in px)"
+msgstr "Altura (em px)"
+
+#: custom_meta_boxes.php:1192
+msgid "Set Maximum height of popup "
+msgstr "Defina a autura máxima de popup"
+
+#: custom_meta_boxes.php:1199
+msgid "Add custom class to popup "
+msgstr "Adicionar classe personalizada para popup "
+
+#: custom_meta_boxes.php:1205
+msgid "Add Custom CSS"
+msgstr "Adicionar CSS Customizado"
+
+#: custom_meta_boxes.php:1206
+msgid "Custom CSS for Popup"
+msgstr "CSS personalizado para Popup"
+
+#: custom_meta_boxes.php:1237
+msgid "Connect this question to a course"
+msgstr "Conecte esta questão a um curso"
+
+#: custom_meta_boxes.php:1243
+msgid "Connected Unit"
+msgstr "Aula Conectado"
+
+#: custom_meta_boxes.php:1244
+msgid "Connect this question to a Unit"
+msgstr "Conecte esta questão a uma Aula"
+
+#: custom_meta_boxes.php:1252
+msgid "Post Settings"
+msgstr "Configurações do Post"
+
+#: custom_meta_boxes.php:1253
+msgid "Page Settings"
+msgstr "Configurações da Página"
+
+#: custom_meta_boxes.php:1255
+msgid "Course Settings"
+msgstr "Configurações do Curso"
+
+#: custom_meta_boxes.php:1257
+msgid "Course Product"
+msgstr "Produto do Curso"
+
+#: custom_meta_boxes.php:1259
+msgid "Course Membership"
+msgstr "Membros do Curso"
+
+#: custom_meta_boxes.php:1262
+msgid "Unit Settings"
+msgstr "Configurações da Lição"
+
+#: custom_meta_boxes.php:1264
+msgid "Question Settings"
+msgstr "Configurações da Pergunta"
+
+#: custom_meta_boxes.php:1265
+msgid "Quiz Settings"
+msgstr "Configurações do Teste"
+
+#: custom_meta_boxes.php:1270
+msgid "Testimonial Author Information"
+msgstr "Informações Autor Depoimento"
+
+#: custom_meta_boxes.php:1271
+msgid "Payments Settings"
+msgstr "Configurações do Pagamento"
+
+#: custom_meta_boxes.php:1272
+msgid "Certificate Template Settings"
+msgstr "Configurações do Modelo de Certificado"
+
+#: custom_meta_boxes.php:1273
+msgid "Popup Settings"
+msgstr "Configurações do Popup"
+
+#: custom_meta_boxes.php:1279
+msgid "Product Course Settings"
+msgstr "Configurações do Produto do Curso"
+
+#: custom_meta_boxes.php:1284
+msgid "WPLMS Events Settings"
+msgstr "Configurações dos Eventos WPLMS"
+
+#: custom_meta_boxes.php:1289
+msgid "WPLMS Assignments Settings"
+msgstr "Configurações das Atribuições WPLMS"
+
+#: custom_meta_boxes.php:1299
+msgid "Page Builder"
+msgstr "Construtor de Página"
+
+#: includes/class.export.php:11 includes/statistics.php:750
+msgid "Select Module"
+msgstr "Selecionar Módulo"
+
+#: includes/class.export.php:21
+msgid "Select a WPLMS Module Type"
+msgstr "Selecione um Tipo de Módulo WPLMS"
+
+#: includes/class.export.php:24
+msgid "Set Taxonomy"
+msgstr "Configurar Taxonomia"
+
+#: includes/class.export.php:26 includes/class.export.php:33
+#: includes/class.export.php:40 metaboxes/library/vibe-editor.php:662
+msgid "All"
+msgstr "Tudo"
+
+#: includes/class.export.php:28 includes/class.export.php:35
+msgid "Optional"
+msgstr "Opcional"
+
+#: includes/class.export.php:31
+msgid "Set Taxonomy Term"
+msgstr "Configurar Termo da Taxonomia"
+
+#: includes/class.export.php:38
+msgid "Specific Module/s Ids"
+msgstr "Módulo/s Ids Específicos"
+
+#: includes/class.export.php:42
+msgid "Optional, Enter comma saperated modules for more than one module"
+msgstr "Opcional, insira vírgula separando módulos para mais de um módulo"
+
+#: includes/class.export.php:45
+msgid "Export content"
+msgstr "Exportar conteúdo"
+
+#: includes/class.export.php:48
+msgid "Export content of the module"
+msgstr "Exportar conteúdo do módulo"
+
+#: includes/class.export.php:51
+msgid "Export Settings"
+msgstr "Exportar Configurações"
+
+#: includes/class.export.php:54
+msgid "Export module settings"
+msgstr "Exportar Configurações do Módulo"
+
+#: includes/class.export.php:57
+msgid "Export Taxonomies"
+msgstr "Exportar taxonomias"
+
+#: includes/class.export.php:60
+msgid "Optional taxonomies and relationships"
+msgstr "Taxonomias e relacionamentos opcionais"
+
+#: includes/class.export.php:63
+msgid "Export Comments"
+msgstr "Exportar Comentários"
+
+#: includes/class.export.php:66
+msgid "Exports reviews for courses, Answers for Questions and Assignments"
+msgstr "Exportar comentários para cursos, respostas para perguntas e tarefas"
+
+#: includes/class.export.php:69
+msgid "Export connected modules"
+msgstr "Exportar Módulos Conectados"
+
+#: includes/class.export.php:72
+msgid ""
+"Export connected modules, like units,quizzes,assignments with courses, "
+"questions with quizzes etc."
+msgstr ""
+"Exportar módulos conectado, como aulas, testes, tarefas dos cursos, "
+"perguntas dos testes etc."
+
+#: includes/class.export.php:75
+msgid "Export Users"
+msgstr "Exportar Usuários"
+
+#: includes/class.export.php:78
+msgid "Export user profiles"
+msgstr "Exportar perfil dos usuários"
+
+#: includes/class.export.php:81
+msgid "Export Connected User data"
+msgstr "Exportar Dados dos Usuários Conectado"
+
+#: includes/class.export.php:84
+msgid "Export user statuses for module/sub-modules"
+msgstr "Exportar estado dos usuários por módulo/sub-módulos"
+
+#: includes/class.export.php:87
+msgid "Start Point"
+msgstr "Ponto de Início"
+
+#: includes/class.export.php:91
+msgid "Starting Key count for module, recommended for larger exports"
+msgstr ""
+"Começando contagem chave para o módulo, recomendado para maiores exportações"
+
+#: includes/class.export.php:94
+msgid "Number of Modules"
+msgstr "Número de Módulos"
+
+#: includes/class.export.php:98
+msgid "Maximum number of modules to import"
+msgstr "Número máximo de módulos a importar"
+
+#: includes/class.export.php:137
+msgid "Generate Export File"
+msgstr "Gerar arquivo de exportação"
+
+#: includes/class.export.php:139
+msgid "Download Export File"
+msgstr "Download arquivo de exportação"
+
+#: includes/class.export.php:188 includes/class.export.php:226
+#: includes/class.export.php:372
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/class.export.php:189 includes/class.export.php:227
+#: includes/tips.php:1894
+msgid "Title"
+msgstr "Título"
+
+#: includes/class.export.php:190 includes/class.export.php:228
+#: includes/class.export.php:374
+msgid "Date"
+msgstr "Data"
+
+#: includes/class.export.php:191 includes/class.export.php:229
+#: includes/class.export.php:373 metaboxes/library/vibe-editor.php:1861
+#: metaboxes/library/vibe-editor.php:1864
+#: metaboxes/library/vibe-editor.php:1905
+#: metaboxes/library/vibe-editor.php:2007
+msgid "Content"
+msgstr "Conteúdo"
+
+#: includes/class.export.php:192 includes/class.export.php:230
+#: includes/class.export.php:376
+msgid "Author ID"
+msgstr "ID do Autor"
+
+#: includes/class.export.php:193 includes/class.export.php:231
+msgid "Excerpt"
+msgstr "Trecho"
+
+#: includes/class.export.php:194 includes/class.export.php:232
+msgid "Status"
+msgstr "Status"
+
+#: includes/class.export.php:195 includes/class.export.php:233
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/class.export.php:196 includes/class.export.php:234
+msgid "Review/Note/Answer Count"
+msgstr "Revisão/Obs/Resposta Contagem"
+
+#: includes/class.export.php:265
+msgid "Terms"
+msgstr "Termos"
+
+#: includes/class.export.php:278
+msgid "User Details"
+msgstr "Detalhes do Usuário"
+
+#: includes/class.export.php:371
+msgid "Connected Post"
+msgstr "Post Conectado"
+
+#: includes/class.export.php:375
+msgid "Parent ID"
+msgstr "Parent ID"
+
+#: includes/class.export.php:378
+msgid "Author Email"
+msgstr "E-mail do Autor"
+
+#: includes/class.export.php:481
+msgid "User Timestamp"
+msgstr "Usar horário local"
+
+#: includes/class.export.php:484
+msgid "User status"
+msgstr "Status do usuário"
+
+#: includes/class.import.php:8
+msgid "IMPORT SETTINGS"
+msgstr "CONFIGURAÇÕES IMPORTANTES"
+
+#: includes/class.import.php:10
+#, php-format
+msgid "Select File to upload [ Maximum upload size %s MB(s) ]"
+msgstr "Selecione Arquivo para upload [Tamanho máximo de upload %s MB(s) ]"
+
+#: includes/class.import.php:12
+msgid "Upload File"
+msgstr "Upload Arquivo"
+
+#: includes/class.import.php:27
+msgid "Invalid parameters."
+msgstr "Parâmetros inválidos."
+
+#: includes/class.import.php:35
+msgid "No file sent."
+msgstr "Nenhum arquivo enviado."
+
+#: includes/class.import.php:38 includes/class.import.php:45
+msgid "Exceeded filesize limit."
+msgstr "Limite de tamanho do arquivo excedido."
+
+#: includes/class.import.php:40
+msgid "Unknown errors."
+msgstr "Erro desconhecido."
+
+#: includes/class.import.php:58
+msgid "Invalid file format."
+msgstr "Formato do arquivo inválido."
+
+#: includes/class.import.php:62
+msgid "Import Complete"
+msgstr "Importação completada"
+
+#: includes/class.import.php:64
+msgid "Import Failed"
+msgstr "Erro de importação"
+
+#: includes/class.import.php:239
+msgid "Unable to Create user"
+msgstr "Não é possível criar usuário"
+
+#: includes/errorhandle.php:19
+msgid "Unknown error."
+msgstr "Erro desconhecido."
+
+#: includes/errorhandle.php:26
+msgid "Please save the changes again."
+msgstr "Por favor, salve as alterações novamente."
+
+#: includes/errorhandle.php:27
+msgid "Some Uknown issue appeared, please contact us."
+msgstr ""
+"Algumas questões desconhecidas apareceram, por favor, entre em contato "
+"conosco."
+
+#: includes/errorhandle.php:28
+msgid "Please save the Page Builder changes !"
+msgstr "Por favor, salve as alterações do construtor de página!"
+
+#: includes/errorhandle.php:29
+msgid "Requested Slider was not found, Please check slider post id !"
+msgstr ""
+"Requerido Slider mas não foi encontrado, por favor verifique slider post id !"
+
+#: includes/errorhandle.php:30
+msgid "No Posts Id's found in given Custom Post Type."
+msgstr ""
+"Nenhum Posts Id's encontrado no determinado tipo personalizado de post."
+
+#: includes/errorhandle.php:31
+msgid "Author Information missing."
+msgstr "Falta informação do autor."
+
+#: includes/errorhandle.php:32
+msgid "You do not have permission to do that."
+msgstr "Você não tem permissão para fazer isso."
+
+#: includes/errorhandle.php:33
+msgid "Unable to get tweets from Twitter !"
+msgstr "Não foi possível obter os tweets do Twitter!"
+
+#: includes/errorhandle.php:34
+msgid "No public tweets found on Twitter !"
+msgstr "Nenhum tweets público encontrado no Twitter!"
+
+#: includes/errorhandle.php:35
+msgid "Term : Taxonomy Mismatch: Selected Term does not exist in Taxonomy !"
+msgstr ""
+"Termo: Taxonomia Discordância: O Termo selecionado não existe em Taxonomia!"
+
+#: includes/errorhandle.php:36
+msgid ""
+"Post Type : Taxonomy Mismatch: Selected Taxonomy does not exist in Post "
+"Type !"
+msgstr ""
+"Tipo de post: Taxonomia em Discordância: Taxonomia Selecionado não existe "
+"neste tipo de Post!"
+
+#: includes/errorhandle.php:37
+msgid "Featured Component does not Exist !"
+msgstr "O componente em destaque não existe!"
+
+#: includes/errorhandle.php:38
+msgid "Incorrect or Incompatible Audio Format !"
+msgstr "Formato de áudio incorreto ou incompatível!"
+
+#: includes/errorhandle.php:39
+msgid "Incorrect or Incompatible Video Embed Code !"
+msgstr "Código Embed do Vídeo incorreto ou incompatível!"
+
+#: includes/errorhandle.php:40
+msgid "Modal ID Incorrect, please recheck !"
+msgstr "Modal ID incorreta, por favor, verifique novamente!"
+
+#: includes/errorhandle.php:41
+msgid "Testimonial ID Incorrect, please recheck !"
+msgstr "Testimonial ID incorreta, por favor, verifique novamente!"
+
+#: includes/errorhandle.php:42
+msgid "Post ID Incorrect, please recheck !"
+msgstr "Post ID incorreta, por favor, verifique novamente!"
+
+#: includes/errorhandle.php:55 metaboxes/meta_box.php:286
+msgid "Seconds"
+msgstr "Segundos"
+
+#: includes/errorhandle.php:56 metaboxes/meta_box.php:287
+msgid "Minutes"
+msgstr "Minutos"
+
+#: includes/errorhandle.php:57 metaboxes/meta_box.php:288
+msgid "Hours"
+msgstr "Horas"
+
+#: includes/errorhandle.php:58 metaboxes/meta_box.php:289
+msgid "Days"
+msgstr "Dias"
+
+#: includes/errorhandle.php:59 metaboxes/meta_box.php:290
+msgid "Weeks"
+msgstr "Semanas"
+
+#: includes/errorhandle.php:60 metaboxes/meta_box.php:291
+msgid "Months"
+msgstr "Meses"
+
+#: includes/errorhandle.php:61
+msgid "Years"
+msgstr "Anos"
+
+#: includes/featured.php:8
+msgid "Read more"
+msgstr "Leia mais"
+
+#: includes/featured.php:126
+msgid "REVIEWS"
+msgstr "COMENTÁRIOS"
+
+#: includes/featured.php:168
+#, fuzzy, php-format
+msgid "Course Author %s"
+msgstr "Categoria do Curso"
+
+#: includes/featured.php:207
+#, fuzzy
+msgid "Course Author"
+msgstr "Fórum do Curso"
+
+#: includes/featured.php:317 includes/featured.php:526
+msgid " Comments"
+msgstr " Comentários"
+
+#: includes/featured.php:412
+msgid "Event "
+msgstr "Evento "
+
+#: includes/featured.php:417
+msgid "Start Date "
+msgstr "Data Início "
+
+#: includes/featured.php:420
+msgid "End Date "
+msgstr "Data Final "
+
+#: includes/featured.php:424
+msgid "Start Time "
+msgstr "Hora Início "
+
+#: includes/featured.php:427
+msgid "End Time "
+msgstr "Hora Término "
+
+#: includes/featured.php:430
+msgid "All Day "
+msgstr "Dia Todo"
+
+#: includes/featured.php:430 includes/musettings.php:1237
+#: includes/musettings.php:1241 includes/musettings.php:1245
+#: includes/musettings.php:1253 includes/musettings.php:1257
+#: includes/musettings.php:1261 includes/musettings.php:1272
+#: includes/musettings.php:1276 includes/musettings.php:1280
+#: includes/musettings.php:1288 includes/musettings.php:1292
+#: includes/musettings.php:1296 includes/musettings.php:1910
+#: includes/musettings.php:1950 metaboxes/library/vibe-editor.php:1403
+#: metaboxes/library/vibe-editor.php:2051
+msgid "Yes"
+msgstr "Sim"
+
+#: includes/featured.php:433
+msgid "Frequency "
+msgstr "Frequência "
+
+#: includes/featured.php:433
+msgid "Every "
+msgstr "Cada "
+
+#: includes/featured.php:433
+msgid "for "
+msgstr "para"
+
+#: includes/featured.php:436
+msgid "Venue "
+msgstr "Base"
+
+#: includes/featured.php:439
+msgid "View full details"
+msgstr "Veja todos os detalhes"
+
+#: includes/musettings.php:97
+#, fuzzy
+msgid "Commissions"
+msgstr "Configurar Comissões"
+
+#: includes/musettings.php:98
+#, fuzzy
+msgid "Functions"
+msgstr "Funções Admin"
+
+#: includes/musettings.php:99
+msgid "Import/Export"
+msgstr "Importar/Exportar"
+
+#: includes/musettings.php:100
+msgid "Touch Points"
+msgstr "Pontos de contato"
+
+#: includes/musettings.php:101
+msgid "Emails"
+msgstr "Emails"
+
+#: includes/musettings.php:102
+msgid "AddOns"
+msgstr ""
+
+#: includes/musettings.php:203
+msgid "Settings Saved"
+msgstr "Configurações Salvas"
+
+#: includes/musettings.php:205
+msgid "Unable to Save settings"
+msgstr "Não foi possível salvar as configurações"
+
+#: includes/musettings.php:211
+msgid "LMS General Settings"
+msgstr "Configurações Gerais do LMS"
+
+#: includes/musettings.php:212 includes/musettings.php:1014
+msgid "Import LMS functions can be managed from here."
+msgstr ""
+
+#: includes/musettings.php:215
+#, fuzzy
+msgid "General Settings"
+msgstr "Configurações Gerais"
+
+#: includes/musettings.php:216 includes/musettings.php:727
+msgid "Registration Forms"
+msgstr ""
+
+#: includes/musettings.php:238
+msgid "User Login & Registration Settings"
+msgstr ""
+
+#: includes/musettings.php:242
+msgid "Student Login redirect"
+msgstr "Redirecionamento do aluno ao logar"
+
+#: includes/musettings.php:247 includes/musettings.php:261
+#: includes/tips.php:943
+msgid "Disable"
+msgstr "Desativar"
+
+#: includes/musettings.php:248 includes/musettings.php:262
+msgid "Home page"
+msgstr "Home page"
+
+#: includes/musettings.php:249 includes/musettings.php:263
+msgid "Profile page"
+msgstr "perfil da página"
+
+#: includes/musettings.php:250 includes/musettings.php:264
+msgid "My Courses page"
+msgstr "Minha Página do Curso"
+
+#: includes/musettings.php:251 includes/musettings.php:266
+msgid "Dashboard page"
+msgstr "Página do painel de controle"
+
+#: includes/musettings.php:252 includes/musettings.php:267
+msgid "Same page"
+msgstr "Mesma página"
+
+#: includes/musettings.php:254 includes/musettings.php:269
+msgid "Default is home page"
+msgstr "O padrão é home page"
+
+#: includes/musettings.php:257
+msgid "Instructor Login redirect"
+msgstr "Redirecionamento do Professor ao se logar"
+
+#: includes/musettings.php:265
+msgid "Instructing Courses page"
+msgstr "Página do Professor"
+
+#: includes/musettings.php:272
+msgid "Enable One session per user"
+msgstr "Ativar uma sessão por usuário"
+
+#: includes/musettings.php:275
+msgid "A User can login from one unique user id (excludes administrators)"
+msgstr ""
+"Um usuário pode acessar a partir de um ID de usuário único (exclui os "
+"administradores)"
+
+#: includes/musettings.php:278
+msgid "Hide Administrators in Instructors"
+msgstr "Esconder Administradores nos Professores"
+
+#: includes/musettings.php:281
+msgid "Hide Administrator in all instructors page & elsewhere"
+msgstr ""
+"Ocultar Administrator em todos página dos professores e em outros lugares"
+
+#: includes/musettings.php:284
+msgid "Enable message to Instructor in Course Page"
+msgstr "Ativar mensagem para professor na Página do Curso"
+
+#: includes/musettings.php:287
+#, fuzzy, php-format
+msgid ""
+"Enables a Message icon to send message to Instructor, see %s tutorial %s"
+msgstr "Permite um ícone de Mensagem para enviar mensagem para Instrutor"
+
+#: includes/musettings.php:290
+msgid "Enable Create course button in instructor profile menu"
+msgstr ""
+
+#: includes/musettings.php:292
+msgid "Adds a create course link in intructor profile menu"
+msgstr ""
+
+#: includes/musettings.php:296
+msgid "Show WooCommerce/Pmpro account in profile"
+msgstr "Mostrar conta perfil no WooCommerce/PMPro"
+
+#: includes/musettings.php:298
+msgid "Display WooCommerce account in profile"
+msgstr "Mostrar conta do perfil no WooCommerce"
+
+#: includes/musettings.php:302
+msgid "Set a terms and conditions page for BuddyPress registration"
+msgstr ""
+
+#: includes/musettings.php:306
+msgid "Set a terms and conditions page in BuddPress registration."
+msgstr ""
+
+#: includes/musettings.php:309
+msgid "Enable Student menus"
+msgstr "Habilitar menus do Aluno"
+
+#: includes/musettings.php:311
+msgid "Adds New menu locations for Students"
+msgstr "Adiciona Novos locais de menu para Estudantes"
+
+#: includes/musettings.php:315
+msgid "Enable Instructor menus"
+msgstr "Habilitar menus do Professor"
+
+#: includes/musettings.php:317
+msgid "Adds New menu locations for Instructors"
+msgstr "Adiciona Novos locais de menu para professores"
+
+#: includes/musettings.php:321
+msgid "Assign Free courses to students on account activation"
+msgstr ""
+
+#: includes/musettings.php:323
+msgid ""
+"Enables auto-subscription to all the \"free\" courses in site to students "
+"when they signup/register and activate their account."
+msgstr ""
+
+#: includes/musettings.php:333
+#, fuzzy
+msgid "Course Home Settings"
+msgstr "Configurações do Curso"
+
+#: includes/musettings.php:337
+#, fuzzy
+msgid "Course Members Visibility"
+msgstr "Membros do Curso"
+
+#: includes/musettings.php:342 includes/musettings.php:355
+#: includes/musettings.php:368 includes/musettings.php:381
+#: includes/musettings.php:394
+#, fuzzy
+msgid "Everyone"
+msgstr "Cada "
+
+#: includes/musettings.php:343 includes/musettings.php:356
+#: includes/musettings.php:369 includes/musettings.php:382
+#: includes/musettings.php:395
+msgid "Logged in Users"
+msgstr ""
+
+#: includes/musettings.php:344 includes/musettings.php:357
+#: includes/musettings.php:370 includes/musettings.php:383
+#: includes/musettings.php:396
+#, fuzzy
+msgid "Course Users"
+msgstr "Código do Curso"
+
+#: includes/musettings.php:345 includes/musettings.php:358
+#: includes/musettings.php:371 includes/musettings.php:384
+#: includes/musettings.php:397
+#, fuzzy
+msgid "Instructors and Admins"
+msgstr "Professor e Comissões"
+
+#: includes/musettings.php:347
+#, fuzzy
+msgid "Set Course/Members Visibility"
+msgstr "Membros do Curso"
+
+#: includes/musettings.php:350
+#, fuzzy
+msgid "Course Curriculum Visibility"
+msgstr "Currículo do Curso"
+
+#: includes/musettings.php:360
+#, fuzzy
+msgid "Set Course/Curriculum Visibility"
+msgstr "Currículo do Curso"
+
+#: includes/musettings.php:363
+msgid "Course Events Visibility"
+msgstr ""
+
+#: includes/musettings.php:373
+msgid "Set Course/Events Visibility"
+msgstr ""
+
+#: includes/musettings.php:376
+msgid "Course Activity Visibility"
+msgstr ""
+
+#: includes/musettings.php:386
+msgid "Set Course/Activity Visibility"
+msgstr ""
+
+#: includes/musettings.php:389
+#, fuzzy
+msgid "Course Drive Visibility"
+msgstr "Categoria do Curso"
+
+#: includes/musettings.php:399
+msgid "Set Course/Drive Visibility"
+msgstr ""
+
+#: includes/musettings.php:402
+#, fuzzy
+msgid "Disable Instructor display in Courses"
+msgstr "Habilitar menus do Professor"
+
+#: includes/musettings.php:405
+msgid "Disables display of instructor in the site. Suitable for 1 instructors"
+msgstr ""
+
+#: includes/musettings.php:408
+msgid "Change Pre-Required Course Condition from submitted to Evaluated"
+msgstr ""
+
+#: includes/musettings.php:411
+msgid ""
+"After enabling this students will have to wait for course evaluation by the "
+"instructor to move on to courses which have pre-requisite course under "
+"evaluation. Default : Students get access on course finish."
+msgstr ""
+
+#: includes/musettings.php:414
+msgid "Hide Members section in Single Course page"
+msgstr "Esconder seção Membros na página Individual do Curso"
+
+#: includes/musettings.php:417
+msgid " Hides member section in course pages"
+msgstr " Oculta seção membro nas páginas do curso"
+
+#: includes/musettings.php:420
+msgid "Show curriculum below Course description"
+msgstr "Mostrar currículo abaixo descrição do Curso"
+
+#: includes/musettings.php:423
+msgid "Show curriculum below course description"
+msgstr "Mostrar currículo abaixo descrição do curso"
+
+#: includes/musettings.php:426
+#, fuzzy
+msgid "Disable Course Certificate image mode"
+msgstr "Certificado do curso"
+
+#: includes/musettings.php:428
+#, php-format
+msgid "Disable course certificate in image mode. %s tutorial %s"
+msgstr ""
+
+#: includes/musettings.php:432
+msgid "Free units should only be accessible to logged in members"
+msgstr ""
+
+#: includes/musettings.php:435
+msgid ""
+"Disable free unit access for the world, only logged in users can view free "
+"units."
+msgstr ""
+
+#: includes/musettings.php:438
+#, fuzzy
+msgid "Course Status Settings"
+msgstr "Configurações do Curso"
+
+#: includes/musettings.php:442
+msgid "Course Timeline Accordion style"
+msgstr "Estilo da linha de tempo do curso"
+
+#: includes/musettings.php:445
+msgid "Show curriculum accordion style"
+msgstr "Mostrar estilo do currículo"
+
+#: includes/musettings.php:448
+msgid "Disable ajax in Course unit load"
+msgstr ""
+
+#: includes/musettings.php:451
+msgid "Ajax disabled in course unit loads"
+msgstr ""
+
+#: includes/musettings.php:454
+#, fuzzy
+msgid "Remove Finished Courses from directory"
+msgstr "Ordem padrão no diretório curso"
+
+#: includes/musettings.php:456
+msgid "Auto remove finished courses from course directory for user"
+msgstr ""
+
+#: includes/musettings.php:460
+msgid "Auto-mark unit complete when user proceeds to next unit"
+msgstr ""
+
+#: includes/musettings.php:462
+msgid ""
+"Hides \"Mark Unit Complete\" button and auto marks the unit as completed "
+"when user proceeds to next unit."
+msgstr ""
+
+#: includes/musettings.php:466
+#, fuzzy
+msgid "Skip Course status page"
+msgstr "Minha Página do Curso"
+
+#: includes/musettings.php:468
+msgid ""
+"Skip the introductory page, course status description on course start or "
+"continue"
+msgstr ""
+
+#: includes/musettings.php:472
+#, fuzzy
+msgid "Course Pricing Settings"
+msgstr "Configurações do Curso"
+
+#: includes/musettings.php:476
+msgid "Coming soon courses"
+msgstr "Cursos em breve"
+
+#: includes/musettings.php:478
+msgid "Enable coming soon option for courses"
+msgstr "Habilitar em breve a opção para cursos"
+
+#: includes/musettings.php:482
+msgid "Enable Course Codes"
+msgstr "Habilitar Códigos do Curso"
+
+#: includes/musettings.php:484
+#, fuzzy
+msgid ""
+"Student can purchase/access courses by using custom defined codes for "
+"courses in course pricing section. Requires BuddyPress Activity."
+msgstr ""
+"Estudante pode comprar/acessar cursos de acesso usando códigos "
+"personalizados definidos para cursos na seção de preços curso"
+
+#: includes/musettings.php:488
+#, fuzzy
+msgid "Enable Course external link"
+msgstr "Habilitar E-mail o curso expirar"
+
+#: includes/musettings.php:490
+msgid ""
+"Connect \"Take this Course\" button with an external link, defined in Course "
+"Pricing section."
+msgstr ""
+
+#: includes/musettings.php:494
+msgid "Disable Auto allocation of Free courses"
+msgstr "Desativar Auto alocação de cursos gratuitos"
+
+#: includes/musettings.php:496
+msgid "Disables auto allocation of free courses"
+msgstr "Desativado Auto alocação de cursos gratuitos"
+
+#: includes/musettings.php:500
+#, fuzzy
+msgid "Drip Settings"
+msgstr "Configurações da Lição"
+
+#: includes/musettings.php:505
+#, fuzzy
+msgid "Enable Unit Time as Drip Duration"
+msgstr "Ativar Aula/Questionário Iniciar Data tempo"
+
+#: includes/musettings.php:507
+#, fuzzy
+msgid "Drip feed is applied based on specified Unit time."
+msgstr "Feed de gotejamento é aplicado seção sábia em vez de unidade sábia."
+
+#: includes/musettings.php:511
+msgid "Enable Section Drip feed"
+msgstr "Permitir gotejamento seção alimentação"
+
+#: includes/musettings.php:513
+msgid "Drip feed is applied section wise instead of unit wise."
+msgstr "Feed de gotejamento é aplicado seção sábia em vez de unidade sábia."
+
+#: includes/musettings.php:519
+#, fuzzy
+msgid "Unit settings"
+msgstr "Configurações da Lição"
+
+#: includes/musettings.php:524
+#, fuzzy
+msgid "Show Unit Description in Course curriculum"
+msgstr "Mostrar as atribuições no currículo do curso"
+
+#: includes/musettings.php:527
+msgid "Unit descriptions appear below Unit titles in Course curriculum"
+msgstr ""
+
+#: includes/musettings.php:531
+msgid "Show User progress in Course Admin"
+msgstr "Mostrar o progresso do usuário na administração do Curso"
+
+#: includes/musettings.php:534
+msgid ""
+"Small progress bar is displayed for every user below her name in course -> "
+"admin section"
+msgstr ""
+"Pequeno barra de progresso é exibida para cada usuário abaixo de seu nome em "
+"curso ->; seção de administração, * requer WPLMS Dashboards plugin & Course "
+"Widget progress bar dashboard widget."
+
+#: includes/musettings.php:537
+msgid "Enable Unit/Quiz Start Date time"
+msgstr "Ativar Aula/Questionário Iniciar Data tempo"
+
+#: includes/musettings.php:540
+msgid "Units and Quizzes start at a particular date and time"
+msgstr "Aulas e Testes começam em uma determinada data e hora"
+
+#: includes/musettings.php:545
+#, fuzzy
+msgid "Unit Comments/Notes"
+msgstr " Comentários"
+
+#: includes/musettings.php:547
+msgid ""
+"Enable Unit Comments only where Unit comments are enabled in post settings."
+msgstr ""
+
+#: includes/musettings.php:552
+#, fuzzy
+msgid "Quiz/Assignment Settings"
+msgstr "Configurações das Atribuições WPLMS"
+
+#: includes/musettings.php:556
+msgid "Enable In-Course Quiz"
+msgstr "Habilitar Teste No-Curso"
+
+#: includes/musettings.php:559
+msgid "Quizzes open inside course like units"
+msgstr "Testes abrir dentro curso como Aulas "
+
+#: includes/musettings.php:562
+msgid "In-Course Quiz questions per page"
+msgstr "No-Curso perguntas do questionário por página"
+
+#: includes/musettings.php:565
+msgid "set number of questions appearing per page in in-course quizzes"
+msgstr ""
+"definir o número de questões que aparecem por página em quizzes em-curso"
+
+#: includes/musettings.php:568
+msgid "Enable passing score for Quiz"
+msgstr "Habilitar Pontuação para passar na prova"
+
+#: includes/musettings.php:570
+msgid ""
+"Set a passing score for every quiz, Student progress to next unit/quiz is "
+"restricted if user fails in quiz"
+msgstr ""
+
+#: includes/musettings.php:574
+msgid "Force Quiz availability to Course students"
+msgstr ""
+
+#: includes/musettings.php:576
+msgid ""
+"Only Course students can take the quiz. Quiz must be connected to the course "
+"in quiz settings."
+msgstr ""
+
+#: includes/musettings.php:580
+msgid "Hide correct answers"
+msgstr "Ocultar respostas correctas"
+
+#: includes/musettings.php:582
+msgid ""
+"Correct answers in quizzes are not displayed unless student has finished/"
+"submitted the course."
+msgstr ""
+"Respostas corretas em questionários não são exibidas, a menos que o aluno "
+"terminou/apresentou o curso."
+
+#: includes/musettings.php:586
+msgid "Enable negative marking"
+msgstr "Activar a marcação negativa"
+
+#: includes/musettings.php:588
+msgid "Enables negative marking for questions in quizzes"
+msgstr "Permite marcação negativa para perguntas em quizzes"
+
+#: includes/musettings.php:592
+msgid "Show Assignments in Course Curriculum"
+msgstr "Mostrar as atribuições no currículo do curso"
+
+#: includes/musettings.php:594
+msgid "Assignments will be displayed in Course Curriculum"
+msgstr "Atribuições serão exibidas no currículo do curso"
+
+#: includes/musettings.php:598
+msgid "Display Submission time in Course/Quiz/Assignment submissions"
+msgstr ""
+
+#: includes/musettings.php:601
+msgid ""
+"Displays time (eg 2 hrs) with manual submissions, * requires activity to be "
+"enabled"
+msgstr ""
+
+#: includes/musettings.php:604
+#, fuzzy
+msgid "Front End Settings"
+msgstr "Configurações do Post"
+
+#: includes/musettings.php:608
+msgid "Force Administrator Approval on every setting"
+msgstr ""
+
+#: includes/musettings.php:610
+msgid ""
+"Instructors courses will go to pending mode when settings/pricing/curriculum "
+"is saved. *Requires Admin Approval enabled in WPLMS - Course Manager"
+msgstr ""
+
+#: includes/musettings.php:614
+msgid "Enable Front end course deletion"
+msgstr "Ativar Deletar curso no Front End"
+
+#: includes/musettings.php:616
+msgid ""
+"Instructors will be able to delete course and related content from front end"
+msgstr "Os professores serão capazes de apagar curso e conteúdo do Frontend"
+
+#: includes/musettings.php:621
+#, fuzzy
+msgid "Miscellaneous Settings"
+msgstr "Configurações do Curso"
+
+#: includes/musettings.php:625
+msgid "Revert pretty permalinks for Courses"
+msgstr ""
+
+#: includes/musettings.php:628
+msgid "Revert permalinks from coursname/admin to coursename/?action-"
+msgstr ""
+
+#: includes/musettings.php:632
+msgid "Enable Course forum privacy"
+msgstr "Habilitar Privacidade de fórum do curso"
+
+#: includes/musettings.php:634
+msgid "Only course students can access course forums"
+msgstr "Só curso, os alunos podem acessar fóruns do curso"
+
+#: includes/musettings.php:640
+msgid "Default order in course directory"
+msgstr "Ordem padrão no diretório curso"
+
+#: includes/musettings.php:644
+msgid "Recent"
+msgstr "Recente"
+
+#: includes/musettings.php:645 includes/musettings.php:661
+#: metaboxes/library/vibe-editor.php:2328
+msgid "Alphabetical"
+msgstr "Alfabético"
+
+#: includes/musettings.php:646
+msgid "Number of Students"
+msgstr "Número de alunos"
+
+#: includes/musettings.php:647
+msgid "Rating"
+msgstr "Classificação"
+
+#: includes/musettings.php:648
+#, fuzzy
+msgid "Upcoming courses via Start date"
+msgstr "Data de Início do Curso"
+
+#: includes/musettings.php:649
+#, fuzzy
+msgid "Random"
+msgstr "Aleatório"
+
+#: includes/musettings.php:651 includes/musettings.php:663
+msgid "Default is menu order"
+msgstr "O padrão é na ordem dos menus"
+
+#: includes/musettings.php:654
+#, fuzzy
+msgid "Default order in Members directory (clear cookies to test)"
+msgstr "Ordem padrão no diretório de membros"
+
+#: includes/musettings.php:658
+msgid "None"
+msgstr "Nenhum"
+
+#: includes/musettings.php:659
+msgid "Last active"
+msgstr "Última atividade"
+
+#: includes/musettings.php:660
+msgid "Newest registered"
+msgstr "Recém-registrados"
+
+#: includes/musettings.php:666
+#, fuzzy
+msgid "Ninja Forms ID for Instructor Signup (Optional, no longer required)"
+msgstr "Configure Ninja Form ID ao cadastro do Professor"
+
+#: includes/musettings.php:669
+#, fuzzy
+msgid "Connect Ninja Form ID for Make instructor button in form"
+msgstr "Configure Ninja Form ID ao cadastro do Professor"
+
+#: includes/musettings.php:672
+msgid "Limit Number of Courses per Instructor"
+msgstr "Número de Cursos por Professor"
+
+#: includes/musettings.php:675
+msgid "( 0 for unlimited course per instructor )"
+msgstr "(0 para cursos ilimitado por professor)"
+
+#: includes/musettings.php:678
+msgid "Limit Number of Units Created per Instructor"
+msgstr "Limite de Aulas Criadas por professor"
+
+#: includes/musettings.php:681
+msgid " ( 0 for unlimited )"
+msgstr " (0 para ilimitado)"
+
+#: includes/musettings.php:684
+msgid "Limit Number of Quiz Created per Instructor "
+msgstr "Limite de Testes Criados por professor"
+
+#: includes/musettings.php:687
+msgid "(0 for unlimited course per instructor )"
+msgstr "(0 para testes ilimitado por professor)"
+
+#: includes/musettings.php:719
+msgid "You have reached your monthly post limit"
+msgstr "Você atingiu seu limite mensal de posts"
+
+#: includes/musettings.php:728
+#, fuzzy, php-format
+msgid ""
+"Build registration forms for Students and Instructors, refer %s tutorial %s"
+msgstr "Permite um ícone de Mensagem para enviar mensagem para Instrutor"
+
+#: includes/musettings.php:749
+msgid "Auto generate username from email"
+msgstr ""
+
+#: includes/musettings.php:750
+msgid "Show password meter"
+msgstr ""
+
+#: includes/musettings.php:751
+msgid "Show Field group labels"
+msgstr ""
+
+#: includes/musettings.php:752
+msgid "Google Captcha"
+msgstr ""
+
+#: includes/musettings.php:753
+msgid "Register & Login simultaneously"
+msgstr ""
+
+#: includes/musettings.php:754
+msgid "Skip Mail verification"
+msgstr ""
+
+#: includes/musettings.php:868
+msgid "field_meta for field description & visbility"
+msgstr ""
+
+#: includes/musettings.php:868
+#, fuzzy
+msgid "Default"
+msgstr "Avatar Padrão"
+
+#: includes/musettings.php:876
+msgid "Assign User role"
+msgstr ""
+
+#: includes/musettings.php:902
+msgid "Shortcode Copied !"
+msgstr ""
+
+#: includes/musettings.php:953
+msgid "There are no fields in this group."
+msgstr ""
+
+#: includes/musettings.php:1013
+#, fuzzy
+msgid "LMS Functions [ For Ad-Hoc Management]"
+msgstr "LMS funções de administrador [Para Gestão de Ad-Hoc]"
+
+#: includes/musettings.php:1017
+msgid "Sync Areas"
+msgstr ""
+
+#: includes/musettings.php:1018
+msgid "Ad Hoc"
+msgstr ""
+
+#: includes/musettings.php:1028
+msgid "Custom Field Value"
+msgstr "Valor do Campo Customizado"
+
+#: includes/musettings.php:1029
+msgid "Custom Field for Student Value"
+msgstr "Campo personalizado  de valor para Aluno"
+
+#: includes/musettings.php:1030
+msgid "Current Time Stamp "
+msgstr "Hora atual"
+
+#: includes/musettings.php:1035
+msgid "Synchronise LMS Data"
+msgstr ""
+
+#: includes/musettings.php:1035
+msgid "Only required in special cases when data goes out of sync."
+msgstr ""
+
+#: includes/musettings.php:1041
+#, fuzzy
+msgid "Course - Students"
+msgstr "﻿Alunos do Curso"
+
+#: includes/musettings.php:1042
+msgid "Verify Course Student Status and expiry for all students and courses"
+msgstr ""
+
+#: includes/musettings.php:1046
+#, fuzzy
+msgid "Unit - Students"
+msgstr "Mais Alunos"
+
+#: includes/musettings.php:1047
+msgid "Verify student unit completion for reusability"
+msgstr ""
+
+#: includes/musettings.php:1051
+#, fuzzy
+msgid "Quiz Results"
+msgstr "Resultados do Questionário"
+
+#: includes/musettings.php:1052
+msgid "Verify Quiz Student Status and results for all students and quizzes"
+msgstr ""
+
+#: includes/musettings.php:1056
+#, fuzzy
+msgid "Course Forums"
+msgstr "Fóruns de curso"
+
+#: includes/musettings.php:1057
+msgid "Auto-subscribe course users to course forums."
+msgstr ""
+
+#: includes/musettings.php:1071
+msgid "Sync Now"
+msgstr ""
+
+#: includes/musettings.php:1200 includes/musettings.php:1492
+#: metaboxes/meta_box.php:800
+msgid "Select"
+msgstr "Selecionar"
+
+#: includes/musettings.php:1233
+msgid "STUDENT"
+msgstr "ALUNO"
+
+#: includes/musettings.php:1235 includes/musettings.php:1251
+#: includes/musettings.php:1270 includes/musettings.php:1286
+msgid "Message"
+msgstr "Mensagem"
+
+#: includes/musettings.php:1236 includes/musettings.php:1240
+#: includes/musettings.php:1244 includes/musettings.php:1252
+#: includes/musettings.php:1256 includes/musettings.php:1260
+#: includes/musettings.php:1271 includes/musettings.php:1275
+#: includes/musettings.php:1279 includes/musettings.php:1287
+#: includes/musettings.php:1291 includes/musettings.php:1295
+#: includes/musettings.php:1909 includes/musettings.php:1949
+#: metaboxes/library/vibe-editor.php:1403
+#: metaboxes/library/vibe-editor.php:2050
+msgid "No"
+msgstr "Não"
+
+#: includes/musettings.php:1239 includes/musettings.php:1255
+#: includes/musettings.php:1274 includes/musettings.php:1290
+msgid "Notification"
+msgstr "Notificação"
+
+#: includes/musettings.php:1249 includes/musettings.php:1268
+msgid "INSTRUCTOR"
+msgstr "PROFESSOR"
+
+#: includes/musettings.php:1284
+#, fuzzy
+msgid "ADMINISTRATOR"
+msgstr "Administrador"
+
+#: includes/musettings.php:1312
+msgid "Save Settings"
+msgstr "Salvar Configurações"
+
+#: includes/musettings.php:1316
+#, fuzzy
+msgid "Instructor Commissions"
+msgstr "Comissões do Professor"
+
+#: includes/musettings.php:1317
+msgid "Configure and pay commissions to instructors."
+msgstr ""
+
+#: includes/musettings.php:1320
+msgid "Set Commissions"
+msgstr "Configurar Comissões"
+
+#: includes/musettings.php:1321
+msgid "Pay Commissions"
+msgstr "Pagar Comissões"
+
+#: includes/musettings.php:1354
+msgid "Field Value Changed"
+msgstr "Campo Valor Alterado"
+
+#: includes/musettings.php:1356
+msgid "Error Field value not changed"
+msgstr "O valor do campo de erro não mudou"
+
+#: includes/musettings.php:1358
+msgid "Error Field value not entered"
+msgstr "O valor do campo de erro não entrou"
+
+#: includes/musettings.php:1371
+msgid "Student Value Changed"
+msgstr "Dados do Aluno Alterado"
+
+#: includes/musettings.php:1373
+msgid "Student value not changed"
+msgstr "Valor aluno não mudou"
+
+#: includes/musettings.php:1375
+msgid "Student value not entered"
+msgstr "Valor aluno não entrou"
+
+#: includes/musettings.php:1382
+msgid "Set Instructor Commisions"
+msgstr "Configurar Comissões do Professor"
+
+#: includes/musettings.php:1386
+msgid "Instructor Commissions Saved"
+msgstr "Comissões do Professor Salva"
+
+#: includes/musettings.php:1388
+msgid "Instructor Commissions not saved, contact Site-Admin !"
+msgstr "Comissões do instrutor não salvou, contato o administrador!"
+
+#: includes/musettings.php:1397
+msgid "Course Name"
+msgstr "Nome Curso"
+
+#: includes/musettings.php:1397 includes/statistics.php:22
+#: includes/statistics.php:753 includes/tips.php:1235
+#: metaboxes/meta_box.php:810
+msgid "Instructor"
+msgstr "Professor"
+
+#: includes/musettings.php:1397
+msgid "PERCENTAGE"
+msgstr "PERCENTUAL"
+
+#: includes/musettings.php:1439
+msgid "Set Commisions"
+msgstr "Configurar Comissões"
+
+#: includes/musettings.php:1444
+msgid "Pay Instructor Commisions"
+msgstr "Pagar Comissões do Professor"
+
+#: includes/musettings.php:1454
+#, php-format
+msgid "Commission Payments on %s"
+msgstr "Os pagamentos da Comissão em %s"
+
+#: includes/musettings.php:1462
+msgid " Commission Payments Saved"
+msgstr " Comissões do Professor Salvas"
+
+#: includes/musettings.php:1464
+msgid "Commission payments not saved !"
+msgstr "Pagamentos da Comissão não salva!"
+
+#: includes/musettings.php:1475
+msgid "CHECK NOW"
+msgstr "VERIFICAR AGORA"
+
+#: includes/musettings.php:1482
+msgid "SET TIME PERIOD"
+msgstr "CONFIGURAR PERÍODO DE TEMPO"
+
+#: includes/musettings.php:1492
+msgid "Instructor Name"
+msgstr "Nome do Professor"
+
+#: includes/musettings.php:1492 metaboxes/meta_box.php:810
+msgid "Commission"
+msgstr "Comissões"
+
+#: includes/musettings.php:1492
+msgid "PAYPAL EMAIL"
+msgstr "EMAIL DO PAYPAL"
+
+#: includes/musettings.php:1492 includes/musettings.php:1514
+msgid "Pay via PayPal"
+msgstr "Pagar via PayPal"
+
+#: includes/musettings.php:1522
+msgid "Instructor Commission"
+msgstr "Comissão do Professor"
+
+#: includes/musettings.php:1531
+msgid "Mark as Paid"
+msgstr "Marcar como pago"
+
+#: includes/musettings.php:1551
+msgid "Import/Export WPLMS Elements"
+msgstr "Importar/Exportar Elementos WPLMS"
+
+#: includes/musettings.php:1552
+msgid ""
+"Download and upload in CSV format. Import/Export WPLMS elements with user "
+"statuses: Courses, Quizzes, Units, Assignments, Questions and Events."
+msgstr ""
+"Download e upload em formato CSV. Importar/Exportar elementos WPLMS com "
+"status de usuário: Cursos, Testes de aulas, Tarefas, Perguntas e Eventos."
+
+#: includes/musettings.php:1554
+msgid "EXPORT SETTINGS"
+msgstr "EXPORTAR CONFIGURAÇÕES"
+
+#: includes/musettings.php:1570
+msgid "User Touch Points"
+msgstr "Pontos de contato do usuário"
+
+#: includes/musettings.php:1571
+msgid ""
+"Set touch points for Students and Instructors in WPLMS. Connect with Student "
+"or Instructor via following touch points"
+msgstr ""
+"Definir pontos de contato para os alunos e instrutores em WPLMS. Conectar-se "
+"com o aluno ou instrutor via seguir pontos de contato"
+
+#: includes/musettings.php:1571 includes/musettings.php:2263
+#, fuzzy
+msgid "Learn more"
+msgstr "Leia mais"
+
+#: includes/musettings.php:1583
+#, fuzzy
+msgid "Announcements"
+msgstr "Anúncios"
+
+#: includes/musettings.php:1590
+msgid "News"
+msgstr "Notícias"
+
+#: includes/musettings.php:1597
+msgid "Course Subscribed"
+msgstr "Inscritos no Curso"
+
+#: includes/musettings.php:1604
+msgid "User added to Course"
+msgstr "Usuário adicionado ao curso"
+
+#: includes/musettings.php:1611
+#, fuzzy
+msgid "User Starts a Course "
+msgstr "Usuário adicionado ao curso"
+
+#: includes/musettings.php:1619
+msgid "Course Certificate"
+msgstr "Certificado do curso"
+
+#: includes/musettings.php:1626
+msgid "Course Badge"
+msgstr "Crédito do curso"
+
+#: includes/musettings.php:1634
+msgid "Course Reset by Instructor"
+msgstr "Curso foi redefinido pelo professor"
+
+#: includes/musettings.php:1641
+msgid "Course Retake by User"
+msgstr "Curso retomado pelo usuário"
+
+#: includes/musettings.php:1648
+msgid "Course Submit"
+msgstr "Enviar Curso"
+
+#: includes/musettings.php:1655
+msgid "Course Evaluation"
+msgstr "Avaliar Curso"
+
+#: includes/musettings.php:1662
+msgid "Course Reviews"
+msgstr "Resenhas do Curso"
+
+#: includes/musettings.php:1669
+msgid "Unsubscribe Course"
+msgstr "Cancelar o curso"
+
+#: includes/musettings.php:1676
+msgid "Unit marked complete by User"
+msgstr "Aula marcada completa pelo aluno"
+
+#: includes/musettings.php:1683
+#, fuzzy
+msgid "Unit marked complete by Instructor for Student"
+msgstr "Aula marcada completa pelo aluno"
+
+#: includes/musettings.php:1690
+#, fuzzy
+msgid "Unit marked incomplete by Instructor for Student"
+msgstr "Aula marcada completa pelo aluno"
+
+#: includes/musettings.php:1697
+msgid "Unit comment added by User"
+msgstr "Comentário de aula Adicionado pelo aluno"
+
+#: includes/musettings.php:1704
+msgid "Quiz Start by user"
+msgstr "Prova iniciada pelo aluno"
+
+#: includes/musettings.php:1711
+msgid "Quiz Submitted by user"
+msgstr "Prova enviada pelo usuário"
+
+#: includes/musettings.php:1718
+msgid "Quiz Reset by Instructor"
+msgstr "Prova redefinida pelo professor"
+
+#: includes/musettings.php:1725
+msgid "Quiz Retake by User"
+msgstr "Prova retomada pelo usuário"
+
+#: includes/musettings.php:1732
+msgid "Quiz Evaluation"
+msgstr "Avaliação da Prova"
+
+#: includes/musettings.php:1739
+msgid "Assignment Start by user"
+msgstr "Tarefa iniciada pelo usuário"
+
+#: includes/musettings.php:1746
+msgid "Assignment Submitted by user"
+msgstr "Tarefa enviada pelo aluno"
+
+#: includes/musettings.php:1753
+msgid "Assignment Evaluation"
+msgstr "Avaliação da Tarefa"
+
+#: includes/musettings.php:1760
+#, fuzzy
+msgid "Assignment Reset by Instructor"
+msgstr "Tarefa redefinida pelo Professor"
+
+#: includes/musettings.php:1767
+#, fuzzy
+msgid "Student applied for Course"
+msgstr "Aluno adicionado ao curso %s"
+
+#: includes/musettings.php:1774
+msgid "Instructor approves/rejects user application"
+msgstr ""
+
+#: includes/musettings.php:1781
+msgid "Instructor Publishes a Course or Sends for Approval"
+msgstr ""
+
+#: includes/musettings.php:1791
+msgid "Email Settings"
+msgstr "Configurações de E-mail"
+
+#: includes/musettings.php:1792
+#, fuzzy
+msgid "Configure email template for Emails, recommended plugin for emails "
+msgstr ""
+"Configurar o modelo de email para E-mails, recomendados plugin para e-mails "
+"%s"
+
+#: includes/musettings.php:1795
+msgid "Email Options"
+msgstr "Opções de e-mail"
+
+#: includes/musettings.php:1796
+msgid "Account Activation Email"
+msgstr "E-mail de ativação de conta"
+
+#: includes/musettings.php:1797
+msgid "Forgot Password Email"
+msgstr ""
+
+#: includes/musettings.php:1798
+msgid "Email Schedule"
+msgstr "Agenda de e-mail"
+
+#: includes/musettings.php:1799
+msgid "Email Template"
+msgstr "Template do Email"
+
+#: includes/musettings.php:1830
+#, fuzzy
+msgid "Enable HTML emails"
+msgstr "Habilitar o gotejamento Feed Email"
+
+#: includes/musettings.php:1833
+msgid "Enable HTML emails in WPLMS. (* Also save email template)"
+msgstr ""
+
+#: includes/musettings.php:1836
+msgid "FROM \"Name\""
+msgstr "DE \"Nome\""
+
+#: includes/musettings.php:1839
+msgid "From Name in emails"
+msgstr "De nome em e-mails"
+
+#: includes/musettings.php:1842
+msgid "FROM \"Email\""
+msgstr "DE \"Email\""
+
+#: includes/musettings.php:1845
+msgid "From Email in emails"
+msgstr "De E-mail em e-mails"
+
+#: includes/musettings.php:1848
+msgid "Charset"
+msgstr "Charset"
+
+#: includes/musettings.php:1852
+msgid "UTF"
+msgstr "UTF"
+
+#: includes/musettings.php:1853
+msgid "ISO"
+msgstr "ISO"
+
+#: includes/musettings.php:1855
+msgid "Set email charset"
+msgstr "Configurar charset do email"
+
+#: includes/musettings.php:1864 includes/musettings.php:1882
+msgid "Subject"
+msgstr "Assunto"
+
+#: includes/musettings.php:1867 includes/musettings.php:1931
+#: includes/musettings.php:1971
+msgid "Subject in Activation email"
+msgstr "Assunto no e-mail de ativação"
+
+#: includes/musettings.php:1870 includes/musettings.php:1888
+msgid "Message (supports HTML)"
+msgstr "Mensagem (suporta HTML)"
+
+#: includes/musettings.php:1873
+#, fuzzy
+msgid ""
+"Activation email message, use {{activationlink}} to add the activation link"
+msgstr ""
+"Mensagem de e-mail de ativação, o usuário {{activationlink}} para adicionar "
+"o link de ativação"
+
+#: includes/musettings.php:1885
+#, fuzzy
+msgid "Subject in forgot password email"
+msgstr "Assunto no e-mail de ativação"
+
+#: includes/musettings.php:1891
+msgid ""
+"Forgot password mail message, user {{forgotlink}} to add the forgot password "
+"link, {{username}} to add User login name"
+msgstr ""
+
+#: includes/musettings.php:1900
+msgid "Schedule Drip Feed Email"
+msgstr "Agenda gotejamento Feed Email"
+
+#: includes/musettings.php:1905
+msgid "Enable Drip Feed Email"
+msgstr "Habilitar o gotejamento Feed Email"
+
+#: includes/musettings.php:1912
+msgid "Email students when the drip feed units are available"
+msgstr ""
+"Alunos de e-mail quando as aulas de alimentação de gotejamento estão "
+"disponíveis"
+
+#: includes/musettings.php:1915 includes/musettings.php:1955
+msgid "Schedule Email"
+msgstr "Agendar E-Mail"
+
+#: includes/musettings.php:1919
+msgid "Before 24 Hours of unit availability"
+msgstr "24 horas Antes da disponibilidade da aula"
+
+#: includes/musettings.php:1920
+msgid "Before 12 Hours of unit availability"
+msgstr "12 horas Antes da disponibilidade da aula"
+
+#: includes/musettings.php:1921
+msgid "Before 6 Hours of unit availability"
+msgstr "6 horas Antes da disponibilidade da aula"
+
+#: includes/musettings.php:1922
+msgid "Before 1 Hours of unit availability"
+msgstr "1 hora Antes da disponibilidade da aula"
+
+#: includes/musettings.php:1923
+msgid "When Unit is available"
+msgstr "Quando a aula estiver disponível"
+
+#: includes/musettings.php:1925 includes/musettings.php:1965
+msgid "Accuracy of email depends upon site traffic and resources."
+msgstr "Precisão de e-mail depende de recursos e tráfego do site."
+
+#: includes/musettings.php:1928
+msgid "Drip Feed Mail Subject"
+msgstr "Assunto do Mail Feed de gotejamento"
+
+#: includes/musettings.php:1934
+msgid "Drip Feed Mail Message (supports HTML)"
+msgstr "Mensagem de gotejamento Feed (suporta HTML)"
+
+#: includes/musettings.php:1937
+msgid ""
+"{{unit}} for Unit name, {{course}} for Course name & link, {{user}} for User "
+"name"
+msgstr ""
+"{{unit}} para o nome da aula, {{course}} para o nome do curso & link, "
+"{{user}} para nome de usuário"
+
+#: includes/musettings.php:1940
+msgid "Schedule Course Expiry Email"
+msgstr "Email de expiração do Cronograma do Curso"
+
+#: includes/musettings.php:1945
+msgid "Enable Course Expire Email"
+msgstr "Habilitar E-mail o curso expirar"
+
+#: includes/musettings.php:1952
+msgid "Email students when the course expires"
+msgstr "E-mail para alunos quando expira o curso"
+
+#: includes/musettings.php:1959
+msgid "Before 24 Hours of Course expiry"
+msgstr "24 horas Antes da expiração do curso"
+
+#: includes/musettings.php:1960
+msgid "Before 12 Hours of Course expiry"
+msgstr "12 horas Antes da expiração do curso"
+
+#: includes/musettings.php:1961
+msgid "Before 6 Hours of Course expiry"
+msgstr "6 horas Antes da expiração do curso"
+
+#: includes/musettings.php:1962
+msgid "Before 1 Hours of Course expiry"
+msgstr "1 hora Antes da expiração do curso"
+
+#: includes/musettings.php:1963
+msgid "When Course expires"
+msgstr "Quando expira o curso"
+
+#: includes/musettings.php:1968
+msgid "Course Expire Mail Subject"
+msgstr "Assundo do email de expiração do curso"
+
+#: includes/musettings.php:1974
+msgid "Course expire Mail Message (supports HTML)"
+msgstr "Mensagem de email Curso expirado (suporta HTML)"
+
+#: includes/musettings.php:1977
+msgid "{{course}} for Course name & link, {{user}} for User name"
+msgstr "{{course}} para o nome do curso & link, {{user}} para nome de usuário"
+
+#: includes/musettings.php:1997
+msgid "Customize Template"
+msgstr "Personalizar Modelo"
+
+#: includes/musettings.php:1999
+msgid "Email Bg"
+msgstr "Email BG"
+
+#: includes/musettings.php:2000
+msgid "Email Color"
+msgstr "Cor do e-mail"
+
+#: includes/musettings.php:2001
+msgid "Title Bg"
+msgstr "Título BG"
+
+#: includes/musettings.php:2002
+msgid "Title Color"
+msgstr "Cor do Título"
+
+#: includes/musettings.php:2003
+msgid "Greetings BG"
+msgstr "Saudações BG"
+
+#: includes/musettings.php:2004
+msgid "Greetings Color"
+msgstr "Cor da Saudação"
+
+#: includes/musettings.php:2005
+msgid "Message BG"
+msgstr "Mensagem BG"
+
+#: includes/musettings.php:2006
+msgid "Message Color"
+msgstr "Cor de mensagem"
+
+#: includes/musettings.php:2007
+msgid "Sender BG"
+msgstr "Remetente BG"
+
+#: includes/musettings.php:2008
+msgid "Sender Color"
+msgstr "Cor do remetente"
+
+#: includes/musettings.php:2009
+msgid "Item BG"
+msgstr "Item de BG"
+
+#: includes/musettings.php:2010
+msgid "Item Color"
+msgstr "Item Cor"
+
+#: includes/musettings.php:2011
+msgid "Footer BG"
+msgstr "Rodapé BG"
+
+#: includes/musettings.php:2012
+msgid "Footer Color"
+msgstr "Cor do Rodapé"
+
+#: includes/musettings.php:2015
+msgid "View Generated Template"
+msgstr "Ver os modelo gerado"
+
+#: includes/musettings.php:2016
+msgid "Restore Default"
+msgstr "Restaurar Padrão"
+
+#: includes/musettings.php:2017
+msgid "Apply Changes"
+msgstr "Aplicar Alterações"
+
+#: includes/musettings.php:2046
+msgid "WPLMS Batches"
+msgstr ""
+
+#: includes/musettings.php:2047
+#, fuzzy
+msgid "Course Batches for WPLMS"
+msgstr "Categoria do Curso"
+
+#: includes/musettings.php:2058
+#, fuzzy
+msgid "WPLMS S3"
+msgstr "WPLMS Códigos do Curso"
+
+#: includes/musettings.php:2059
+msgid "Secure files using Amazon S3."
+msgstr ""
+
+#: includes/musettings.php:2070
+msgid "WPLMS Mailchimp"
+msgstr ""
+
+#: includes/musettings.php:2071
+msgid "Mailchimp Lists for WPLMS"
+msgstr ""
+
+#: includes/musettings.php:2082
+msgid "WPLMS WooCommerce"
+msgstr ""
+
+#: includes/musettings.php:2083
+msgid "Integrate WPLMS with WooCommerce."
+msgstr ""
+
+#: includes/musettings.php:2094
+msgid "WPLMS Wishlists"
+msgstr ""
+
+#: includes/musettings.php:2095
+msgid "Create unlimited, sharable wishlists."
+msgstr ""
+
+#: includes/musettings.php:2106
+#, fuzzy
+msgid "WPLMS Custom Course Navigation"
+msgstr "WPLMS Códigos do Curso"
+
+#: includes/musettings.php:2107
+#, fuzzy
+msgid "Customise Course Sections"
+msgstr "Configurações do Produto do Curso"
+
+#: includes/musettings.php:2117
+msgid "WP Courseware to WPLMS Migration"
+msgstr ""
+
+#: includes/musettings.php:2118
+msgid "Migrate Courses from WP Courseware to WPLMS."
+msgstr ""
+
+#: includes/musettings.php:2128
+#, fuzzy
+msgid "WPLMS CoAuthors Plus"
+msgstr "WPLMS Códigos do Curso"
+
+#: includes/musettings.php:2129
+msgid "Integrate  WP CoAuhors plus plugin"
+msgstr ""
+
+#: includes/musettings.php:2139
+msgid "WPLMS BadgeOS"
+msgstr ""
+
+#: includes/musettings.php:2140
+msgid "Connect BadgeOS badges with WPLMS"
+msgstr ""
+
+#: includes/musettings.php:2150
+#, fuzzy
+msgid "WPLMS MyCred"
+msgstr "WPLMS Códigos do Curso"
+
+#: includes/musettings.php:2151
+msgid "Integrated MyCred points system in WPLMS"
+msgstr ""
+
+#: includes/musettings.php:2161
+msgid "WPLMS DW Q&A"
+msgstr ""
+
+#: includes/musettings.php:2162
+msgid "Integrate DW Questions & Answer with WPLMS"
+msgstr ""
+
+#: includes/musettings.php:2172
+msgid "WPLMS Easy Digital Downloads"
+msgstr ""
+
+#: includes/musettings.php:2173
+msgid "Connect Easy Digital downloads with WPLMS"
+msgstr ""
+
+#: includes/musettings.php:2183
+msgid "BP Social Connect"
+msgstr ""
+
+#: includes/musettings.php:2184
+msgid "Connect your BuddyPress site with Social networks Login &  Registration"
+msgstr ""
+
+#: includes/musettings.php:2194
+#, fuzzy
+msgid "BP Profile Cover"
+msgstr "perfil da página"
+
+#: includes/musettings.php:2195
+#, fuzzy
+msgid "Add cover images to Profiles"
+msgstr "Adicionar Imagens para Galeria"
+
+#: includes/musettings.php:2205
+#, fuzzy
+msgid "WPLMS Custom Certificate Codes"
+msgstr "WPLMS Códigos do Curso"
+
+#: includes/musettings.php:2206
+msgid "Define custom certificate codes for Certificates"
+msgstr ""
+
+#: includes/musettings.php:2245
+msgid "Enter License Key"
+msgstr ""
+
+#: includes/musettings.php:2259
+msgid "License Key"
+msgstr ""
+
+#: includes/musettings.php:2317 includes/musettings.php:2373
+#: includes/musettings.php:2390 includes/musettings.php:2402
+#: includes/musettings.php:2433 includes/musettings.php:2449
+#: includes/musettings.php:2532 includes/musettings.php:2567
+#: includes/musettings.php:2578 includes/musettings.php:2605
+#: includes/musettings.php:2614 includes/musettings.php:2638
+#: includes/musettings.php:2647 includes/musettings.php:2667
+#: includes/tips.php:616 includes/tips.php:1423 metaboxes/meta_box.php:1390
+#: metaboxes/meta_box.php:1419
+msgid "Security check Failed. Contact Administrator."
+msgstr "A verificação de segurança falhou. Contate Administrador."
+
+#: includes/musettings.php:2395
+msgid "Template saved"
+msgstr "Template Salvo"
+
+#: includes/musettings.php:2437
+#, fuzzy
+msgid "Unable to update key."
+msgstr "Não é possível criar usuário"
+
+#: includes/musettings.php:2441
+msgid "Key Updated."
+msgstr ""
+
+#: includes/musettings.php:2572
+#, php-format
+msgid "%s redundant records removed. Course Student verification completed."
+msgstr ""
+
+#: includes/musettings.php:2608
+msgid "Quiz results sync complete !"
+msgstr ""
+
+#: includes/musettings.php:2641
+msgid "Course - Units - Student sync complete !"
+msgstr ""
+
+#: includes/musettings.php:2670
+msgid "Course - Forums sync complete !"
+msgstr ""
+
+#: includes/permalinks.php:35
+#, fuzzy
+msgid "Courses permalink base"
+msgstr "Curso retomado pelo usuário"
+
+#: includes/permalinks.php:38
+#, fuzzy
+msgid "Course category base"
+msgstr "Categoria do Curso"
+
+#: includes/permalinks.php:70
+msgid ""
+"These settings control the permalinks used for courses. These settings only "
+"apply when <strong>not using \"default\" permalinks above</strong>."
+msgstr ""
+
+#: includes/permalinks.php:102
+#, fuzzy
+msgid "Course Directory"
+msgstr "Diretório do Curso"
+
+#: includes/permalinks.php:107 includes/permalinks.php:123
+#: includes/permalinks.php:139
+#, fuzzy
+msgid "Custom Base"
+msgstr "Custom Class"
+
+#: includes/permalinks.php:109 includes/permalinks.php:125
+#: includes/permalinks.php:141
+msgid ""
+"Enter a custom base to use. A base <strong>must</strong> be set or WordPress "
+"will use default instead."
+msgstr ""
+
+#: includes/permalinks.php:116
+#, fuzzy
+msgid "Quiz Permalinks"
+msgstr "Duração do Quiz"
+
+#: includes/permalinks.php:132
+#, fuzzy
+msgid "Unit Permalinks"
+msgstr "Duração Lição"
+
+#: includes/permalinks.php:146
+#, fuzzy
+msgid "Course Action End points"
+msgstr "Código do Curso Aplicado"
+
+#: includes/permalinks.php:147
+msgid ""
+"Course action points, these endpoints are appended to your course URLs to "
+"handle specific actions. They should be unique."
+msgstr ""
+
+#: includes/permalinks.php:151
+#, fuzzy
+msgid "Curriculum"
+msgstr "Currículo"
+
+#: includes/permalinks.php:153
+#, fuzzy
+msgid "Course Curriculum slug"
+msgstr "Currículo do Curso"
+
+#: includes/permalinks.php:157
+#, fuzzy
+msgid "Activity"
+msgstr "Visualizar Todas as Atividades"
+
+#: includes/permalinks.php:159
+msgid "Course Activity slug"
+msgstr ""
+
+#: includes/permalinks.php:163
+#, fuzzy
+msgid "Members"
+msgstr "Membros"
+
+#: includes/permalinks.php:165
+#, fuzzy
+msgid "Course Members slug"
+msgstr "Membros do Curso"
+
+#: includes/permalinks.php:169
+#, fuzzy
+msgid "Admin"
+msgstr "Administrador"
+
+#: includes/permalinks.php:171
+#, fuzzy
+msgid "Course Admin slug"
+msgstr "Configurações do Curso"
+
+#: includes/permalinks.php:175
+#, fuzzy
+msgid "Submissions"
+msgstr "Enviados"
+
+#: includes/permalinks.php:177
+msgid "Course Admin - Submissions slug"
+msgstr ""
+
+#: includes/permalinks.php:183
+msgid "Course Admin - Statistics slug"
+msgstr ""
+
+#: includes/statistics.php:20 includes/statistics.php:28
+#: includes/statistics.php:70 includes/statistics.php:76
+#: includes/statistics.php:80
+msgid "Overview"
+msgstr "Visão global"
+
+#: includes/statistics.php:23 includes/statistics.php:754
+msgid "Students"
+msgstr "Alunos"
+
+#: includes/statistics.php:24 includes/statistics.php:805
+msgid "Download Stats"
+msgstr "Download Resultados"
+
+#: includes/statistics.php:29
+msgid "My Courses"
+msgstr "Meus Cursos"
+
+#: includes/statistics.php:71
+msgid "Daily"
+msgstr "Diário"
+
+#: includes/statistics.php:72
+msgid "Monthly"
+msgstr "Mensal"
+
+#: includes/statistics.php:73
+msgid "Custom"
+msgstr "Customização"
+
+#: includes/statistics.php:77
+msgid "Most Students"
+msgstr "Mais Alunos"
+
+#: includes/statistics.php:81
+msgid "Popular"
+msgstr "Popular"
+
+#: includes/statistics.php:138
+msgid "Subscriptions"
+msgstr "Assinaturas"
+
+#: includes/statistics.php:143
+msgid "Number of students"
+msgstr "Número de alunos"
+
+#: includes/statistics.php:180
+msgid "Custom Date Selection"
+msgstr ""
+
+#: includes/statistics.php:236 includes/statistics.php:1052
+msgid "Total Students"
+msgstr "Total de Alunos"
+
+#: includes/statistics.php:237 includes/statistics.php:243
+#: includes/statistics.php:249 includes/statistics.php:255
+#: includes/statistics.php:261 includes/statistics.php:585
+#: includes/statistics.php:591 includes/statistics.php:597
+#: includes/statistics.php:603 includes/statistics.php:609
+#: includes/statistics.php:931 includes/statistics.php:937
+#: includes/statistics.php:943 includes/statistics.php:1054
+#: includes/statistics.php:1060 includes/statistics.php:1066
+#: includes/statistics.php:1170 includes/statistics.php:1176
+#: includes/statistics.php:1182 includes/statistics.php:1454
+#: includes/statistics.php:1460 includes/statistics.php:1466
+#: includes/statistics.php:1472
+msgid "n/a"
+msgstr "n/a"
+
+#: includes/statistics.php:242 includes/statistics.php:929
+msgid "Total Instructors"
+msgstr "Total de Professores"
+
+#: includes/statistics.php:248
+msgid "Total Course Taken"
+msgstr "Total de Cursos Feitos"
+
+#: includes/statistics.php:254
+msgid "Total Badges"
+msgstr "Total de Distintivos"
+
+#: includes/statistics.php:260
+msgid "Total Certificates"
+msgstr "Total de Certificados"
+
+#: includes/statistics.php:268 includes/statistics.php:1189
+msgid "This year's monthly subscriptions"
+msgstr "Assinaturas mensais deste ano"
+
+#: includes/statistics.php:270 includes/statistics.php:1191
+msgid "This month's daily subscriptions"
+msgstr "Assinaturas diárias deste mês"
+
+#: includes/statistics.php:366 includes/statistics.php:1292
+msgid "Number of Courses Started"
+msgstr "Número de Cursos Iniciado"
+
+#: includes/statistics.php:583
+msgid "Total Students taking courses"
+msgstr "Total de alunos que participam de cursos"
+
+#: includes/statistics.php:589
+msgid "Courses Started By Students"
+msgstr "Cursos Iniciado por alunos"
+
+#: includes/statistics.php:595
+msgid "Total Courses Finished by Students"
+msgstr "Total de Cursos finalizados por alunos"
+
+#: includes/statistics.php:601
+msgid "Total Units Finished by Students"
+msgstr "Total de Lições concluídas pelos alunos"
+
+#: includes/statistics.php:607
+msgid "Total Quiz Finished by Students"
+msgstr "Total de Quiz finalizadas pelos alunos"
+
+#: includes/statistics.php:651 includes/statistics.php:1084
+msgid "Prev"
+msgstr "Anterior"
+
+#: includes/statistics.php:660 includes/statistics.php:1093
+msgid "Next"
+msgstr "Próximo"
+
+#: includes/statistics.php:747
+msgid "Download Standard Reports"
+msgstr "Download Relatórios padrão"
+
+#: includes/statistics.php:807
+msgid "Generate report"
+msgstr "Gerar relatório"
+
+#: includes/statistics.php:935
+msgid "Total Courses Evaluated by Instructor"
+msgstr "Total de Cursos avaliados pelo professor"
+
+#: includes/statistics.php:941
+msgid "Total Quiz Evaluated by Instructor"
+msgstr "Total de Quiz avaliado pelo professor"
+
+#: includes/statistics.php:1058
+msgid "Total Active Students"
+msgstr "Total de Alunos Ativos"
+
+#: includes/statistics.php:1064
+msgid "Total Course Students "
+msgstr "Total de Alunos no Curso "
+
+#: includes/statistics.php:1168
+msgid "Total Students in My Courses"
+msgstr "Total de alunos em meus cursos"
+
+#: includes/statistics.php:1174
+msgid "Total Badges given in My Courses"
+msgstr "Total de Distintivos dados em meus cursos"
+
+#: includes/statistics.php:1180
+msgid "Total Certificates given in My Courses"
+msgstr "Total de Certificados dados em meus cursos"
+
+#: includes/statistics.php:1452
+msgid "Total Students taking my courses"
+msgstr "Total de alunos que participam dos meus cursos"
+
+#: includes/statistics.php:1458
+msgid "My Courses Finished by Students"
+msgstr "Meus cursos concluídos por alunos"
+
+#: includes/statistics.php:1464
+msgid "My Units Finished by Students"
+msgstr "Minhas lições concluídas por alunos"
+
+#: includes/statistics.php:1470
+msgid "My Quiz Finished by Students"
+msgstr "Meu Quiz concluído por alunos"
+
+#: includes/tips.php:310
+#, fuzzy
+msgid "Take the Course to Start the Quiz"
+msgstr "Faça o curso para iniciar o Questionário"
+
+#: includes/tips.php:540
+msgid "Please Check Terms & Conditions"
+msgstr ""
+
+#: includes/tips.php:562
+msgid " I agree to these Terms and Conditions"
+msgstr ""
+
+#: includes/tips.php:711
+#, fuzzy
+msgid "Quiz passing marks/score"
+msgstr "Pontuação para passar no Teste"
+
+#: includes/tips.php:712
+#, fuzzy
+msgid ""
+"Passing marks/score for quiz. Combined with Prev.Unit/Quiz lock the user "
+"progress can be restricted."
+msgstr ""
+"Passando a pontuação para o teste. Combinado com Prev.Unit/Quiz bloqueio o "
+"usuário progresso pode ser restrito."
+
+#: includes/tips.php:725
+msgid "SET QUIZ PASSING SCORE"
+msgstr "CONFIGURAR PONTUAÇÃO PARA PASSAR NO TESTE"
+
+#: includes/tips.php:767
+msgid "NEGATIVE MARKS PER QUESTION"
+msgstr "PONTOS NEGATIVOS POR PERGUNTA"
+
+#: includes/tips.php:782
+#, fuzzy
+msgid "Clear marked answer"
+msgstr "Resposta Correta"
+
+#: includes/tips.php:802
+msgid "Negative Marks per Question"
+msgstr "Pontos negativos por pergunta"
+
+#: includes/tips.php:803
+msgid "Deduct marks for a Wrong answer."
+msgstr "Deduza pontos para uma resposta errada."
+
+#: includes/tips.php:896
+msgid "COMING SOON"
+msgstr "EM BREVE"
+
+#: includes/tips.php:911
+msgid "Coming soon Mode"
+msgstr "Modo em breve"
+
+#: includes/tips.php:912
+msgid "Enable Coming soon mode"
+msgstr "Habilitar modo em breve"
+
+#: includes/tips.php:940
+msgid "Coming Soon mode"
+msgstr "Modo em breve"
+
+#: includes/tips.php:945
+msgid "Enable"
+msgstr "Habilitar"
+
+#: includes/tips.php:1137
+msgid "Top Menu for Students"
+msgstr "Menu Superior dos Alunos"
+
+#: includes/tips.php:1138
+msgid "Main Menu for Students"
+msgstr "Menu Principal dos Alunos"
+
+#: includes/tips.php:1139
+msgid "Mobile Menu for Students"
+msgstr "Menu Mobile dos alunos"
+
+#: includes/tips.php:1146
+msgid "Top Menu for Instructor"
+msgstr "Menu Superior dos Professores"
+
+#: includes/tips.php:1147
+msgid "Main Menu for Instructor"
+msgstr "Menu Principal dos Professor"
+
+#: includes/tips.php:1148
+msgid "Mobile Menu for Instructor"
+msgstr "Menu Mobile dos Professor"
+
+#: includes/tips.php:1160
+#, fuzzy
+msgid "Create a Course"
+msgstr "Criar um Curso"
+
+#: includes/tips.php:1188
+msgid "Make Instructor"
+msgstr "Tornar Professor"
+
+#: includes/tips.php:1230
+msgid "There was some error"
+msgstr "Houve algum erro"
+
+#: includes/tips.php:1232
+msgid "Make Student"
+msgstr "Tornar Aluno"
+
+#: includes/tips.php:1250
+msgid "Send Message"
+msgstr "Enviar mensagem"
+
+#: includes/tips.php:1254
+msgid "Send Email"
+msgstr "Enviar Email"
+
+#: includes/tips.php:1346
+#, fuzzy
+msgid "Congratulations ! You've been subscribed to the course"
+msgstr "Parabéns! Você está adicionados ao curso agora."
+
+#: includes/tips.php:1350
+#, fuzzy
+msgid "Course not available for subscription."
+msgstr "Assinaturas mensais deste ano"
+
+#: includes/tips.php:1370
+#, fuzzy
+msgid "TAKE THIS COURSE"
+msgstr "INSCREVA-SE"
+
+#: includes/tips.php:1389
+msgid "My Orders"
+msgstr "Meus Pedidos"
+
+#: includes/tips.php:1400
+msgid "My Membership"
+msgstr "Minha Inscrição"
+
+#: includes/tips.php:1429 includes/tips.php:1435
+msgid "Code does not exist. Please check the code."
+msgstr "Código não existe. Por favor, verifique o código."
+
+#: includes/tips.php:1450 includes/tips.php:1461
+msgid "Congratulations! You are now added to the course."
+msgstr "Parabéns! Você está adicionados ao curso agora."
+
+#: includes/tips.php:1452 includes/tips.php:1463
+msgid "User already in course."
+msgstr "usuário já matriculado no curso."
+
+#: includes/tips.php:1455
+msgid "Maximum number of usage for course code exhausted"
+msgstr "O número máximo de uso de código do curso esgotado"
+
+#: includes/tips.php:1491
+msgid "Course Codes"
+msgstr "Código do Curso"
+
+#: includes/tips.php:1492
+msgid "Enter Course codes (XXX|2,YYY|4)"
+msgstr "Digite o codigo do curso  (XXX|2,YYY|4)"
+
+#: includes/tips.php:1507
+msgid "Set Course purchase codes"
+msgstr "Definir os códigos de compra do Curso"
+
+#: includes/tips.php:1508
+#, fuzzy
+msgid ""
+"Student can gain access to Course using course codes (multiple codes comma "
+"separated, usage count pipe saperate eg : xxx|2,yyy|4)"
+msgstr ""
+"Alunos podem ter acesso ao curso usando o códigos do curso (múltiplos "
+"códigos separado por vírgula, usar contagem separada ex: xxx|2,yyy|4)"
+
+#: includes/tips.php:1517
+msgid "Access Date"
+msgstr "Data de Acesso"
+
+#: includes/tips.php:1518
+msgid "Date on which unit is accessible"
+msgstr "Data em que a aula estará acessível"
+
+#: includes/tips.php:1523
+msgid "Access Time"
+msgstr "Hora de Acesso"
+
+#: includes/tips.php:1524
+msgid "Time after which unit is accessible"
+msgstr "Tempo após o qual a aula está acessível"
+
+#: includes/tips.php:1558
+msgid "Unit access date"
+msgstr "Data de Acesso da Aula"
+
+#: includes/tips.php:1559
+msgid "Access date"
+msgstr "Data de Acesso"
+
+#: includes/tips.php:1561
+msgid "Unit access time"
+msgstr "Hora de Acesso da Aula"
+
+#: includes/tips.php:1562
+msgid "Access time"
+msgstr "Hora de acesso"
+
+#: includes/tips.php:1716
+msgid "<strong>ERROR</strong>: User already logged in."
+msgstr "<strong>ERRO</strong>: Usuário já logado."
+
+#: includes/tips.php:1726
+msgid "External Course button link"
+msgstr ""
+
+#: includes/tips.php:1727
+msgid "Connect Course button to an external page (Leave blank to skip)"
+msgstr ""
+
+#: includes/tips.php:1728
+msgid "Enter the external page url. Leave blank or 0 to skip"
+msgstr ""
+
+#: includes/tips.php:1848
+msgid "WPLMS Course codes widget"
+msgstr "WPLMS Códigos do Curso Widget"
+
+#: includes/tips.php:1850
+msgid "WPLMS Course Codes"
+msgstr "WPLMS Códigos do Curso"
+
+#: includes/tips.php:1874
+msgid "Submit"
+msgstr "Enviar"
+
+#: includes/tips.php:1889
+msgid "Enter Course code"
+msgstr "Digite o Código do Curso"
+
+#: includes/tips.php:1890
+msgid "Place holder text"
+msgstr "Espaço reservado para texto"
+
+#: includes/tips.php:1895
+msgid "Course Codes input box text"
+msgstr "Caixa de texto para entrada dos códigos dos curso"
+
+#: metaboxes/library/vibe-editor.php:1048
+msgid "Loading.."
+msgstr "Carregando..."
+
+#: metaboxes/library/vibe-editor.php:1049
+msgid "No more to load"
+msgstr "Não há mais para carregar"
+
+#: metaboxes/library/vibe-editor.php:1403
+msgid "Confirm Delete?"
+msgstr "Confirmar Exclusão?"
+
+#: metaboxes/library/vibe-editor.php:1403
+msgid "Saving..."
+msgstr "Salvando..."
+
+#: metaboxes/library/vibe-editor.php:1403
+msgid "Saved."
+msgstr "Salvo."
+
+#: metaboxes/library/vibe-editor.php:1425
+#, fuzzy
+msgid "Course News"
+msgstr "Novidades do Curso"
+
+#: metaboxes/library/vibe-editor.php:1450
+msgid "Carousels/Rotating Blocks"
+msgstr "Blocks Carrosséis/Rotativas"
+
+#: metaboxes/library/vibe-editor.php:1454
+#: metaboxes/library/vibe-editor.php:2098
+#: metaboxes/library/vibe-editor.php:2315
+msgid "Title/Heading"
+msgstr "Título/Cabeçalho"
+
+#: metaboxes/library/vibe-editor.php:1456
+#: metaboxes/library/vibe-editor.php:1610
+#: metaboxes/library/vibe-editor.php:1718
+#: metaboxes/library/vibe-editor.php:2100
+#: metaboxes/library/vibe-editor.php:2317
+msgid "Heading"
+msgstr "Cabeçalho"
+
+#: metaboxes/library/vibe-editor.php:1460
+#: metaboxes/library/vibe-editor.php:1613
+#: metaboxes/library/vibe-editor.php:1721
+#: metaboxes/library/vibe-editor.php:2104
+msgid "Show Title"
+msgstr "Mostrar Título"
+
+#: metaboxes/library/vibe-editor.php:1467
+#: metaboxes/library/vibe-editor.php:2111
+msgid "Show more link"
+msgstr "Mostrar mais Links"
+
+#: metaboxes/library/vibe-editor.php:1474
+#: metaboxes/library/vibe-editor.php:2118
+msgid "More Link (User redirected to this page on click)"
+msgstr "Mais Link (redirecionado para esta página com o clique do usuário)"
+
+#: metaboxes/library/vibe-editor.php:1480
+#: metaboxes/library/vibe-editor.php:2124
+#: metaboxes/library/vibe-editor.php:2325
+#: metaboxes/library/vibe-editor.php:2332
+#: metaboxes/library/vibe-editor.php:2338
+#, fuzzy
+msgid "Show Direction arrows"
+msgstr "Mostras Setas de Direção no Slider"
+
+#: metaboxes/library/vibe-editor.php:1487
+#: metaboxes/library/vibe-editor.php:2131
+#: metaboxes/library/vibe-editor.php:2344
+#, fuzzy
+msgid "Show Control dots"
+msgstr "Mostrar Controles"
+
+#: metaboxes/library/vibe-editor.php:1495
+msgid ""
+"Enter Post Type<br /><span style=\"font-size:11px;\">(Select Post Type from "
+"Posts/Courses/Clients/Products ...)</span>"
+msgstr ""
+"Tipo de Post<br /><span style=\"font-size:11px;\">(Selecione o tipo de post "
+"em Posts/Cursos/Clientes/Produtos ...)</span>"
+
+#: metaboxes/library/vibe-editor.php:1498
+#: metaboxes/library/vibe-editor.php:1622
+#: metaboxes/library/vibe-editor.php:1730
+msgid "post"
+msgstr "post"
+
+#: metaboxes/library/vibe-editor.php:1502
+#: metaboxes/library/vibe-editor.php:1734
+msgid ""
+"Enter Taxonomy Slug (optional)<br /><span style=\"font-size:11px;\">(A "
+"\"Taxonomy\" is a grouping mechanism for posts. Like Category for Posts, "
+"Tags for Posts, Portfolio Type for Portfolio etc.. <a href=\"http://codex."
+"wordpress.org/Taxonomies\">more</a>)</span> "
+msgstr ""
+"Taxonomia Slug (opcional)<br /><span style=\"font-size:11px;\">(Uma "
+"\"Taxonomy\" é um grupo de mecanismos para posts. Como Categorias para "
+"Posts, Tags para Posts, Tipo de Portfolio para Portfolio etc.. <a href="
+"\"http://codex.wordpress.org/Taxonomies\">mais</a>)</span> "
+
+#: metaboxes/library/vibe-editor.php:1508
+#, fuzzy
+msgid ""
+"Enter Taxonomy Term Slug (optional, only if above is selected, comma "
+"saperated for multiple terms): "
+msgstr ""
+"Digite Taxonomia Nome do Termo (opcional, somente se for selecionado acima):"
+
+#: metaboxes/library/vibe-editor.php:1513
+msgid "Or Enter Specific Post Ids"
+msgstr "Ou Digitar Específico Post Ids"
+
+#: metaboxes/library/vibe-editor.php:1518
+#: metaboxes/library/vibe-editor.php:1635
+#: metaboxes/library/vibe-editor.php:1751
+msgid "Course Types [Only for Post type = Course]"
+msgstr "Tipos de Cursos [Somente para o tipo Post = Curso]"
+
+#: metaboxes/library/vibe-editor.php:1529
+#: metaboxes/library/vibe-editor.php:1646
+#: metaboxes/library/vibe-editor.php:1762
+msgid "recent"
+msgstr "recente"
+
+#: metaboxes/library/vibe-editor.php:1532
+msgid "Carousel/Rotating Block Style"
+msgstr "Estilo do Bloco Carrossel/Rotating"
+
+#: metaboxes/library/vibe-editor.php:1535
+#: metaboxes/library/vibe-editor.php:1652
+#: metaboxes/library/vibe-editor.php:1768
+msgid "excerpt"
+msgstr "Trecho"
+
+#: metaboxes/library/vibe-editor.php:1538
+#: metaboxes/library/vibe-editor.php:2166
+#: metaboxes/library/vibe-editor.php:2350
+msgid "Auto slide/rotate"
+msgstr "Auto slide/rotação"
+
+#: metaboxes/library/vibe-editor.php:1544
+#: metaboxes/library/vibe-editor.php:2172
+#: metaboxes/library/vibe-editor.php:2356
+msgid "Width each crousel block"
+msgstr "Largura de cada bloco carrossel"
+
+#: metaboxes/library/vibe-editor.php:1546
+#: metaboxes/library/vibe-editor.php:2174
+#: metaboxes/library/vibe-editor.php:2358
+msgid "268"
+msgstr "268"
+
+#: metaboxes/library/vibe-editor.php:1549
+#: metaboxes/library/vibe-editor.php:2177
+#: metaboxes/library/vibe-editor.php:2361
+msgid "Maximum Number of blocks in One screen"
+msgstr "Número máximo de blocos em uma única tela"
+
+#: metaboxes/library/vibe-editor.php:1551
+#: metaboxes/library/vibe-editor.php:2179
+#: metaboxes/library/vibe-editor.php:2363
+msgid "4"
+msgstr "4"
+
+#: metaboxes/library/vibe-editor.php:1554
+#: metaboxes/library/vibe-editor.php:2182
+#: metaboxes/library/vibe-editor.php:2366
+msgid "Minimum Number of blocks in one Screen"
+msgstr "Número máximo de blocos em uma única tela"
+
+#: metaboxes/library/vibe-editor.php:1556
+#: metaboxes/library/vibe-editor.php:2184
+#: metaboxes/library/vibe-editor.php:2368
+msgid "2"
+msgstr "2"
+
+#: metaboxes/library/vibe-editor.php:1559
+#: metaboxes/library/vibe-editor.php:2187
+#: metaboxes/library/vibe-editor.php:2371
+msgid "Move blocks in one slide"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:1564
+#: metaboxes/library/vibe-editor.php:2192
+#: metaboxes/library/vibe-editor.php:2376
+msgid "Total Number of Blocks"
+msgstr "Número total de blocos"
+
+#: metaboxes/library/vibe-editor.php:1566
+#: metaboxes/library/vibe-editor.php:1673
+#: metaboxes/library/vibe-editor.php:1803
+#: metaboxes/library/vibe-editor.php:2194
+#: metaboxes/library/vibe-editor.php:2378
+msgid "6"
+msgstr "6"
+
+#: metaboxes/library/vibe-editor.php:1570
+msgid "Excerpt Length in Block (in characters)"
+msgstr "Comprimento Trecho do Bloco (em caracteres)"
+
+#: metaboxes/library/vibe-editor.php:1572
+#: metaboxes/library/vibe-editor.php:1668
+#: metaboxes/library/vibe-editor.php:1823
+msgid "100"
+msgstr "100"
+
+#: metaboxes/library/vibe-editor.php:1575
+#: metaboxes/library/vibe-editor.php:2197
+msgid "Show Link button on image hover"
+msgstr "Mostrar botão do link na imagem em foco"
+
+#: metaboxes/library/vibe-editor.php:1581
+#: metaboxes/library/vibe-editor.php:1689
+#: metaboxes/library/vibe-editor.php:1834
+#: metaboxes/library/vibe-editor.php:1869
+#: metaboxes/library/vibe-editor.php:1950
+#: metaboxes/library/vibe-editor.php:2066
+#: metaboxes/library/vibe-editor.php:2203
+#: metaboxes/library/vibe-editor.php:2248
+#: metaboxes/library/vibe-editor.php:2291
+#: metaboxes/library/vibe-editor.php:2381
+#: metaboxes/library/vibe-editor.php:2411
+msgid "Show Advanced settings"
+msgstr "Mostrar configurações avançadas"
+
+#: metaboxes/library/vibe-editor.php:1586
+#: metaboxes/library/vibe-editor.php:1694
+#: metaboxes/library/vibe-editor.php:1839
+#: metaboxes/library/vibe-editor.php:1880
+#: metaboxes/library/vibe-editor.php:1961
+#: metaboxes/library/vibe-editor.php:2077
+#: metaboxes/library/vibe-editor.php:2208
+#: metaboxes/library/vibe-editor.php:2253
+#: metaboxes/library/vibe-editor.php:2296
+#: metaboxes/library/vibe-editor.php:2386
+#: metaboxes/library/vibe-editor.php:2416
+#: metaboxes/library/vibe-editor.php:2512
+msgid "* Custom Class name (Add Custom Class to this Block)"
+msgstr ""
+"* Nome da classe Personalizado (Adicionar Classe customizada para este Bloco)"
+
+#: metaboxes/library/vibe-editor.php:1590
+#: metaboxes/library/vibe-editor.php:1698
+#: metaboxes/library/vibe-editor.php:1843
+#: metaboxes/library/vibe-editor.php:1884
+#: metaboxes/library/vibe-editor.php:1965
+#: metaboxes/library/vibe-editor.php:2081
+#: metaboxes/library/vibe-editor.php:2212
+#: metaboxes/library/vibe-editor.php:2257
+#: metaboxes/library/vibe-editor.php:2300
+#: metaboxes/library/vibe-editor.php:2390
+#: metaboxes/library/vibe-editor.php:2420
+#: metaboxes/library/vibe-editor.php:2516
+msgid "* Class for on containing Layout column"
+msgstr "* Class para a coluna contendo layout"
+
+#: metaboxes/library/vibe-editor.php:1594
+#: metaboxes/library/vibe-editor.php:1702
+#: metaboxes/library/vibe-editor.php:1847
+#: metaboxes/library/vibe-editor.php:1888
+#: metaboxes/library/vibe-editor.php:1969
+#: metaboxes/library/vibe-editor.php:2085
+#: metaboxes/library/vibe-editor.php:2216
+#: metaboxes/library/vibe-editor.php:2261
+#: metaboxes/library/vibe-editor.php:2304
+#: metaboxes/library/vibe-editor.php:2394
+#: metaboxes/library/vibe-editor.php:2424
+#: metaboxes/library/vibe-editor.php:2520
+msgid ""
+"* Add Custom CSS (Use <strong>.</strong> for class name, <strong>:hover</"
+"strong> for hover styles etc..)"
+msgstr ""
+"* Adicionar CSS customizado (Use <strong>.</ strong> para o nome da class, "
+"<strong>:Sobre </ strong> sobre estilos etc ..)"
+
+#: metaboxes/library/vibe-editor.php:1604
+msgid "Filterable Posts"
+msgstr "Posts filtráveis"
+
+#: metaboxes/library/vibe-editor.php:1608
+msgid "Filterable Block Title"
+msgstr "Título do bloco Filtravel"
+
+#: metaboxes/library/vibe-editor.php:1619
+msgid "Select a Post Type"
+msgstr "Selecione um Tipo de Post"
+
+#: metaboxes/library/vibe-editor.php:1625
+msgid ""
+"Enter relevant Taxonomy name used for Filter buttons (example : course-cat,"
+"event-type..)"
+msgstr ""
+"Digite o nome da Taxonomia relevante usado os botões de filtro (exemplo: "
+"curso-cat, evento-tipo..)"
+
+#: metaboxes/library/vibe-editor.php:1630
+msgid "Enter terms (comma saperated term slugs) to be \"excluded\" in filters"
+msgstr ""
+"Digite os termos (slugs separados por vírgula) para ser \" excluídos\" nos "
+"filtros"
+
+#: metaboxes/library/vibe-editor.php:1649
+#: metaboxes/library/vibe-editor.php:1765
+msgid "Featured Media Block Style"
+msgstr "Destaque Estilo do Bloco de Mídia"
+
+#: metaboxes/library/vibe-editor.php:1655
+msgid "Show All link"
+msgstr "Mostrar Todos Links"
+
+#: metaboxes/library/vibe-editor.php:1661
+msgid "Column Width (in px)"
+msgstr "Largura da Coluna (em px)"
+
+#: metaboxes/library/vibe-editor.php:1666
+#: metaboxes/library/vibe-editor.php:1821
+msgid "Excerpt Length (in characters)"
+msgstr "Comprimento do trecho (em caracteres)"
+
+#: metaboxes/library/vibe-editor.php:1671
+msgid "Total Number of blocks"
+msgstr "Número total de blocos"
+
+#: metaboxes/library/vibe-editor.php:1676
+msgid "Show Pagination"
+msgstr "Mostrar Paginação"
+
+#: metaboxes/library/vibe-editor.php:1683
+msgid "Show Link [Links to Post]"
+msgstr "Mostrar Link [Links para Post]"
+
+#: metaboxes/library/vibe-editor.php:1712
+msgid "Post Grid"
+msgstr "Publicar Grade"
+
+#: metaboxes/library/vibe-editor.php:1716
+msgid "Grid Title"
+msgstr "Título da Grade"
+
+#: metaboxes/library/vibe-editor.php:1727
+msgid "Custom Post Type"
+msgstr "Tipo de publicação customizavel"
+
+#: metaboxes/library/vibe-editor.php:1740
+#, fuzzy
+msgid ""
+"Enter Taxonomy Term Slugs (optional, only if above is selected, comma "
+"saperated if multiple): "
+msgstr ""
+"Digite Taxonomia Nome do Termo (opcional, somente se for selecionado acima):"
+
+#: metaboxes/library/vibe-editor.php:1746
+msgid "Or Enter Specific Post Ids (comma saperated)"
+msgstr "Ou Digitar específicos ID dos Posts (separados por vírgula)"
+
+#: metaboxes/library/vibe-editor.php:1772
+msgid "Grid Masonry Layout"
+msgstr "Layout da Grade Masonry"
+
+#: metaboxes/library/vibe-editor.php:1779
+msgid "Grid Columns"
+msgstr "Grade de Colunas"
+
+#: metaboxes/library/vibe-editor.php:1791
+msgid "Masonry Grid Column Width(in px)"
+msgstr "Largura da Coluna Masonry Grid (em px)"
+
+#: metaboxes/library/vibe-editor.php:1796
+msgid "Spacing between Columns (in px)"
+msgstr "Espaçamento entre colunas (em px)"
+
+#: metaboxes/library/vibe-editor.php:1801
+msgid "Total Number of Blocks in Grid"
+msgstr "Número total de blocos na grade"
+
+#: metaboxes/library/vibe-editor.php:1807
+msgid "Infinite Scroll"
+msgstr "Rolagem Infinita"
+
+#: metaboxes/library/vibe-editor.php:1814
+msgid "Enable Pagination (If infinite scroll is off)"
+msgstr "Habilitar Paginação (Rolagem infinita está desligada)"
+
+#: metaboxes/library/vibe-editor.php:1827
+msgid "Show Link"
+msgstr "Mostrar Link"
+
+#: metaboxes/library/vibe-editor.php:1856
+msgid "WP Editor"
+msgstr "WP Editor"
+
+#: metaboxes/library/vibe-editor.php:1859
+#: metaboxes/library/vibe-editor.php:1900
+#: metaboxes/library/vibe-editor.php:1986
+msgid "Reference Title"
+msgstr "Título de Referência"
+
+#: metaboxes/library/vibe-editor.php:1874
+#: metaboxes/library/vibe-editor.php:1955
+#: metaboxes/library/vibe-editor.php:2071
+#, fuzzy
+msgid ""
+"* On-Load CSS3 Animation effect on the block (<a href=\"http://vibethemes."
+"com/documentation/wplms/knowledge-base/css3-transitions-in-page-builder/\" "
+"target=\"_blank\">more</a>)"
+msgstr ""
+"* Efeito On-Load CSS3 Animação sobre o bloco (<a href=\"http://vibethemes."
+"com/forums/showthread.php?914-CSS3-Animation-Effects&p=2488\" target=\"_blank"
+"\">mais</a>)"
+
+#: metaboxes/library/vibe-editor.php:1897
+msgid "Parallax Content"
+msgstr "Conteúdo Parallax"
+
+#: metaboxes/library/vibe-editor.php:1902
+msgid "Parallax Title"
+msgstr "Título Parallax"
+
+#: metaboxes/library/vibe-editor.php:1910
+msgid "Upload Parallax Background image"
+msgstr "Enviar Imagem de Fundo Parallax"
+
+#: metaboxes/library/vibe-editor.php:1915
+msgid "Background Effect"
+msgstr "Efeito Fundo"
+
+#: metaboxes/library/vibe-editor.php:1918
+msgid "Image Scrolls with scroll"
+msgstr "Imagem rola com rolagem"
+
+#: metaboxes/library/vibe-editor.php:1919
+msgid "Image Static with Scroll"
+msgstr "Imagem Estática com rolagem"
+
+#: metaboxes/library/vibe-editor.php:1920
+msgid "Full Parallax Static with Scroll"
+msgstr "Parallax Completa estática com rolagem"
+
+#: metaboxes/library/vibe-editor.php:1925
+msgid "Parallax Block Height (in px)"
+msgstr "Altura do Bloco Parallax (em px)"
+
+#: metaboxes/library/vibe-editor.php:1930
+msgid "Parallax value (Scroll senstivity, lower value means higher scroll)"
+msgstr ""
+"Valor Parallax (sensibilidade de rolagem, menor valor significa maior "
+"rolagem)"
+
+#: metaboxes/library/vibe-editor.php:1935
+msgid "Adjust background (in px)"
+msgstr "Ajustar imagem de fundo (em px)"
+
+#: metaboxes/library/vibe-editor.php:1940
+msgid "Top Padding(in px)"
+msgstr "﻿Espaço superior (em px)"
+
+#: metaboxes/library/vibe-editor.php:1945
+msgid "Bottom Padding(in px)"
+msgstr "Espaço inferior (em px)"
+
+#: metaboxes/library/vibe-editor.php:1983
+#, fuzzy
+msgid "Featured Content"
+msgstr "O componente em destaque não existe!"
+
+#: metaboxes/library/vibe-editor.php:1988
+#, fuzzy
+msgid "reference Title"
+msgstr "Título de Referência"
+
+#: metaboxes/library/vibe-editor.php:1991
+#, fuzzy
+msgid "Content Style"
+msgstr "Conteúdo e Estilo"
+
+#: metaboxes/library/vibe-editor.php:1997
+msgid "Upload Image (Optional)"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2002
+msgid "Select Icon (Optional)"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2012
+#, fuzzy
+msgid "Style settings"
+msgstr "Configurações do Slider"
+
+#: metaboxes/library/vibe-editor.php:2017
+#, fuzzy
+msgid "Icon Size/Image Width (in px)"
+msgstr "Largura da Coluna (em px)"
+
+#: metaboxes/library/vibe-editor.php:2022
+#, fuzzy
+msgid "Icon Color"
+msgstr "Item Cor"
+
+#: metaboxes/library/vibe-editor.php:2027
+#, fuzzy
+msgid "Top Padding / Top Spacing (in px)"
+msgstr "﻿Espaço superior (em px)"
+
+#: metaboxes/library/vibe-editor.php:2032
+#, fuzzy
+msgid "Bottom Padding / Bottom Spacing (in px)"
+msgstr "Espaço inferior (em px)"
+
+#: metaboxes/library/vibe-editor.php:2037
+#, fuzzy
+msgid "Background Color"
+msgstr "Efeito Fundo"
+
+#: metaboxes/library/vibe-editor.php:2042
+#, fuzzy
+msgid "Text Color"
+msgstr "Cor do Evento"
+
+#: metaboxes/library/vibe-editor.php:2047
+msgid "Border"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2056
+msgid "Border width"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2061
+#, fuzzy
+msgid "border Color"
+msgstr "Cor do remetente"
+
+#: metaboxes/library/vibe-editor.php:2094
+#, fuzzy
+msgid "Member Carousels/Rotating Blocks"
+msgstr "Blocks Carrosséis/Rotativas"
+
+#: metaboxes/library/vibe-editor.php:2139
+#, fuzzy
+msgid "Select member type"
+msgstr "Selecione um Tipo de Post"
+
+#: metaboxes/library/vibe-editor.php:2146
+#, fuzzy
+msgid "Or Enter Specific Member Ids"
+msgstr "Ou Digitar Específico Post Ids"
+
+#: metaboxes/library/vibe-editor.php:2151
+#, fuzzy
+msgid "Enter Profile fields (comma saperated field \"names\")"
+msgstr "Ou Digitar específicos ID dos Posts (separados por vírgula)"
+
+#: metaboxes/library/vibe-editor.php:2156
+msgid "Display Style"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2240
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: metaboxes/library/vibe-editor.php:2243
+#: metaboxes/library/vibe-editor.php:2286
+msgid "Select Slider"
+msgstr "Selecionar Slider"
+
+#: metaboxes/library/vibe-editor.php:2283
+msgid "Layer Slider"
+msgstr "Layer Slider"
+
+#: metaboxes/library/vibe-editor.php:2312
+#, fuzzy
+msgid "Course Category Carousel"
+msgstr "Categoria do Curso"
+
+#: metaboxes/library/vibe-editor.php:2320
+msgid "Include Term Slugs (optional, comma saperated)"
+msgstr ""
+
+#: metaboxes/library/vibe-editor.php:2328
+#, fuzzy
+msgid "Description"
+msgstr "Descrição"
+
+#: metaboxes/library/vibe-editor.php:2328
+#, fuzzy
+msgid "Custom Order"
+msgstr "Custom Class"
+
+#: metaboxes/library/vibe-editor.php:2334
+#, fuzzy
+msgid "Decending"
+msgstr "Descrecente"
+
+#: metaboxes/library/vibe-editor.php:2334
+#, fuzzy
+msgid "Ascending"
+msgstr "Crescente"
+
+#: metaboxes/library/vibe-editor.php:2405
+msgid "Select a Sidebar"
+msgstr "Selecione a Sidebar"
+
+#: metaboxes/library/vibe-editor.php:2408
+msgid "MainSidebar"
+msgstr "Sidebar principal"
+
+#: metaboxes/library/vibe-editor.php:2432
+msgid "FlexSlider"
+msgstr "FlexSlider"
+
+#: metaboxes/library/vibe-editor.php:2435
+msgid "Slider ID (for reference & Css)"
+msgstr "Slider ID (para referência e Css)"
+
+#: metaboxes/library/vibe-editor.php:2440
+msgid "Slide Style"
+msgstr "Estilo do Slide"
+
+#: metaboxes/library/vibe-editor.php:2452
+msgid "Animation Effect"
+msgstr "Efeito de Animação"
+
+#: metaboxes/library/vibe-editor.php:2454
+msgid "fade"
+msgstr "Fusão"
+
+#: metaboxes/library/vibe-editor.php:2454
+msgid "slide"
+msgstr "slide"
+
+#: metaboxes/library/vibe-editor.php:2459
+msgid "Slider settings"
+msgstr "Configurações do Slider"
+
+#: metaboxes/library/vibe-editor.php:2464
+msgid "Auto slide Images"
+msgstr "Auto slide Imagens"
+
+#: metaboxes/library/vibe-editor.php:2470
+msgid "Loop Slides"
+msgstr "Loop Slides"
+
+#: metaboxes/library/vibe-editor.php:2476
+msgid "Randomize Slides"
+msgstr "Slides Aleatórios"
+
+#: metaboxes/library/vibe-editor.php:2482
+msgid "Show Slider Direction arrows"
+msgstr "Mostras Setas de Direção no Slider"
+
+#: metaboxes/library/vibe-editor.php:2488
+msgid "Show Slider Control buttons"
+msgstr "Mostrar Botões de Controle no Slider"
+
+#: metaboxes/library/vibe-editor.php:2494
+msgid "Animation Duration (in ms)"
+msgstr "Duração da Animação (em ms)"
+
+#: metaboxes/library/vibe-editor.php:2500
+msgid "Auto Animation Speed (in ms)"
+msgstr "Auto Velocidade da Animação (em ms)"
+
+#: metaboxes/library/vibe-editor.php:2505
+msgid "Pause Slider On Hover"
+msgstr "Pausar Slide em cima"
+
+#: metaboxes/library/vibe-editor.php:2537
+msgid "1/2 Column"
+msgstr "1/2 Coluna"
+
+#: metaboxes/library/vibe-editor.php:2538
+msgid "1/3 Column"
+msgstr "1/3 Coluna"
+
+#: metaboxes/library/vibe-editor.php:2539
+msgid "1/4 Column"
+msgstr "1/4 Coluna"
+
+#: metaboxes/library/vibe-editor.php:2540
+#, fuzzy
+msgid "1/4 Column & 1/2 Column"
+msgstr "1/2 Coluna"
+
+#: metaboxes/library/vibe-editor.php:2541
+msgid "2/3 Column"
+msgstr "2/3 Coluna"
+
+#: metaboxes/library/vibe-editor.php:2542
+msgid "3/4 Column"
+msgstr "3/4 Coluna"
+
+#: metaboxes/library/vibe-editor.php:2543
+msgid "Full-Width Resizable Column"
+msgstr "Largura total Coluna redimensionável"
+
+#: metaboxes/library/vibe-editor.php:2544
+msgid "FullScreen Stripe with Container"
+msgstr "Stripe FullScreen com Container"
+
+#: metaboxes/library/vibe-editor.php:2545
+msgid "FullScreen Stripe"
+msgstr "FullScreen Stripe"
+
+#: metaboxes/library/vibe-editor.php:2570
+msgid "COLUMNS"
+msgstr "COLUNAS"
+
+#: metaboxes/library/vibe-editor.php:2571
+msgid "CONTENT"
+msgstr "CONTEÚDO"
+
+#: metaboxes/library/vibe-editor.php:2572
+msgid "SAVED LAYOUTS"
+msgstr "LAYOUTS SALVOS"
+
+#: metaboxes/library/vibe-editor.php:2623
+msgid "Enter name of Sample Layout"
+msgstr "Digite o nome do Exemplo de Layout"
+
+#: metaboxes/library/vibe-editor.php:2624
+msgid "Save Layout"
+msgstr "Salvar Layout"
+
+#: metaboxes/library/vibe-editor.php:2634
+#: metaboxes/library/vibe-editor.php:2730
+#: metaboxes/library/vibe-editor.php:2856
+msgid "Save Changes"
+msgstr "Salvar Alterações"
+
+#: metaboxes/library/vibe-editor.php:2635
+msgid "Save as New Layout"
+msgstr "Salvar um Novo Layout"
+
+#: metaboxes/library/vibe-editor.php:2636
+msgid "Generated Shortcode"
+msgstr "Gerar Shortcode"
+
+#: metaboxes/library/vibe-editor.php:2930
+msgid "Show Page Content"
+msgstr "Mostrar Conteúdo da Página"
+
+#: metaboxes/meta_box.php:374 metaboxes/meta_box.php:536
+#: metaboxes/meta_box.php:540
+#, fuzzy, php-format
+msgid "Select a %s"
+msgstr "Selecionar"
+
+#: metaboxes/meta_box.php:385
+#, fuzzy, php-format
+msgid "Select multiple %s"
+msgstr "Selecione o tipo da pergunta, "
+
+#: metaboxes/meta_box.php:463
+msgid "Latitude"
+msgstr "Latitude"
+
+#: metaboxes/meta_box.php:464
+msgid "Longitude"
+msgstr "Longitude"
+
+#: metaboxes/meta_box.php:465
+msgid "Closest Matching Address"
+msgstr "Ponto de referência"
+
+#: metaboxes/meta_box.php:468
+msgid "Street Address"
+msgstr "Endereço"
+
+#: metaboxes/meta_box.php:469
+msgid "City"
+msgstr "Cidade"
+
+#: metaboxes/meta_box.php:470
+msgid "State"
+msgstr "Estado"
+
+#: metaboxes/meta_box.php:471
+msgid "Zip/Pin Code"
+msgstr "CEP"
+
+#: metaboxes/meta_box.php:472
+msgid "Country"
+msgstr "País"
+
+#: metaboxes/meta_box.php:480
+#, fuzzy
+msgid "Select a group"
+msgstr "Selecionar um grupo"
+
+#: metaboxes/meta_box.php:489 metaboxes/meta_box.php:512
+msgid "Buddypress Groups is not Active"
+msgstr "Grupos Buddypress não esta Ativo"
+
+#: metaboxes/meta_box.php:497
+msgid "Select groups"
+msgstr "Selecionar grupos"
+
+#: metaboxes/meta_box.php:518
+msgid "Add Section"
+msgstr "Adicionar Seção"
+
+#: metaboxes/meta_box.php:549
+#, fuzzy
+msgid "Select "
+msgstr "Selecionar"
+
+#: metaboxes/meta_box.php:560
+msgid "Select Taxonomy"
+msgstr "Selecione Taxonomia"
+
+#: metaboxes/meta_box.php:578 metaboxes/meta_box.php:689
+#: metaboxes/meta_box.php:710 metaboxes/meta_box.php:728
+#: metaboxes/meta_box.php:748 metaboxes/meta_box.php:778
+msgid "Add More"
+msgstr "Adicionar Mais"
+
+#: metaboxes/meta_box.php:622 metaboxes/meta_box.php:636
+#, fuzzy
+msgid "Number of questions to pull"
+msgstr "Número de Questões no Questionário Dinâmico"
+
+#: metaboxes/meta_box.php:629
+#, fuzzy
+msgid "Select Tag"
+msgstr "Selecionar"
+
+#: metaboxes/meta_box.php:640
+#, fuzzy
+msgid "Total Question Count :"
+msgstr "Duração Total do Curso"
+
+#: metaboxes/meta_box.php:668
+msgid "Add Question"
+msgstr "Adicionar Pergunta"
+
+#: metaboxes/meta_box.php:681 metaboxes/meta_box.php:682
+msgid "Type Question"
+msgstr "Pergunta de tipo"
+
+#: metaboxes/meta_box.php:793 metaboxes/meta_box.php:802
+msgid "Marks for a Correct answer"
+msgstr "Marcas para uma resposta correta"
+
+#: metaboxes/meta_box.php:806
+msgid "Total marks for the Quiz :"
+msgstr "Total de marcas para o questionário:"
+
+#: metaboxes/meta_box.php:832
+msgid "Delete image"
+msgstr "Excluir Imagem"
+
+#: metaboxes/meta_box.php:832 metaboxes/meta_box.php:895
+#: metaboxes/meta_box.php:974 metaboxes/meta_box.php:1037
+#: metaboxes/meta_box.php:1116 metaboxes/meta_box.php:1179
+msgid "Delete"
+msgstr "Excluir"
+
+#: metaboxes/meta_box.php:846
+msgid "Add Gallery images"
+msgstr "Adicionar Galeria de Imagens"
+
+#: metaboxes/meta_box.php:872
+msgid "Add Images to Gallery"
+msgstr "Adicionar Imagens para Galeria"
+
+#: metaboxes/meta_box.php:874
+msgid "Add to Gallery"
+msgstr "Adicionar para Galeria"
+
+#: metaboxes/meta_box.php:974
+msgid "Delete audio file"
+msgstr "Excluir arquivo de áudio"
+
+#: metaboxes/meta_box.php:988
+msgid "Add Audio Files"
+msgstr "Adicionar arquivos de áudio"
+
+#: metaboxes/meta_box.php:1014 metaboxes/meta_box.php:1016
+msgid "Add Audio"
+msgstr "Adicionar Áudio"
+
+#: metaboxes/meta_box.php:1116
+msgid "Delete video file"
+msgstr "Excluir arquivo de vídeo"
+
+#: metaboxes/meta_box.php:1130 metaboxes/meta_box.php:1156
+msgid "Add Video Files"
+msgstr "Adicionar Arquivos de Vídeo"
+
+#: metaboxes/meta_box.php:1158
+msgid "Add Video"
+msgstr "Adicionar Vídeo"
+
+#~ msgid ""
+#~ "Enter the number of Questions in the dynamic quiz. (required if dynamic "
+#~ "enabled)."
+#~ msgstr ""
+#~ "Digite o número de perguntas no questionário dinâmico. (obrigatório "
+#~ "dinâmico ativado)."
+
+#~ msgid "Student progress to next"
+#~ msgstr "Progresso do aluno para próximo"
+
+#~ msgid "LMS"
+#~ msgstr "LMS"
+
+#~ msgid "Assignment :"
+#~ msgstr "Tarefa"
+
+#~ msgid "Take this Course"
+#~ msgstr "Inscreva-se no Curso"
+
+#~ msgid "Course code applied"
+#~ msgstr "Código do Curso Aplicado"
+
+#~ msgid "Payments History"
+#~ msgstr "Histórico de Pagamento"
+
+#~ msgid "Duration between consecutive Drip feed units (in "
+#~ msgstr "Duração entre aulas consecutivas (em "
+
+#~ msgid "Survey/Practice Settings"
+#~ msgstr "Configurações de pesquisa/prática"
+
+#~ msgid "Comments"
+#~ msgstr "Comentários"
+
+#~ msgid "Instructor Signup Ninja Forms Form ID"
+#~ msgstr "Cadastro de professor - Ninja Forms Form ID"
+
+#, fuzzy
+#~ msgid "Course Directory / Category"
+#~ msgstr "Categoria do Curso"
+
+#, fuzzy
+#~ msgid "Quiz Course"
+#~ msgstr "Curso"
+
+#, fuzzy
+#~ msgid "Unit Course"
+#~ msgstr "Curso"
+
+#~ msgid "Select One"
+#~ msgstr "Selecionar Um"
+
+#~ msgid "Show Lightbox button on image hover[Opens Full image]"
+#~ msgstr "Botão Mostrar Lightbox na imagem em foco [Abre imagem Full]"
+
+#~ msgid "Show Lightbox [Opens Full image]"
+#~ msgstr "Mostrar Lightbox [Abrir a imagem Full]"
+
+#~ msgid "Adds a Back to Course button, on quiz submission."
+#~ msgstr "Adiciona um botão Voltar ao Course, na finalização do quiz."
+
+#~ msgid "FREE"
+#~ msgstr "GRÁTIS"
+
+#~ msgid " Hours"
+#~ msgstr " Horas"
+
+#~ msgid "minutes"
+#~ msgstr "minutos"
+
+#~ msgid "MEMBERSHIP"
+#~ msgstr "MEMBROS"
+
+#~ msgid "No Level Selected"
+#~ msgstr "Nenhum Nível Selecionado"
+
+#~ msgid "Media"
+#~ msgstr "Mídia"
+
+#~ msgid "Gallery"
+#~ msgstr "Galeria"
+
+#~ msgid "Self Hosted Video"
+#~ msgstr "Vídeo Hospedado Servidor"
+
+#~ msgid "IFrame Video"
+#~ msgstr "IFrame Video"
+
+#~ msgid "Self Hosted Audio"
+#~ msgstr "Áudio Hospedado Servidor"
+
+#~ msgid "Other"
+#~ msgstr "Outro"
+
+#~ msgid "Create a Gallery in post."
+#~ msgstr "Criar uma galeria em post."
+
+#~ msgid ""
+#~ "Select video files (of same Video): xxxx.mp4,xxxx.ogv,xxxx.ogg for max. "
+#~ "browser compatibility"
+#~ msgstr ""
+#~ "Selecione os arquivos de vídeo (do mesmo Vídeo): xxxx.mp4, xxxx.ogv, xxxx."
+#~ "ogg para max. compatibilidade do navegador"
+
+#~ msgid "IFRAME Video"
+#~ msgstr "IFRAME Video"
+
+#~ msgid "Insert Iframe (Youtube,Vimeo..) embed code of video "
+#~ msgstr "Inserir Iframe (Youtube, Vimeo..) inserir o código do vídeo"
+
+#~ msgid ""
+#~ "Select audio files (of same Audio): xxxx.mp3,xxxx.wav,xxxx.ogg for max. "
+#~ "browser compatibility"
+#~ msgstr ""
+#~ "Selecione os arquivos de áudio (do mesmo áudio): xxxx.mp3, xxxx.wav, xxxx."
+#~ "ogg para max. compatibilidade do navegador"
+
+#~ msgid "Insert Shortcode or relevant content."
+#~ msgstr "Insira Shortcode ou conteúdo relevante."
+
+#~ msgid "Send Notification upon evaluation"
+#~ msgstr "Enviar Notificação sobre avaliação"
+
+#~ msgid "Student recieve notification when quiz is evaluated."
+#~ msgstr "Aluno Recebe notificação quando o quiz é avaliado."
+
+#~ msgid "Quiz questions"
+#~ msgstr "Perguntas Quiz"

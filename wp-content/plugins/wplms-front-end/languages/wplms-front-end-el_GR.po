@@ -1,0 +1,3059 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Front End\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-30 16:41+0530\n"
+"PO-Revision-Date: 2016-11-30 16:41+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: VibeThemes <vibethemes@gmail.com>\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ vibe
+#: autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Please enter your Envato Marketplace Username."
+
+# @ vibe
+#: autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Please enter your Envato Marketplace API Key."
+
+# @ vibe
+#: autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "The API \"set\" is a required parameter."
+
+# @ vibe
+#: autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "The Envato Marketplace \"item ID\" is a required parameter."
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "An Unexpected HTTP Error occurred during the API request."
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:376
+#: autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "ΕΠΑΝΑΛΥΨΗ ΞΑΝΑ"
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "An unknown error occurred"
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "Plugin reactivated successfully. "
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr " Plugin Updates"
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "Username: "
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "Email: "
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "Key: "
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "Edit Key"
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>Unable to validate update activation.</p>"
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "Add Key"
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "User name"
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr "Email"
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "Themeforest User name ( for Auto-Updates )"
+
+#: includes/class.generate_fields.php:45
+msgid "Set Course Memberships"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:72
+#, fuzzy
+msgid "EDIT COURSE"
+msgstr "ΕΠΕΞΕΡΓΑΣΙΑ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:72 includes/class.generate_fields.php:128
+#, fuzzy
+msgid "CREATE COURSE"
+msgstr "ΣΥΝΔΕΜΕΝΑ ΜΑΘΗΜΑΤΑ"
+
+#: includes/class.generate_fields.php:73
+msgid "Start building a course"
+msgstr ""
+
+# @ default
+#: includes/class.generate_fields.php:76
+#, fuzzy
+msgid "Course title"
+msgstr "ΤΙΤΛΟΣ ΜΑΘΗΜΑΤΟΣ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:82
+#, fuzzy
+msgid "ENTER A COURSE TITLE"
+msgstr "ΣΥΝΔΕΜΕΝΑ ΜΑΘΗΜΑΤΑ"
+
+#: includes/class.generate_fields.php:83
+msgid ""
+"This is the title of the course which is displayed on top of every course"
+msgstr ""
+
+# @ default
+#: includes/class.generate_fields.php:86
+#, fuzzy
+msgid "Course Category"
+msgstr "Select Course Category"
+
+#: includes/class.generate_fields.php:93
+#, fuzzy
+msgid "Select a Course Category"
+msgstr "Select Course Category"
+
+#: includes/class.generate_fields.php:96
+msgid "Course Image"
+msgstr ""
+
+#: includes/class.generate_fields.php:100
+msgid "Upload a Course Image"
+msgstr ""
+
+# @ vibe
+#: includes/class.generate_fields.php:101
+#, fuzzy
+msgid "Set as Course Image"
+msgstr "ΔΗΜΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+#: includes/class.generate_fields.php:108
+msgid "Course Short Description"
+msgstr ""
+
+#: includes/class.generate_fields.php:114
+msgid "Add full description"
+msgstr ""
+
+#: includes/class.generate_fields.php:115
+msgid "Enter a short description of the course."
+msgstr ""
+
+#: includes/class.generate_fields.php:118
+msgid "Full Description"
+msgstr ""
+
+#: includes/class.generate_fields.php:125
+msgid "Enter full description of the course."
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:128
+#, fuzzy
+msgid "SAVE COURSE"
+msgstr "ΑΠΟΘΗΚΕΥΣΗ ΜΑΘΗΜΑΤΟΣ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:136 includes/class.process_fields.php:590
+#, fuzzy
+msgid "SETTINGS"
+msgstr "ΡΥΘΜΗΣΕΙΣ ΠΕΡΙΕΧΟΜΕΝΟΥ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:137
+#: includes/class.generate_fields.php:465
+#, fuzzy
+msgid "Course settings"
+msgstr "Course Settings Header"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:140
+#, fuzzy
+msgid "Course duration"
+msgstr "ΠΡΟΣΘΗΚΗ ΣΤΗΝ ΑΞΙΟΛΟΓΗΣΗ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+#: includes/class.generate_fields.php:141
+msgid "Maximum Course Duration"
+msgstr ""
+
+#: includes/class.generate_fields.php:148
+#, php-format
+msgid ""
+"Enter the maximum duration for the course in %s. This is the maximum "
+"duration within which the student should complete the course. Use 9999 for "
+"unlimited access to course."
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:151
+#, fuzzy
+msgid "Course duration parameter"
+msgstr "ΠΡΟΣΘΗΚΗ ΣΤΗΝ ΑΞΙΟΛΟΓΗΣΗ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:152
+#, fuzzy
+msgid "Set Course Duration parameter"
+msgstr "ΠΡΟΣΘΗΚΗ ΣΤΗΝ ΑΞΙΟΛΟΓΗΣΗ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+#: includes/class.generate_fields.php:158
+msgid "Set course duration parameter for this course."
+msgstr ""
+
+# @ vibe
+#: includes/class.generate_fields.php:161
+#, fuzzy
+msgid "Prerequisite Course"
+msgstr "ΔΗΜΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+#: includes/class.generate_fields.php:162
+msgid "Set a prerequisite Course"
+msgstr ""
+
+#: includes/class.generate_fields.php:167
+msgid "Enter first 4 letters of course for search"
+msgstr ""
+
+#: includes/class.generate_fields.php:169
+msgid ""
+"Pre-required course which the user needs to complete before subscribing to "
+"this course."
+msgstr ""
+
+#: includes/class.generate_fields.php:172
+msgid "Previous Unit Completion Lock"
+msgstr ""
+
+#: includes/class.generate_fields.php:173
+msgid "Previous Units/Quiz must be Complete before next unit/quiz access"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:175
+#: includes/class.generate_fields.php:208
+#: includes/class.generate_fields.php:230
+#: includes/class.generate_fields.php:241
+#: includes/class_wplms_front_end.php:956
+#: includes/class_wplms_front_end.php:1779
+msgid "NO"
+msgstr "ΟΧΙ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:175
+#: includes/class.generate_fields.php:208
+#: includes/class.generate_fields.php:230
+#: includes/class.generate_fields.php:241
+#: includes/class_wplms_front_end.php:958
+#: includes/class_wplms_front_end.php:1777
+msgid "YES"
+msgstr "ΝΑΙ"
+
+#: includes/class.generate_fields.php:180
+msgid "Force previous unit access lock."
+msgstr ""
+
+# @ default
+#: includes/class.generate_fields.php:183
+#, fuzzy
+msgid "Course Type"
+msgstr "Custom field deleted."
+
+# @ vibe
+#: includes/class.generate_fields.php:184
+#, fuzzy
+msgid "Set Course Type"
+msgstr "ΔΗΜΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+#: includes/class.generate_fields.php:186
+#, fuzzy
+msgid "ONLINE"
+msgstr "Online"
+
+#: includes/class.generate_fields.php:186
+#, fuzzy
+msgid "OFFLINE"
+msgstr "Offline"
+
+#: includes/class.generate_fields.php:191
+msgid "Offline Courses can be filtered in the Course directory."
+msgstr ""
+
+#: includes/class.generate_fields.php:194
+msgid "Unit Content (Offline Courses)"
+msgstr ""
+
+#: includes/class.generate_fields.php:195
+msgid "Full units in Curriculum"
+msgstr ""
+
+#: includes/class.generate_fields.php:197
+#: includes/class.generate_fields.php:219
+#, fuzzy
+msgid "HIDE"
+msgstr "HIDE"
+
+#: includes/class.generate_fields.php:197
+#: includes/class.generate_fields.php:219
+#, fuzzy
+msgid "SHOW"
+msgstr "Show:"
+
+#: includes/class.generate_fields.php:202
+msgid ""
+"Full Unit content is available for users subscribed to the course, directly "
+"from Course curriculum. Recommended for Offline Courses."
+msgstr ""
+
+#: includes/class.generate_fields.php:205
+msgid "Course Button (Offline Courses)"
+msgstr ""
+
+#: includes/class.generate_fields.php:206
+msgid "Hide Course Button after subscription"
+msgstr ""
+
+#: includes/class.generate_fields.php:213
+msgid "Hide the Course button after user is subscribed to the Course."
+msgstr ""
+
+#: includes/class.generate_fields.php:216
+msgid "Course Progress (Offline Courses)"
+msgstr ""
+
+#: includes/class.generate_fields.php:217
+msgid "Progress on Course home"
+msgstr ""
+
+#: includes/class.generate_fields.php:224
+msgid "Display Course progress on Course home page."
+msgstr ""
+
+#: includes/class.generate_fields.php:227
+msgid "Auto Progress (Offline Courses)"
+msgstr ""
+
+# @ vibe
+#: includes/class.generate_fields.php:228
+#, fuzzy
+msgid "Time based Course progress"
+msgstr "ΔΗΜΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+#: includes/class.generate_fields.php:235
+msgid ""
+"Automatically calculate progress based on Time elapsed in Course / Total "
+"course duration."
+msgstr ""
+
+#: includes/class.generate_fields.php:238
+msgid "Post Reivews (Offline Courses)"
+msgstr ""
+
+# @ default
+#: includes/class.generate_fields.php:239
+#, fuzzy
+msgid "Post Course reviews from Course Home"
+msgstr "Post restored to revision from %s"
+
+#: includes/class.generate_fields.php:246
+msgid "Enable course subscribed students to post reviews from Course home."
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:249
+#, fuzzy
+msgid "Course Evaluation"
+msgstr "ΠΡΟΣΘΗΚΗ ΣΤΗΝ ΑΞΙΟΛΟΓΗΣΗ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:250
+#, fuzzy
+msgid "Course Evaluation Mode"
+msgstr "ΠΡΟΣΘΗΚΗ ΣΤΗΝ ΑΞΙΟΛΟΓΗΣΗ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:252
+#: includes/class_wplms_front_end.php:1363
+msgid "MANUAL"
+msgstr "MANUAL"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:252
+#, fuzzy
+msgid "AUTOMATIC"
+msgstr "Automatic"
+
+#: includes/class.generate_fields.php:257
+msgid "User gets the course result instantly upon submission."
+msgstr ""
+
+#: includes/class.generate_fields.php:260
+msgid "Drip Feed"
+msgstr ""
+
+# @ default
+#: includes/class.generate_fields.php:261
+#, fuzzy
+msgid "Course Drip Feed"
+msgstr "Custom field deleted."
+
+#: includes/class.generate_fields.php:264
+#: includes/class.generate_fields.php:331
+#: includes/class.generate_fields.php:365 includes/class.process_fields.php:602
+#, fuzzy
+msgid "DISABLE"
+msgstr "Απενεργοποίηση"
+
+#: includes/class.generate_fields.php:264
+#: includes/class.generate_fields.php:331
+#: includes/class.generate_fields.php:365 includes/class.process_fields.php:602
+#, fuzzy
+msgid "ENABLE"
+msgstr "Ενεργοποίηση"
+
+#: includes/class.generate_fields.php:269
+msgid ""
+"Drip Feed courses, units are released one by one after certain duration of "
+"time."
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:272
+#: includes/class.generate_fields.php:273
+#, fuzzy
+msgid "Drip Feed Origin"
+msgstr "ΔΙΑΡΚΕΙΑ"
+
+#: includes/class.generate_fields.php:275
+#, fuzzy
+msgid "PREVIOUS UNIT"
+msgstr "ΠΡΟΙΓΟΥΜΕΝΗ ΕΝΟΤΗΤΑ"
+
+#: includes/class.generate_fields.php:275
+msgid "STARTING POINT"
+msgstr ""
+
+#: includes/class.generate_fields.php:280
+msgid ""
+"Drip Feed origin, count time from Previous Unit Access Time (default) OR "
+"Course starting date/time (if start date not set) ."
+msgstr ""
+
+#: includes/class.generate_fields.php:283
+#: includes/class.generate_fields.php:284
+msgid "Drip Feed Type"
+msgstr ""
+
+#: includes/class.generate_fields.php:286
+#, fuzzy
+msgid "UNIT"
+msgstr "ΣΗΜΙΩΣΗ ΟΣ ΟΛΟΚΛΗΡΟΜΕΝΟ"
+
+#: includes/class.generate_fields.php:286
+msgid "SECTION"
+msgstr ""
+
+#: includes/class.generate_fields.php:291
+msgid "Drip Feed type, release units or sections."
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:294
+#: includes/class.generate_fields.php:295
+#, fuzzy
+msgid "Drip Feed Duration Type"
+msgstr "ΔΙΑΡΚΕΙΑ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:298
+#: includes/class_wplms_front_end.php:1372
+msgid "STATIC"
+msgstr "STATIC"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:298
+#, fuzzy
+msgid "UNIT DURATION"
+msgstr "ΔΙΑΡΚΕΙΑ"
+
+#: includes/class.generate_fields.php:303
+msgid "Time gap between adjacent Units/Sections release."
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:306
+#, fuzzy
+msgid "Drip Duration"
+msgstr "ΔΙΑΡΚΕΙΑ"
+
+#: includes/class.generate_fields.php:307
+msgid "Set Duration between two successive Course elements"
+msgstr ""
+
+#: includes/class.generate_fields.php:314
+#, php-format
+msgid ""
+"Enter the drip duration for the course in %s. This is the duration after "
+"which the next unit/section unlocks for the user after viewing the previous "
+"unit/section."
+msgstr ""
+
+#: includes/class.generate_fields.php:317
+msgid "Drip Feed duration parameter"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:318
+#, fuzzy
+msgid "Set Drip Duration parameter"
+msgstr "ΔΙΑΡΚΕΙΑ"
+
+#: includes/class.generate_fields.php:324
+msgid "Set course drip feed duration parameter for this course."
+msgstr ""
+
+# @ default
+#: includes/class.generate_fields.php:327
+#: includes/class.generate_fields.php:328
+#, fuzzy
+msgid "Course Certificate"
+msgstr "ΠΤΥΧΙΟ ΓΙΑ ΤΟ ΜΑΘΗΜΑ"
+
+#: includes/class.generate_fields.php:336
+msgid "Award Course completion Certificates to student on course completion."
+msgstr ""
+
+#: includes/class.generate_fields.php:339
+msgid "Passing Percentage"
+msgstr ""
+
+#: includes/class.generate_fields.php:340
+msgid "Set Certificate Percentage"
+msgstr ""
+
+#: includes/class.generate_fields.php:345
+#: includes/class.generate_fields.php:379
+#, fuzzy
+msgid " out of 100"
+msgstr " ΣΤΑ 100"
+
+#: includes/class.generate_fields.php:347
+msgid ""
+"Any user achieving more marks (weighted average of Quizzes/assignments in "
+"course) than this gets the Course certificate."
+msgstr ""
+
+#: includes/class.generate_fields.php:350
+msgid "Certificate Template"
+msgstr ""
+
+#: includes/class.generate_fields.php:351
+msgid "Select Certificate template"
+msgstr ""
+
+#: includes/class.generate_fields.php:356
+msgid "Enter first 3 letters to search course template"
+msgstr ""
+
+#: includes/class.generate_fields.php:358
+msgid "Connect a custom Certificate template for this Course."
+msgstr ""
+
+#: includes/class.generate_fields.php:361
+#: includes/class.generate_fields.php:362
+#: includes/class.generate_fields.php:394
+#, fuzzy
+msgid "Course Badge"
+msgstr "ΔΙΑΚΡΙΤΙΚΟ ΓΙΑ ΤΟ ΜΑΘΗΜΑ"
+
+#: includes/class.generate_fields.php:370
+msgid "Award Excellence badges to student on course completion."
+msgstr ""
+
+#: includes/class.generate_fields.php:373
+msgid "Badge Percentage"
+msgstr ""
+
+#: includes/class.generate_fields.php:374
+msgid "Set Excellence Badge Percentage"
+msgstr ""
+
+#: includes/class.generate_fields.php:381
+msgid ""
+"Any user achieving more marks (weighted average of Quizzes/assignments in "
+"course) than this gets the Course Badge."
+msgstr ""
+
+# @ default
+#: includes/class.generate_fields.php:384
+#, fuzzy
+msgid "Badge Title"
+msgstr "Title"
+
+#: includes/class.generate_fields.php:385
+msgid "Set Badge title"
+msgstr ""
+
+# @ default
+#: includes/class.generate_fields.php:390
+#: includes/class.generate_fields.php:391
+#, fuzzy
+msgid "Course Badge Title"
+msgstr "Custom field deleted."
+
+#: includes/class.generate_fields.php:395
+msgid "Upload Course Badge"
+msgstr ""
+
+#: includes/class.generate_fields.php:398
+msgid "Select or Upload a Course badge."
+msgstr ""
+
+#: includes/class.generate_fields.php:399
+msgid "Add Course badge."
+msgstr ""
+
+#: includes/class.generate_fields.php:403
+msgid "Upload a course badge."
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:406
+#, fuzzy
+msgid "Course Retakes"
+msgstr " ΕΠΑΝΑΛΥΨΕΙΣ"
+
+# @ vibe
+#: includes/class.generate_fields.php:407
+#, fuzzy
+msgid "Student Course Retakes"
+msgstr "ΔΗΜΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+#: includes/class.generate_fields.php:413
+msgid "Set number of times a student can re-take the course (0 to disable)"
+msgstr ""
+
+#: includes/class.generate_fields.php:416
+msgid "Maxium Seats in Course"
+msgstr ""
+
+#: includes/class.generate_fields.php:417
+msgid "Maximum students that can join the Course"
+msgstr ""
+
+#: includes/class.generate_fields.php:423
+msgid "Maximum number of seats in course (blank to disable, 9999 for infinite)"
+msgstr ""
+
+# @ default
+#: includes/class.generate_fields.php:426
+#, fuzzy
+msgid "Course Start Date"
+msgstr "Custom field deleted."
+
+#: includes/class.generate_fields.php:427
+msgid "Start date"
+msgstr ""
+
+#: includes/class.generate_fields.php:433
+msgid "Set a Course start date."
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:436
+#, fuzzy
+msgid "Course Instructions"
+msgstr "Invalid Course Instructor"
+
+#: includes/class.generate_fields.php:437
+msgid "Add Course specific instructions"
+msgstr ""
+
+#: includes/class.generate_fields.php:443
+msgid "Course instructions are displayed when the user starts a course."
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:446
+#, fuzzy
+msgid "Course Completion Message"
+msgstr "ΠΡΟΣΘΗΚΗ ΝΗΝΥΜΑΤΟΣ ΟΛΟΚΛΗΡΩΣΗΣ ΤΟΥ ΚΟΥΙΖ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:447
+#, fuzzy
+msgid "Completion Message"
+msgstr "ΜΗΝΥΜΑ ΟΛΟΚΛΗΡΩΣΗΣ ΤΟΥ ΚΟΥΙΖ"
+
+#: includes/class.generate_fields.php:453
+msgid ""
+"Completion message is shown to the student when she finishes the course."
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:456
+#: includes/class_wplms_front_end.php:1857
+msgid "SAVE SETTINGS"
+msgstr "ΑΠΟΘΗΚΕΥΣΗ ΡΥΘΜΗΣΕΩΝ"
+
+#: includes/class.generate_fields.php:464
+msgid "COMPONENTS"
+msgstr ""
+
+#: includes/class.generate_fields.php:468
+msgid "Course Group"
+msgstr ""
+
+# @ vibe
+#: includes/class.generate_fields.php:469
+#, fuzzy
+msgid "Set a Course Group"
+msgstr "ΔΗΜΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#: includes/class.generate_fields.php:474
+#, fuzzy
+msgid "Set a course specific group."
+msgstr "ΔΗΜΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:477
+#, fuzzy
+msgid "Course Forum"
+msgstr "ΣΥΝΔΕΣΗ FORUM"
+
+# @ vibe
+#: includes/class.generate_fields.php:478
+#, fuzzy
+msgid "Set a Course Forum"
+msgstr "ΔΗΜΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#: includes/class.generate_fields.php:483
+#, fuzzy
+msgid "Set a course forum."
+msgstr "ΔΗΜΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+#: includes/class.generate_fields.php:487
+msgid "SAVE COMPONENTS"
+msgstr ""
+
+#: includes/class.generate_fields.php:495
+msgid "SET CURRICULUM"
+msgstr ""
+
+#: includes/class.generate_fields.php:496
+msgid "Add Units and Quizzes"
+msgstr ""
+
+#: includes/class.generate_fields.php:499
+#, fuzzy
+msgid "Curriculum"
+msgstr "ΣΕΙΡΑ ΜΑΘΗΜΑΤΩΝ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:501
+#, fuzzy
+msgid "ADD SECTION"
+msgstr "ΠΡΟΣΘΙΚΗ ΕΡΩΤΗΣΗΣ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:501
+#, fuzzy
+msgid "ADD UNIT"
+msgstr "ΠΡΟΣΘΙΚΗ ΕΡΩΤΗΣΗΣ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:501
+#, fuzzy
+msgid "ADD QUIZ"
+msgstr "ΠΡΟΣΘΙΚΗ ΕΡΩΤΗΣΗΣ"
+
+#: includes/class.generate_fields.php:505
+msgid "Build Course curriculum"
+msgstr ""
+
+#: includes/class.generate_fields.php:511
+msgid "PRICING"
+msgstr ""
+
+# @ vibe
+#: includes/class.generate_fields.php:512
+#, fuzzy
+msgid "Set Price for Course"
+msgstr "ΔΗΜΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+#: includes/class.generate_fields.php:515
+msgid "Course Pricing"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:519
+#, fuzzy
+msgid "Free "
+msgstr "ΔΩΡΕΑΝ"
+
+# @ vibe
+#: includes/class.generate_fields.php:520
+#, fuzzy
+msgid "Free Course"
+msgstr "ΔΗΜΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:522
+#, fuzzy
+msgid "No"
+msgstr "ΚΑΜΙΑ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:522
+#, fuzzy
+msgid "Yes"
+msgstr "Yes"
+
+#: includes/class.generate_fields.php:527
+msgid "By pass any purchase process."
+msgstr ""
+
+#: includes/class.generate_fields.php:530
+#, fuzzy
+msgid "Product "
+msgstr "ΠΡΟΪΟΝΤΑ"
+
+# @ vibe
+#: includes/class.generate_fields.php:531
+#, fuzzy
+msgid "Set a Course Product"
+msgstr "ΔΗΜΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+#: includes/class.generate_fields.php:538
+msgid "Connect a Product with this course."
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:541
+#, fuzzy
+msgid "SAVE PRICING"
+msgstr "ΑΠΟΘΗΚΕΥΣΗ ΡΥΘΜΗΣΕΩΝ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:549
+#, fuzzy
+msgid "MODIFY COURSE"
+msgstr "ΣΥΝΔΕΜΕΝΑ ΜΑΘΗΜΑΤΑ"
+
+#: includes/class.generate_fields.php:549
+msgid "PUBLISH COURSE"
+msgstr ""
+
+#: includes/class.generate_fields.php:550
+#, fuzzy
+msgid "Change Course status"
+msgstr "ΑΛΛΑΓΗ ΤΗΣ ΚΑΤΑΣΤΑΣΗΣ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+#: includes/class.generate_fields.php:550
+msgid "Go Live !"
+msgstr ""
+
+#: includes/class.generate_fields.php:553
+msgid "Take Offline"
+msgstr ""
+
+#: includes/class.generate_fields.php:599
+msgid "Edit in WP Admin"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:604
+#: includes/class_wplms_front_end.php:791
+msgid "View Course"
+msgstr "ΔΕΙΤΕ ΤΟ ΜΑΘΗΜΑ"
+
+# @ text-domain
+#: includes/class.generate_fields.php:747
+#, fuzzy
+msgid "Add new"
+msgstr "Add Key"
+
+#: includes/class.generate_fields.php:770
+msgid "Enter a new"
+msgstr ""
+
+#: includes/class.generate_fields.php:912
+#: includes/class.generate_fields.php:956 includes/class.process_fields.php:223
+#: includes/class.process_fields.php:227
+#, fuzzy
+msgid "edit"
+msgstr "Edit"
+
+#: includes/class.generate_fields.php:912
+#: includes/class.generate_fields.php:956 includes/class.process_fields.php:223
+#: includes/class.process_fields.php:227
+#, fuzzy
+msgid "change"
+msgstr "ΑΛΛΑΓΗ"
+
+#: includes/class.generate_fields.php:919
+msgid "Select Existing Group"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:921
+#, fuzzy
+msgid "Select a Group"
+msgstr "ΕΠΙΛΟΓΗ ΤΥΠΟΥ ΕΝΟΤΗΤΑΣ"
+
+#: includes/class.generate_fields.php:923
+#: includes/class.generate_fields.php:966
+#, fuzzy
+msgid "Set"
+msgstr "The API \"set\" is a required parameter."
+
+# @ vibe
+#: includes/class.generate_fields.php:927
+#: includes/class.generate_fields.php:936
+#, fuzzy
+msgid "Create New Group"
+msgstr "ΔΗΜΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+#: includes/class.generate_fields.php:929
+msgid "Group Name"
+msgstr ""
+
+# @ default
+#: includes/class.generate_fields.php:931
+#: includes/class.generate_fields.php:974
+msgid "Public"
+msgstr "ΔΗΜΟΣΙΟ"
+
+# @ default
+#: includes/class.generate_fields.php:932
+#: includes/class.generate_fields.php:975
+msgid "Private"
+msgstr "Private"
+
+#: includes/class.generate_fields.php:933
+#: includes/class.generate_fields.php:976
+msgid "Hidden"
+msgstr ""
+
+#: includes/class.generate_fields.php:935
+#, fuzzy
+msgid "Group Description"
+msgstr "Περιγραφή Ομάδας (απαιτείται)"
+
+#: includes/class.generate_fields.php:962
+msgid "Select Existing Forum"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:964
+#, fuzzy
+msgid "Select a Forum"
+msgstr "ΣΥΝΔΕΣΗ FORUM"
+
+# @ vibe
+#: includes/class.generate_fields.php:970
+#: includes/class.generate_fields.php:979
+#, fuzzy
+msgid "Create New Forum"
+msgstr "ΔΗΜΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+#: includes/class.generate_fields.php:972
+msgid "Forum Name"
+msgstr ""
+
+#: includes/class.generate_fields.php:978
+msgid "Forum Description"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1118
+#: includes/class_wplms_front_end.php:1934
+msgid "Seconds"
+msgstr "ΔΕΥΤΕΡΟΛΕΠΤΑ "
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1119
+#: includes/class_wplms_front_end.php:1935
+msgid "Minutes"
+msgstr "ΛΕΠΤΑ "
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1120
+#: includes/class_wplms_front_end.php:1936
+msgid "Hours"
+msgstr "ΩΡΕΣ "
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1121
+#: includes/class_wplms_front_end.php:1937
+msgid "Days"
+msgstr "ΗΜΕΡΕΣ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1122
+#: includes/class_wplms_front_end.php:1938
+msgid "Weeks"
+msgstr "ΕΒΔΟΜΑΔΕΣ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1123
+#: includes/class_wplms_front_end.php:1939
+msgid "Months"
+msgstr "ΜΗΝΕΣ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1124
+#: includes/class_wplms_front_end.php:1940
+msgid "Years"
+msgstr "ΧΡΟΝΙΑ"
+
+# @ default
+#: includes/class.generate_fields.php:1153
+#: includes/class.process_fields.php:532 includes/class.process_fields.php:866
+#: includes/class.process_fields.php:1130
+msgid "Title"
+msgstr "Title"
+
+#: includes/class.generate_fields.php:1154
+#: includes/class.process_fields.php:1131
+msgid "Product Title"
+msgstr ""
+
+#: includes/class.generate_fields.php:1159
+#: includes/class.process_fields.php:1136
+msgid "Product title is useful to identify courses connected to this product."
+msgstr ""
+
+#: includes/class.generate_fields.php:1162
+#: includes/class.generate_fields.php:1163
+#: includes/class.process_fields.php:1139
+#: includes/class.process_fields.php:1140
+#, fuzzy
+msgid "Price"
+msgstr "ΤΙΜΗ"
+
+#: includes/class.generate_fields.php:1168
+#: includes/class.process_fields.php:1145
+msgid "Set price of the course"
+msgstr ""
+
+#: includes/class.generate_fields.php:1171
+#: includes/class.process_fields.php:1148
+msgid "Sale"
+msgstr ""
+
+#: includes/class.generate_fields.php:1172
+#: includes/class.process_fields.php:1149
+msgid "Sale Price"
+msgstr ""
+
+#: includes/class.generate_fields.php:1177
+#: includes/class.process_fields.php:1154
+msgid "Blank if product not in sale"
+msgstr ""
+
+#: includes/class.generate_fields.php:1180
+#: includes/class.process_fields.php:1157
+#, fuzzy
+msgid "Subscription"
+msgstr "ΣΥΝΔΡΟΜΗ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1182
+#: includes/class.process_fields.php:1159
+#, fuzzy
+msgid "Subscription Type"
+msgstr "ΤΥΠΟΣ ΕΡΩΤΗΣΗΣ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1184
+#: includes/class.process_fields.php:1161
+#, fuzzy
+msgid "FULL DURATION"
+msgstr "ΔΙΑΡΚΕΙΑ ΚΟΥΙΖ"
+
+#: includes/class.generate_fields.php:1184
+#: includes/class.process_fields.php:1161
+msgid "LIMITED"
+msgstr ""
+
+#: includes/class.generate_fields.php:1188
+#: includes/class.process_fields.php:1165
+msgid "Set subscription type of product."
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1191
+#: includes/class.process_fields.php:1168
+#, fuzzy
+msgid "Subscription Duration"
+msgstr "ΔΙΑΡΚΕΙΑ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1193
+#: includes/class.process_fields.php:1170
+#, fuzzy
+msgid "Set subscription duration"
+msgstr "ΔΙΑΡΚΕΙΑ"
+
+#: includes/class.generate_fields.php:1197
+#: includes/class.process_fields.php:1174
+msgid "Must not be 0"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1200
+#: includes/class.process_fields.php:1177
+#, fuzzy
+msgid "Subscription Duration Parameter"
+msgstr "ΔΙΑΡΚΕΙΑ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1201
+#: includes/class.process_fields.php:1178
+#, fuzzy
+msgid "Set subscription duration parameter"
+msgstr "ΔΙΑΡΚΕΙΑ"
+
+#: includes/class.generate_fields.php:1213
+#: includes/class.generate_fields.php:1217
+#: includes/class.generate_fields.php:1228
+msgid "Set Product"
+msgstr ""
+
+#: includes/class.generate_fields.php:1214
+#: includes/class.process_fields.php:1289
+#, fuzzy
+msgid "Change"
+msgstr "Αλλαγη"
+
+# @ default
+#: includes/class.generate_fields.php:1214
+#: includes/class.generate_fields.php:1483
+#: includes/class.generate_fields.php:1498
+#: includes/class.generate_fields.php:1539
+#: includes/class.generate_fields.php:1558
+#: includes/class.process_fields.php:1104
+#: includes/class.process_fields.php:1289
+#: includes/class.process_fields.php:1375
+msgid "Edit"
+msgstr "Edit"
+
+#: includes/class.generate_fields.php:1224
+msgid "Select existing product"
+msgstr ""
+
+#: includes/class.generate_fields.php:1226
+msgid "Search a product"
+msgstr ""
+
+# @ vibe
+#: includes/class.generate_fields.php:1232
+#, fuzzy
+msgid "Create new product"
+msgstr "ΔΗΜΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#: includes/class.generate_fields.php:1243
+#, fuzzy
+msgid "Create Product"
+msgstr "ΔΗΜΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#: includes/class.generate_fields.php:1262
+#: includes/class.process_fields.php:1199
+#, fuzzy
+msgid "Edit Product"
+msgstr "ΕΠΕΞΕΡΓΑΣΙΑ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#: includes/class.generate_fields.php:1304
+#, fuzzy
+msgid "Modify Course"
+msgstr "ΕΠΕΞΕΡΓΑΣΙΑ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1304
+#, fuzzy
+msgid "Back to course"
+msgstr "Επιστροφη στο Μάθημα"
+
+#: includes/class.generate_fields.php:1311
+msgid "TAKE OFFLINE"
+msgstr ""
+
+#: includes/class.generate_fields.php:1313
+#: includes/class.generate_fields.php:1320
+#: includes/class.generate_fields.php:1365
+msgid "SEND FOR APPROVAL"
+msgstr ""
+
+#: includes/class.generate_fields.php:1318
+#: includes/class.generate_fields.php:1363
+msgid "GO LIVE"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1325 wplms-front-end.php:102
+#, fuzzy
+msgid "DELETE COURSE"
+msgstr "ΣΥΝΔΕΜΕΝΑ ΜΑΘΗΜΑΤΑ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1326
+#, fuzzy
+msgid "SHOW OPTIONS"
+msgstr "ΠΡΟΣΘΗΚΗ ΕΠΙΛΟΓΩΝ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1329
+#, fuzzy
+msgid "Delete Units"
+msgstr "ΔΙΑΓΡΑΦΗ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1334
+#, fuzzy
+msgid "Delete Quizzes"
+msgstr "ΔΙΑΓΡΑΦΗ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1339
+#, fuzzy
+msgid "Delete Assignments"
+msgstr "ΕΠΙΛΟΓΗ ΕΡΓΑΣΙΑΣ ΓΙΑ ΤΟ ΜΑΘΗΜΑ"
+
+# @ default
+#: includes/class.generate_fields.php:1354
+#, fuzzy
+msgid "Course not set"
+msgstr "Custom field deleted."
+
+#: includes/class.generate_fields.php:1360
+msgid "Go Live"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1402
+#, fuzzy
+msgid "ADD DYNAMIC QUESTION SECTION TAGS"
+msgstr "ΑΠΟΘΗΚΕΥΣΗ ΡΥΘΜΗΣΕΩΝ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1430
+#: includes/class.generate_fields.php:1485
+#: includes/class.generate_fields.php:1500
+#: includes/class.generate_fields.php:1541
+#: includes/class.generate_fields.php:1560
+#: includes/class.generate_fields.php:1640
+#: includes/class.generate_fields.php:1649
+#: includes/class.generate_fields.php:1658
+#: includes/class.generate_fields.php:1673
+#: includes/class_wplms_front_end.php:473
+#: includes/class_wplms_front_end.php:528
+#: includes/class_wplms_front_end.php:993
+#: includes/class_wplms_front_end.php:1013
+#: includes/class_wplms_front_end.php:1030
+#: includes/class_wplms_front_end.php:1248
+#: includes/class_wplms_front_end.php:1286
+#: includes/class_wplms_front_end.php:1442
+msgid "Remove"
+msgstr "ΑΠΟΜΑΚΡΥΝΣΗ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1453
+#: includes/class_wplms_front_end.php:1609
+msgid "ADD OPTION"
+msgstr "ΠΡΟΣΘΗΚΗ ΕΠΙΛΟΓΩΝ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1484
+#: includes/class.generate_fields.php:1499
+#: includes/class.generate_fields.php:1540
+#: includes/class.generate_fields.php:1559
+#: includes/class.generate_fields.php:1639
+#: includes/class.generate_fields.php:1648
+#: includes/class.generate_fields.php:1672
+#, fuzzy
+msgid "Preview"
+msgstr "ΔΩΡΕΑΝ "
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1486
+#: includes/class.generate_fields.php:1501
+#: includes/class.generate_fields.php:1542
+#: includes/class.generate_fields.php:1561
+#: includes/class.generate_fields.php:1641
+#: includes/class.generate_fields.php:1650
+#: includes/class.generate_fields.php:1674
+#: includes/class_wplms_front_end.php:474
+#: includes/class_wplms_front_end.php:529
+#: includes/class_wplms_front_end.php:994
+#: includes/class_wplms_front_end.php:1014
+#: includes/class_wplms_front_end.php:1249
+#: includes/class_wplms_front_end.php:1443
+msgid "Delete"
+msgstr "ΔΙΑΓΡΑΦΗ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1507
+#, fuzzy
+msgid "Select existing assignment"
+msgstr "ΕΠΙΛΟΓΗ ΕΡΓΑΣΙΑΣ ΓΙΑ ΤΟ ΜΑΘΗΜΑ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1509
+#, fuzzy
+msgid "Search an assignment"
+msgstr "Ναι, δημιουργία Εργασίας"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1511
+#, fuzzy
+msgid "Set Assignment"
+msgstr "ΕΠΕΞΕΡΓΑΣΙΑ ΕΡΓΑΣΙΑΣ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1515
+#, fuzzy
+msgid "Create new Assignment"
+msgstr "Ναι, δημιουργία Εργασίας"
+
+#: includes/class.generate_fields.php:1517
+#: includes/class.generate_fields.php:1581
+msgid "Reference title"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1518
+#, fuzzy
+msgid "Create Assignment"
+msgstr "ΕΠΕΞΕΡΓΑΣΙΑ ΕΡΓΑΣΙΑΣ"
+
+# @ default
+#: includes/class.generate_fields.php:1546
+#: includes/class.generate_fields.php:1565
+#, fuzzy
+msgid "Marks"
+msgstr "ΒΑΘΜΟΙ"
+
+#: includes/class.generate_fields.php:1571
+msgid "Select existing question"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1573
+#, fuzzy
+msgid "Search a question"
+msgstr "Ναι, δημιουργία νέας ερώτησης"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1575
+#, fuzzy
+msgid "Set Question"
+msgstr "ΕΠΕΞΕΡΓΑΣΙΑ ΕΡΩΤΗΣΗΣ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1579
+#, fuzzy
+msgid "Create new Question"
+msgstr "Ναι, δημιουργία νέας ερώτησης"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1584
+#, fuzzy
+msgid "Question Tags"
+msgstr "ΕΠΙΛΟΓΗ TAGS"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1591
+#, fuzzy
+msgid "Select a Tag"
+msgstr "ΕΠΙΛΟΓΗ ΤΥΠΟΥ ΕΝΟΤΗΤΑΣ"
+
+#: includes/class.generate_fields.php:1597
+#: includes/class_wplms_front_end.php:1584
+msgid "True or False"
+msgstr ""
+
+#: includes/class.generate_fields.php:1598
+#: includes/class_wplms_front_end.php:1585
+#, fuzzy
+msgid "Multiple Choice"
+msgstr "Multiple Choice"
+
+#: includes/class.generate_fields.php:1599
+#: includes/class_wplms_front_end.php:1586
+#, fuzzy
+msgid "Multiple Correct"
+msgstr "Multiple Correct"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1600
+#: includes/class_wplms_front_end.php:1587
+#, fuzzy
+msgid "Sort Answers"
+msgstr "ΣΩΣΤΗ ΑΠΑΝΤΗΣΗ"
+
+#: includes/class.generate_fields.php:1601
+#: includes/class_wplms_front_end.php:1588
+#, fuzzy
+msgid "Match Answers"
+msgstr "Match Answers"
+
+#: includes/class.generate_fields.php:1602
+#: includes/class_wplms_front_end.php:1589
+#, fuzzy
+msgid "Fill in the Blank"
+msgstr "Fill in the Blank"
+
+#: includes/class.generate_fields.php:1603
+#: includes/class_wplms_front_end.php:1590
+#, fuzzy
+msgid "Dropdown Select"
+msgstr "Dropdown select"
+
+#: includes/class.generate_fields.php:1604
+#: includes/class_wplms_front_end.php:1591
+msgid "Small Text"
+msgstr ""
+
+#: includes/class.generate_fields.php:1605
+#: includes/class_wplms_front_end.php:1592
+msgid "Large Text"
+msgstr ""
+
+# @ default
+#: includes/class.generate_fields.php:1606
+#, fuzzy
+msgid "Survey Type"
+msgstr "Custom field deleted."
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1616
+#, fuzzy
+msgid "Create question"
+msgstr "ΕΠΕΞΕΡΓΑΣΙΑ ΕΡΩΤΗΣΗΣ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1638
+#: includes/class_wplms_front_end.php:471
+msgid "Edit Unit"
+msgstr "ΕΠΕΞΕΡΓΑΣΙΑ ΠΕΡΙΕΧΟΜΕΝΟΥ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1647
+#: includes/class.generate_fields.php:1671
+#: includes/class_wplms_front_end.php:527
+msgid "Edit Quiz"
+msgstr "ΔΙΑΧΕΙΡΗΣΗ ΚΟΥΙΖ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1680
+#, fuzzy
+msgid "Enter Section Title"
+msgstr "ΤΙΤΛΟΣ ΕΡΩΤΗΣΗΣ : "
+
+#: includes/class.generate_fields.php:1686
+msgid "Select existing unit"
+msgstr ""
+
+# @ default
+#: includes/class.generate_fields.php:1688
+#, fuzzy
+msgid "Search a unit"
+msgstr "ΑΝΑΖΗΤΗΣΗ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1690
+#, fuzzy
+msgid "Set Unit"
+msgstr "ΕΠΕΞΕΡΓΑΣΙΑ ΠΕΡΙΕΧΟΜΕΝΟΥ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1694
+#, fuzzy
+msgid "Create new unit"
+msgstr "Ναι, δημιουργια νέας ενότητας"
+
+# @ default
+#: includes/class.generate_fields.php:1696
+#, fuzzy
+msgid "Unit title"
+msgstr "(no title)"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1699
+#, fuzzy
+msgid "Create Unit"
+msgstr "ΔΩΡΕΑΝ "
+
+#: includes/class.generate_fields.php:1708
+msgid "Select existing quiz"
+msgstr ""
+
+# @ default
+#: includes/class.generate_fields.php:1710
+#, fuzzy
+msgid "Search a quiz"
+msgstr "ΑΝΑΖΗΤΗΣΗ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1712
+#, fuzzy
+msgid "Set Quiz"
+msgstr "ΔΙΑΧΕΙΡΗΣΗ ΚΟΥΙΖ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1716
+#, fuzzy
+msgid "Create new quiz"
+msgstr "Ναι, δημιουργία νέου Κουίζ"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1718
+#, fuzzy
+msgid "Quiz title"
+msgstr "ΠΡΟΣΘΗΚΗ ΥΠΟΤΙΤΛΟΥ"
+
+# @ vibe
+#: includes/class.generate_fields.php:1720
+#, fuzzy
+msgid "Create Quiz"
+msgstr "ΔΗΜΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+#: includes/class.generate_fields.php:1737
+msgid "SAVE CURRICULUM"
+msgstr ""
+
+# @ default
+#: includes/class.generate_fields.php:1761
+#, fuzzy
+msgid "Course Level"
+msgstr "Select Course Level"
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1768
+#, fuzzy
+msgid "Select a Course Level"
+msgstr "Select Course Level"
+
+#: includes/class.generate_fields.php:1775
+msgid "Course Location"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.generate_fields.php:1782
+#, fuzzy
+msgid "Select a Course location"
+msgstr "ΠΡΟΣΘΗΚΗ ΣΤΗΝ ΑΞΙΟΛΟΓΗΣΗ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ wplms-front-end
+#: includes/class.process_fields.php:64 includes/class.process_fields.php:95
+#: includes/class.process_fields.php:118 includes/class.process_fields.php:144
+#: includes/class.process_fields.php:184 includes/class.process_fields.php:216
+#: includes/class.process_fields.php:237 includes/class.process_fields.php:307
+#: includes/class.process_fields.php:386 includes/class.process_fields.php:433
+#: includes/class.process_fields.php:470 includes/class.process_fields.php:511
+#: includes/class.process_fields.php:722 includes/class.process_fields.php:836
+#: includes/class.process_fields.php:857 includes/class.process_fields.php:927
+#: includes/class.process_fields.php:974 includes/class.process_fields.php:1027
+#: includes/class.process_fields.php:1053
+#: includes/class.process_fields.php:1085
+#: includes/class.process_fields.php:1115
+#: includes/class.process_fields.php:1209
+#: includes/class.process_fields.php:1301
+#: includes/class_wplms_front_end.php:148
+#: includes/class_wplms_front_end.php:220
+#: includes/class_wplms_front_end.php:317
+#: includes/class_wplms_front_end.php:441
+#: includes/class_wplms_front_end.php:499
+#: includes/class_wplms_front_end.php:554
+#: includes/class_wplms_front_end.php:582
+#: includes/class_wplms_front_end.php:616
+#: includes/class_wplms_front_end.php:766
+#: includes/class_wplms_front_end.php:807
+#: includes/class_wplms_front_end.php:834
+#: includes/class_wplms_front_end.php:1110
+#: includes/class_wplms_front_end.php:1424
+#: includes/class_wplms_front_end.php:1478
+#: includes/class_wplms_front_end.php:1549
+#: includes/class_wplms_front_end.php:1678
+#: includes/class_wplms_front_end.php:1705
+#: includes/class_wplms_front_end.php:1898
+msgid "Security check Failed. Contact Administrator."
+msgstr "Security check Failed. Contact Administrator."
+
+# @ wplms-front-end
+#: includes/class.process_fields.php:297 includes/class.process_fields.php:376
+#: includes/class_wplms_front_end.php:201
+#: includes/class_wplms_front_end.php:285
+msgid "Unable to create course, contact admin !"
+msgstr "Αδύνατη η δημιουργία Μαθημάτων. Επικοινωνήστε με τον διαχειριστή!"
+
+# @ wplms-front-end
+#: includes/class.process_fields.php:313 includes/class.process_fields.php:392
+#: includes/class.process_fields.php:439 includes/class.process_fields.php:1057
+#: includes/class.process_fields.php:1089
+#: includes/class.process_fields.php:1213
+#: includes/class.process_fields.php:1307
+#: includes/class_wplms_front_end.php:226
+#: includes/class_wplms_front_end.php:322
+#: includes/class_wplms_front_end.php:446
+#: includes/class_wplms_front_end.php:504
+#: includes/class_wplms_front_end.php:559
+#: includes/class_wplms_front_end.php:587
+#: includes/class_wplms_front_end.php:621
+#: includes/class_wplms_front_end.php:772
+#: includes/class_wplms_front_end.php:813
+#: includes/class_wplms_front_end.php:840
+#: includes/class_wplms_front_end.php:1115
+msgid "Invalid Course id, please edit a course"
+msgstr "Invalid Course id, please edit a course"
+
+# @ wplms-front-end
+#: includes/class.process_fields.php:321 includes/class.process_fields.php:399
+#: includes/class.process_fields.php:446 includes/class.process_fields.php:1063
+#: includes/class.process_fields.php:1094
+#: includes/class.process_fields.php:1120
+#: includes/class.process_fields.php:1218
+#: includes/class.process_fields.php:1313
+#: includes/class_wplms_front_end.php:232
+#: includes/class_wplms_front_end.php:328
+#: includes/class_wplms_front_end.php:452
+#: includes/class_wplms_front_end.php:510
+#: includes/class_wplms_front_end.php:593
+#: includes/class_wplms_front_end.php:627
+#: includes/class_wplms_front_end.php:778
+msgid "Invalid Course Instructor"
+msgstr "Invalid Course Instructor"
+
+#: includes/class.process_fields.php:488 includes/class.process_fields.php:950
+msgid "FULL PREVIEW & STATS"
+msgstr ""
+
+#: includes/class.process_fields.php:494 includes/class.process_fields.php:702
+#: includes/class.process_fields.php:910 includes/class.process_fields.php:956
+#, fuzzy
+msgid "Close"
+msgstr "Κλείσημο"
+
+#: includes/class.process_fields.php:521
+msgctxt "access denied message when user is not instructor of element"
+msgid "Access denied for element"
+msgstr ""
+
+#: includes/class.process_fields.php:529
+#, fuzzy
+msgid "CONTENT"
+msgstr "Περιεχόμενο:"
+
+# @ wplms-front-end
+#: includes/class.process_fields.php:533 includes/class.process_fields.php:867
+#, fuzzy
+msgid "Enter title"
+msgstr "ΠΡΟΣΘΗΚΗ ΥΠΟΤΙΤΛΟΥ"
+
+#: includes/class.process_fields.php:545
+#, fuzzy
+msgid "Category"
+msgstr ""
+"Αδύνατη η δημιουργία μιας νέας Κατηγορία Μαθήματος. Επικοινωνήστε με τον "
+"διαχειριστή!"
+
+#: includes/class.process_fields.php:553
+msgid "Select Category"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.process_fields.php:561 includes/class.process_fields.php:870
+#, fuzzy
+msgid "Content"
+msgstr "Περιεχόμενο:"
+
+# @ wplms-front-end
+#: includes/class.process_fields.php:597
+#, fuzzy
+msgid "Dynamic Quiz"
+msgstr "ΜΗ ΕΓΚΥΡΗ ΕΡΩΤΗΣΗ"
+
+#: includes/class.process_fields.php:598
+msgid "Dynamic quiz automatically selects questions."
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.process_fields.php:636
+#, fuzzy
+msgid "Assignments"
+msgstr "ΕΡΓΑΣΙΑ"
+
+# @ wplms-front-end
+#: includes/class.process_fields.php:640 includes/class_wplms_front_end.php:972
+msgid "Unit assignments"
+msgstr "ΕΡΓΑΣΙΑ"
+
+# @ wplms-front-end
+#: includes/class.process_fields.php:641
+#, fuzzy
+msgid "Select assignment for Unit"
+msgstr "ΕΠΙΛΟΓΗ ΕΡΓΑΣΙΑΣ ΓΙΑ ΤΟ ΜΑΘΗΜΑ"
+
+# @ wplms-front-end
+#: includes/class.process_fields.php:646
+#, fuzzy
+msgid "ADD ASSIGNMENT"
+msgstr "ΠΡΟΣΘΗΚΗ ΝΕΑΣ ΕΡΓΑΣΙΑΣ"
+
+# @ wplms-front-end
+#: includes/class.process_fields.php:660
+#, fuzzy
+msgid "QUESTIONS"
+msgstr "ΔΙΑΧΕΙΡΗΣΗ ΕΡΩΤΗΣΕΩΝ ΤΟΥ ΚΟΥΙΖ"
+
+# @ wplms-front-end
+#: includes/class.process_fields.php:664
+#, fuzzy
+msgid "Quiz Questions"
+msgstr "ΤΥΠΟΣ ΕΡΩΤΗΣΗΣ"
+
+# @ wplms-front-end
+#: includes/class.process_fields.php:665
+#, fuzzy
+msgid "Static Quiz questions"
+msgstr "ΔΙΑΧΕΙΡΗΣΗ ΕΡΩΤΗΣΕΩΝ ΤΟΥ ΚΟΥΙΖ"
+
+# @ wplms-front-end
+#: includes/class.process_fields.php:670
+#: includes/class_wplms_front_end.php:1231
+msgid "ADD QUESTION"
+msgstr "ΠΡΟΣΘΙΚΗ ΕΡΩΤΗΣΗΣ"
+
+#: includes/class.process_fields.php:684 includes/class.process_fields.php:892
+#, fuzzy
+msgid "SAVE"
+msgstr "ΑΠΟΘΗΚΕΥΣΗ"
+
+#: includes/class.process_fields.php:690 includes/class.process_fields.php:898
+msgid "EDIT IN ADMIN"
+msgstr ""
+
+#: includes/class.process_fields.php:696
+msgid "PREVIEW"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.process_fields.php:827
+#: includes/class_wplms_front_end.php:1202
+msgid "Settings Saved"
+msgstr "ΑΠΟΘΗΚΕΥΣΗ ΡΥΘΜΗΣΕΩΝ"
+
+# @ wplms-front-end
+#: includes/class.process_fields.php:848
+#, fuzzy
+msgid "Can not delete element"
+msgstr "ΔΕΝ ΜΠΟΡΕΙ ΝΑ ΔΙΑΓΡΑΦΕΙ"
+
+#: includes/class.process_fields.php:904
+msgid "PREVIEW & STATS"
+msgstr ""
+
+#: includes/class.process_fields.php:979 includes/class.process_fields.php:1032
+msgid "Empty title."
+msgstr ""
+
+# @ default
+#: includes/class.process_fields.php:1377
+#, fuzzy
+msgid "Course Edit slug"
+msgstr "Custom field deleted."
+
+#: includes/class.templates.php:42
+msgid "Question Statement : Which is the largest continent in the World ?"
+msgstr ""
+
+#: includes/class.templates.php:45
+msgid "Asia"
+msgstr ""
+
+#: includes/class.templates.php:45
+msgid "America"
+msgstr ""
+
+#: includes/class.templates.php:45
+msgid "Europe"
+msgstr ""
+
+#: includes/class.templates.php:45
+msgid "Australia"
+msgstr ""
+
+#: includes/class.templates.php:47
+msgid "Continent with Russia"
+msgstr ""
+
+#: includes/class.templates.php:48
+msgid ""
+"A continent is one of several very large landmasses on Earth. They are "
+"generally identified by convention rather than any strict criteria, with up "
+"to seven regions commonly regarded as continents."
+msgstr ""
+
+#: includes/class.templates.php:52
+msgid "Question Statement : This question can have multiple answers."
+msgstr ""
+
+#: includes/class.templates.php:55 includes/class.templates.php:74
+#: includes/class.templates.php:84 includes/class.templates.php:94
+msgid "Option 1"
+msgstr ""
+
+#: includes/class.templates.php:55 includes/class.templates.php:74
+#: includes/class.templates.php:84 includes/class.templates.php:94
+msgid "Option 2"
+msgstr ""
+
+#: includes/class.templates.php:55 includes/class.templates.php:74
+#: includes/class.templates.php:84 includes/class.templates.php:94
+msgid "Option 3"
+msgstr ""
+
+#: includes/class.templates.php:55 includes/class.templates.php:74
+#: includes/class.templates.php:84 includes/class.templates.php:94
+msgid "Option 4"
+msgstr ""
+
+#: includes/class.templates.php:57
+msgid " The answer to this quesiton is 2,3"
+msgstr ""
+
+#: includes/class.templates.php:58 includes/class.templates.php:67
+#: includes/class.templates.php:77 includes/class.templates.php:87
+#: includes/class.templates.php:97 includes/class.templates.php:107
+#: includes/class.templates.php:117 includes/class.templates.php:137
+msgid "Some explaination to this question."
+msgstr ""
+
+#: includes/class.templates.php:62
+msgid "Question Statement : True and False question type."
+msgstr ""
+
+#: includes/class.templates.php:66
+#, fuzzy
+msgid " True"
+msgstr "TRUE"
+
+#: includes/class.templates.php:71
+msgid "Question Statement : Select correct answer out of the following"
+msgstr ""
+
+#: includes/class.templates.php:74
+msgid "Option 5"
+msgstr ""
+
+#: includes/class.templates.php:74
+msgid "Option 6"
+msgstr ""
+
+#: includes/class.templates.php:76
+msgid " Option 1 and Option 4"
+msgstr ""
+
+#: includes/class.templates.php:81 includes/class.templates.php:91
+msgid ""
+"Question Statement : Arrange the below options in following order: 4,3,2,1"
+msgstr ""
+
+#: includes/class.templates.php:91
+msgid "First Order"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class.templates.php:91
+#, fuzzy
+msgid "Second Order"
+msgstr "ΔΕΥΤΕΡΟΛΕΠΤΑ "
+
+#: includes/class.templates.php:91
+msgid "Third order"
+msgstr ""
+
+#: includes/class.templates.php:91
+msgid "Fourth Order"
+msgstr ""
+
+#: includes/class.templates.php:101
+msgid "Question Statement : Fill in the blank"
+msgstr ""
+
+#: includes/class.templates.php:106
+msgid "some value"
+msgstr ""
+
+#: includes/class.templates.php:111
+msgid "Question Statement : Enter the answer in below text box"
+msgstr ""
+
+#: includes/class.templates.php:116
+msgid "some hint"
+msgstr ""
+
+#: includes/class.templates.php:121
+msgid ""
+"Survey Question : How likely are you to going to pick the number 7 out of 0 "
+"to 10 ?"
+msgstr ""
+
+#: includes/class.templates.php:126
+msgid "Help text for survey question. Each choice has marks used to end result"
+msgstr ""
+
+#: includes/class.templates.php:127
+msgid "Scores are connected with the marked answer"
+msgstr ""
+
+#: includes/class.templates.php:131
+msgid "Question Statement :Enter the answer in below text area"
+msgstr ""
+
+# @ vibe
+#: includes/class_wplms_front_end.php:77
+msgid "Create a Course"
+msgstr "ΔΗΜΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:84
+msgid "COURSE CREATION ONLY ALLOWED FOR INSTRUCTORS & ADMINISTRATORS"
+msgstr "Η ΔΗΜΙΟΥΡΓΙΑ ΜΑΘΗΜΑΤΩΝ ΕΠΙΤΡΕΠΕΤΑΙ ΜΟΝΟ ΣΤΟΥΣ ΕΙΣΗΓΗΤΕΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:95
+msgid "Unable to edit Course, please contact Site Administrator"
+msgstr "Unable to edit Course, please contact Site Administrator"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:98
+msgid "Incorrect Action, please contact Site Administrator"
+msgstr "Incorrect Action, please contact Site Administrator"
+
+# @ vibe
+#: includes/class_wplms_front_end.php:129
+msgid "Edit Course"
+msgstr "ΕΠΕΞΕΡΓΑΣΙΑ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:172
+#: includes/class_wplms_front_end.php:257
+msgid "Unable to create a new Course Category. Contact Admin !"
+msgstr ""
+"Αδύνατη η δημιουργία μιας νέας Κατηγορία Μαθήματος. Επικοινωνήστε με τον "
+"διαχειριστή!"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:436
+msgid "Can not have a blank Unit "
+msgstr "Συμπληρώστε κάποιο περιεχόμενο "
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:472
+#, fuzzy
+msgid "Preview Unit"
+msgstr "ΔΩΡΕΑΝ "
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:494
+msgid "Can not have a Blank Quiz"
+msgstr "ΚΕΝΟ ΚΟΥΙΖ ΣΥΜΠΛΗΡΩΣΤΕ ΠΕΡΙΕΧΟΜΕΝΟ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:549
+#: includes/class_wplms_front_end.php:1544
+msgid "Can not delete"
+msgstr "ΔΕΝ ΜΠΟΡΕΙ ΝΑ ΔΙΑΓΡΑΦΕΙ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:565
+#: includes/class_wplms_front_end.php:1555
+msgid "Instructor can not delete this unit/quiz"
+msgstr "Instructor can not delete this unit/quiz"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:573
+#: includes/class_wplms_front_end.php:1563
+msgid "Unable to delete"
+msgstr "Unable to delete"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:700
+msgid "Invalid Product specs"
+msgstr "Invalid Product specs"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:752
+msgid "Unable to create product and pricing for course"
+msgstr "Unable to create product and pricing for course"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:790
+msgid "Course successfully updated."
+msgstr "ΕΠΙΤΥΧΗΣ ΑΝΑΝΕΩΣΗ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:794
+#: includes/class_wplms_front_end.php:822
+#: includes/class_wplms_front_end.php:892
+msgid "Unable to update Course, contact Site admin"
+msgstr "ΑΠΟΤΥΧΙΑ ΚΑΤΑ ΤΗΝ ΑΝΑΝΕΩΣΗ, ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΜΕ ΤΟΝ ΔΙΑΧΕΙΡΗΣΗΤΗ"
+
+#: includes/class_wplms_front_end.php:820
+msgid "Course Offline."
+msgstr ""
+
+#: includes/class_wplms_front_end.php:845
+msgid "Course deletion not allowed"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:856
+#, fuzzy
+msgid "Unable to delete curriclum"
+msgstr "Unable to delete"
+
+# @ default
+#: includes/class_wplms_front_end.php:883
+#, fuzzy
+msgid "Course Deleted."
+msgstr "Custom field deleted."
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:933
+msgid "Unit Settings"
+msgstr "ΡΥΘΜΗΣΕΙΣ ΠΕΡΙΕΧΟΜΕΝΟΥ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:936
+msgid "Unit Type"
+msgstr "ΤΥΠΟΣ ΕΝΟΤΗΤΑΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:937
+msgid "Select Unit Type"
+msgstr "ΕΠΙΛΟΓΗ ΤΥΠΟΥ ΕΝΟΤΗΤΑΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:941
+msgid "Video"
+msgstr "Video"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:942
+msgid "Audio"
+msgstr "ΗΧΟΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:943
+msgid "Podcast"
+msgstr "Podcast"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:944
+msgid "General"
+msgstr "ΠΕΡΙΕΧΟΜΕΝΟ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:952
+msgid "Free Unit"
+msgstr "ΔΩΡΕΑΝ "
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:953
+msgid "Make Unit Free"
+msgstr "Η ΕΝΟΤΗΤΑ ΑΥΤΗ ΔΩΡΕΑΝ ?"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:964
+msgid "Unit Duration"
+msgstr "ΔΙΑΡΚΕΙΑ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:965
+msgid "Duration of Unit"
+msgstr "ΔΙΑΡΚΕΙΑ ΤΗΣ ΕΝΟΤΗΤΑΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:973
+msgid "Connect Assignments"
+msgstr "ΣΥΝΔΕΣΗ ΕΡΓΑΣΙΑΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:991
+#: includes/class_wplms_front_end.php:1011
+msgid "Edit Assignment"
+msgstr "ΕΠΕΞΕΡΓΑΣΙΑ ΕΡΓΑΣΙΑΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:992
+#: includes/class_wplms_front_end.php:1012
+#, fuzzy
+msgid "Preview Assignment"
+msgstr "ΕΠΕΞΕΡΓΑΣΙΑ ΕΡΓΑΣΙΑΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1002
+#: includes/class_wplms_front_end.php:1044
+#: includes/class_wplms_front_end.php:1261
+#: includes/class_wplms_front_end.php:1787
+msgid "None"
+msgstr "ΚΑΜΙΑ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1023
+#, fuzzy
+msgid "ADD EXISTING ASSIGNMENT"
+msgstr "ΠΡΟΣΘΗΚΗ ΝΕΑΣ ΕΡΓΑΣΙΑΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1024
+msgid "ADD NEW ASSIGNMENT"
+msgstr "ΠΡΟΣΘΗΚΗ ΝΕΑΣ ΕΡΓΑΣΙΑΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1025
+msgid "Add the Assignment title"
+msgstr "ΠΡΟΣΘΗΚΗ ΤΙΤΛΟ ΓΙΑ ΤΗΝ ΕΡΓΑΣΙΑ"
+
+# @ default
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1029
+msgid "Publish"
+msgstr "ΔΗΜΟΣΙΕΥΣΗ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1041
+msgid "Unit Forum"
+msgstr "FORUM ΓΙΑ ΤΗΝ ΕΝΟΤΗΤΑ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1042
+msgid "Connect a Forum"
+msgstr "ΣΥΝΔΕΣΗ FORUM"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1045
+msgid "Add new child forum in Course forum"
+msgstr "Add new child forum in Course forum"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1046
+msgid "Add new forum"
+msgstr "ΠΡΟΣΘΙΚΗ ΝΕΟΥ FORUM"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1066
+msgid "SAVE UNIT SETTINGS"
+msgstr "ΑΠΟΘΗΚΕΥΣΗ ΡΥΘΜΗΣΕΩΝ "
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1120
+msgid "Invalid Unit id, please edit a course"
+msgstr "Invalid Unit id, please edit a course"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1126
+msgid "Invalid Unit Instructor"
+msgstr "Invalid Unit Instructor"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1204
+msgid "Unable to save settings"
+msgstr "ΑΔΥΝΑΤΗ Η ΑΠΟΘΗΚΕΥΣΗ ΡΥΘΜΗΣΕΩΝ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1228
+msgid "Manage Quiz Questions"
+msgstr "ΔΙΑΧΕΙΡΗΣΗ ΕΡΩΤΗΣΕΩΝ ΤΟΥ ΚΟΥΙΖ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1242
+#: includes/class_wplms_front_end.php:1437
+msgid "Question "
+msgstr "ΕΡΩΤΗΣΗ "
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1246
+#: includes/class_wplms_front_end.php:1441
+msgid "Edit Question"
+msgstr "ΕΠΕΞΕΡΓΑΣΙΑ ΕΡΩΤΗΣΗΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1247
+#, fuzzy
+msgid "Preview Question"
+msgstr "ΕΠΕΞΕΡΓΑΣΙΑ ΕΡΩΤΗΣΗΣ"
+
+# @ default
+#: includes/class_wplms_front_end.php:1252
+#: includes/class_wplms_front_end.php:1446
+msgid "MARKS : "
+msgstr "ΒΑΘΜΟΛΟΓΙΑ : "
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1262
+msgid "ADD A NEW QUESTION"
+msgstr "ΠΡΟΣΘΗΚΗ ΝΕΑΣ ΕΡΩΤΗΣΗΣ"
+
+# @ default
+#: includes/class_wplms_front_end.php:1278
+msgid "Marks : "
+msgstr "ΒΑΘΜΟΛΟΓΙΑ : "
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1280
+msgid "Question Title : "
+msgstr "ΤΙΤΛΟΣ ΕΡΩΤΗΣΗΣ : "
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1281
+msgid "Enter title for reference"
+msgstr "ΠΡΟΣΘΗΚΗ ΤΙΤΛΟΥ ΠΑΡΑΠΟΜΠΗΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1285
+msgid "Publish Question"
+msgstr "ΔΗΜΟΣΙΕΥΣΗ ΕΡΩΤΗΣΗΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1292
+#: includes/class_wplms_front_end.php:1415
+msgid "SAVE QUIZ SETTINGS"
+msgstr "ΑΠΟΘΗΚΕΥΣΗ ΡΥΘΜΗΣΕΩΝ ΚΟΥΙΖ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1315
+msgid "Enter a Quiz sub-title"
+msgstr "ΠΡΟΣΘΗΚΗ ΥΠΟΤΙΤΛΟΥ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1325
+msgid "Enter a Quiz Completion message"
+msgstr "ΠΡΟΣΘΗΚΗ ΝΗΝΥΜΑΤΟΣ ΟΛΟΚΛΗΡΩΣΗΣ ΤΟΥ ΚΟΥΙΖ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1331
+msgid "Quiz Settings"
+msgstr "ΡΥΘΜΗΣΕΙΣ ΚΟΥΙΖ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1335
+msgid "QUIZ SUB-TITLE"
+msgstr "ΥΠΟΤΙΤΛΟΣ ΚΟΥΙΖ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1340
+msgid "CONNECTED COURSE"
+msgstr "ΣΥΝΔΕΜΕΝΑ ΜΑΘΗΜΑΤΑ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1355
+msgid "QUIZ DURATION"
+msgstr "ΔΙΑΡΚΕΙΑ ΚΟΥΙΖ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1358
+msgid "QUIZ EVALUATION"
+msgstr "ΑΞΙΟΛΟΓΗΣΗ ΚΟΥΙΖ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1361
+msgid "AUTO"
+msgstr "AUTO"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1367
+msgid "QUIZ QUESTIONS TYPE"
+msgstr "ΤΥΠΟΣ ΕΡΩΤΗΣΗΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1370
+msgid "DYNAMIC"
+msgstr "DYNAMIC"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1376
+msgid "SELECT QUESTION TAGS"
+msgstr "ΕΠΙΛΟΓΗ TAGS"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1387
+msgid "NUMER OF QUESTIONS"
+msgstr "ΑΡΙΘΜΟΣ ΕΡΩΤΗΣΕΩΝ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1390
+msgid "MARKS PER QUESTION"
+msgstr "ΒΑΘΜΟΙ ΑΝΑ ΕΡΩΤΗΣΗ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1393
+msgid "QUIZ RETAKES"
+msgstr "ΕΠΑΝΑΛΥΨΗ ΚΟΥΙΖ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1394
+msgid " Retakes"
+msgstr " ΕΠΑΝΑΛΥΨΕΙΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1396
+msgid "QUESTIONS ORDER"
+msgstr "ΔΙΑΤΑΞΗ ΕΡΩΤΗΣΕΩΝ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1399
+msgid "RANDOM"
+msgstr "RANDOM"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1401
+msgid "SEQUENTIAL"
+msgstr "SEQUENTIAL"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1405
+msgid "QUIZ COMPLETION MESSAGE"
+msgstr "ΜΗΝΥΜΑ ΟΛΟΚΛΗΡΩΣΗΣ ΤΟΥ ΚΟΥΙΖ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1430
+#, php-format
+msgid "Add Content for %s"
+msgstr "ΠΡΟΣΘΗΚΗ ΠΕΡΙΕΧΟΜΕΝΟΥ ΓΙΑ %s"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1483
+msgid "Invalid Quiz"
+msgstr "ΜΗ ΕΓΚΥΡΗ ΕΡΩΤΗΣΗ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1521
+msgid "Quiz Settings saved"
+msgstr "ΑΠΟΘΗΚΕΥΣΗ ΡΥΘΜΗΣΕΩΝ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1596
+msgid "QUESTION SETTINGS"
+msgstr "ΡΥΘΜΗΣΕΙΣ ΕΡΩΤΗΣΕΩΝ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1598
+msgid "Question Type"
+msgstr "ΤΥΠΟΣ ΕΡΩΤΗΣΗΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1619
+msgid "Click to select as Correct answer"
+msgstr "ΕΠΙΛΟΓΗ ΑΠΑΝΤΗΣΗΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1628
+msgid "Correct Answer"
+msgstr "ΣΩΣΤΗ ΑΠΑΝΤΗΣΗ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1629
+msgid "Answer Hint"
+msgstr "ΝΥΞΗ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1630
+#, fuzzy
+msgid "Answer Explanation"
+msgstr "ΕΠΕΞΗΓΗΓΣΗ ΑΠΑΝΤΗΣΗΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1638
+msgid "SAVE QUESTION SETTINGS"
+msgstr "ΑΠΟΘΗΚΕΥΣΗ ΡΥΘΜΗΣΕΩΝ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1673
+msgid "Unable to save, incorrect question"
+msgstr "ΑΔΥΝΑΤΗ Η ΑΠΟΘΗΚΕΥΣΗ, ΛΑΘΟΣ ΕΡΩΤΗΣΗ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1698
+msgid "Question settings successfully saved"
+msgstr "ΑΠΟΘΗΚΕΥΣΗ ΡΥΘΜΗΣΕΩΝ ΕΡΩΤΗΣΗΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1712
+msgid "Unable to save, incorrect unit"
+msgstr "ΑΔΥΝΑΤΗ Η ΑΠΟΘΗΚΕΥΣΗ, ΛΑΘΟΣ ΕΝΟΤΗΤΑ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1756
+msgid "ASSIGNMENT SETTINGS"
+msgstr "ΡΥΘΜΗΣΕΙΣ ΕΡΓΑΣΙΑΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1760
+msgid "ASSIGNMENT SUB-TITLE"
+msgstr "ΥΠΟΤΗΤΛΟΣ ΕΡΓΑΣΙΑΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1766
+msgid "ASSIGNMENT MARKS"
+msgstr "ΒΑΘΜΟΙ ΕΡΓΑΣΙΑΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1767
+msgid "Assignment Maximum Marks"
+msgstr "ΜΕΓΙΣΤΗ ΒΑΘΜΟΛΟΓΙΑ ΕΡΓΑΣΙΑΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1767
+msgid "MARKS"
+msgstr "ΒΑΘΜΟΙ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1770
+msgid "ASSIGNMENT DURATION"
+msgstr "ΔΙΑΡΚΕΙΑ ΕΡΓΑΣΙΑΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1771
+msgid "Enter Assignment Duration"
+msgstr "ΠΡΟΣΘΗΚΗ ΔΙΑΡΚΕΙΑΣ ΕΡΓΑΣΙΑΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1773
+msgid "ASSIGNMENT EVALUATION"
+msgstr "ΑΞΙΟΛΟΓΗΣΗ ΕΡΓΑΣΙΑΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1774
+msgid "Include in Course Evaluation"
+msgstr "ΠΡΟΣΘΗΚΗ ΣΤΗΝ ΑΞΙΟΛΟΓΗΣΗ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1784
+msgid "ASSIGNMENT COURSE"
+msgstr "ΕΡΓΑΣΙΑ ΜΑΘΗΜΑΤΟΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1785
+msgid "Select Assignment Course"
+msgstr "ΕΠΙΛΟΓΗ ΕΡΓΑΣΙΑΣ ΓΙΑ ΤΟ ΜΑΘΗΜΑ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1802
+msgid "ASSIGNMENT SUBMISISON TYPE"
+msgstr "ΤΥΠΟΣ ΕΡΓΑΣΙΑΣ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1804
+msgid "UPLOAD"
+msgstr "UPLOAD"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1805
+msgid "TEXTAREA"
+msgstr "ΚΕΙΜΕΝΟ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1808
+msgid "ATTACHMENT TYPE"
+msgstr "ATTACHMENT TYPE"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1853
+msgid "Attachment Size"
+msgstr "Attachment Size"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1854
+msgid "Maximum attachment size"
+msgstr "Maximum attachment size"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1854
+msgid " MBs"
+msgstr " MBs"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1903
+msgid "Invalid details"
+msgstr "ΜΗ ΕΓΓΥΡΑ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1909
+msgid "Invalid Assignment author"
+msgstr "Invalid Assignment author"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1918
+msgid "SETTINGS SAVED"
+msgstr "ΑΠΟΘΗΚΕΥΣΗ ΡΥΘΜΗΣΕΩΝ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1930
+msgid "ADD PACKAGE"
+msgstr "ΠΡΟΣΘΗΚΗ "
+
+# @ vibe
+#: wplms-front-end.php:79
+msgid "Please change the course title"
+msgstr "ΠΑΡΑΚΑΞΩ ΑΛΑΞΤΕ ΤΟΝ ΤΙΤΛΟ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#: wplms-front-end.php:80
+msgid "This will create a new course in the site, do you want to continue ?"
+msgstr "ΘΑ ΠΡΟΣΘΕΣΕΤΕ ΕΝΑ ΝΕΟ ΜΑΘΗΜΑ, ΣΥΝΕΧΙΑ ?"
+
+# @ wplms-front-end
+#: wplms-front-end.php:81
+msgid "Yes, create a new course"
+msgstr "ΝΑΙ ΔΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#: wplms-front-end.php:82
+msgid ""
+"This will overwrite the previous course settings, do you want to continue ?"
+msgstr ""
+"Αυτό θα αντικαταστήσει τις προηγούμενες ρυθμίσεις, θέλετε να συνεχίσετε?"
+
+# @ wplms-front-end
+#: wplms-front-end.php:83
+msgid "Save course"
+msgstr "ΑΠΟΘΗΚΕΥΣΗ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#: wplms-front-end.php:84
+msgid "This will create a new unit in the site, do you want to continue ?"
+msgstr "Αυτό θα δημιουργήσει μια νέα ενότητα, θέλετε να συνεχίσετε ?"
+
+# @ wplms-front-end
+#: wplms-front-end.php:85
+msgid "Yes, create a new unit"
+msgstr "Ναι, δημιουργια νέας ενότητας"
+
+# @ vibe
+#: wplms-front-end.php:86
+msgid ""
+"This will overwrite the existing unit settings, do you want to continue ?"
+msgstr ""
+"Αυτό θα αντικαταστήσει τις υπάρχουσες ρυθμίσεις της ενότητας, θέλετε να "
+"συνεχίσετε ?"
+
+# @ wplms-front-end
+#: wplms-front-end.php:87
+msgid "Yes, save unit settings"
+msgstr "Ναι, αποθήκευση ρυθμήσεων"
+
+# @ vibe
+#: wplms-front-end.php:88
+msgid "This will create a new question in the site, do you want to continue ?"
+msgstr "Θα δημιουργηθεί μια νέα ερώτηση, θέλετε να συνεχίσετε ?"
+
+# @ wplms-front-end
+#: wplms-front-end.php:89
+msgid "Yes, create a new question"
+msgstr "Ναι, δημιουργία νέας ερώτησης"
+
+# @ vibe
+#: wplms-front-end.php:90
+msgid "This will create a new quiz in the site, do you want to continue ?"
+msgstr "Θα δημιουργήθεί νέο Κουίζ, θέλετε να συνεχίσετε ?"
+
+# @ wplms-front-end
+#: wplms-front-end.php:91
+msgid "Yes, create a new quiz"
+msgstr "Ναι, δημιουργία νέου Κουίζ"
+
+# @ vibe
+#: wplms-front-end.php:92
+msgid ""
+"This will overwrite the existing quiz settings, do you want to continue ?"
+msgstr ""
+"Αυτό θα αντικαταστήσει τις υπάρχουσες ρυθμίσεις Κουίζ, θέλετε να συνεχίσετε ?"
+
+# @ wplms-front-end
+#: wplms-front-end.php:93
+msgid "Yes, save quiz settings"
+msgstr "Ναι, αποθηκευση ρυθμήσεων Κουίζ"
+
+# @ vibe
+#: wplms-front-end.php:94
+#, fuzzy
+msgid "This will delete the element from your site, do you want to continue ?"
+msgstr "Αυτό θα διαγράψει το περιεχομενο / κουίζ , θέλετε να συνεχίσετε ?"
+
+# @ wplms-front-end
+#: wplms-front-end.php:95
+msgid "Continue"
+msgstr "Συνέχια"
+
+# @ vibe
+#: wplms-front-end.php:96
+msgid "This will overwrite the previous settings, do you want to continue ?"
+msgstr ""
+"Αυτό θα αντικαταστήσει τις προηγούμενες ρυθμίσεις, θέλετε να συνεχίσετε ?"
+
+# @ default
+# @ wplms-front-end
+#: wplms-front-end.php:97
+msgid "Save"
+msgstr "ΑΠΟΘΗΚΕΥΣΗ"
+
+# @ vibe
+#: wplms-front-end.php:98
+msgid ""
+"This will create a new assignment in the site, do you want to continue ?"
+msgstr "Θα δημιουργήθεί μια νέα Εργασία , θέλετε να συνεχίσετε ?"
+
+# @ wplms-front-end
+#: wplms-front-end.php:99
+msgid "Yes, create a new assignment"
+msgstr "Ναι, δημιουργία Εργασίας"
+
+#: wplms-front-end.php:100
+msgid ""
+"Are you sure you want to take course offline, this will remove the course "
+"from course directory and it will not be visible to your students"
+msgstr ""
+
+#: wplms-front-end.php:101
+msgid "Are you sure you want to delete this course ?"
+msgstr ""
+
+# @ vibe
+#: wplms-front-end.php:103
+#, fuzzy
+msgid "This will create a new group in the site, do you want to continue ?"
+msgstr "ΘΑ ΠΡΟΣΘΕΣΕΤΕ ΕΝΑ ΝΕΟ ΜΑΘΗΜΑ, ΣΥΝΕΧΙΑ ?"
+
+# @ vibe
+#: wplms-front-end.php:104
+#, fuzzy
+msgid "This will create a new forum in the site, do you want to continue ?"
+msgstr "ΘΑ ΠΡΟΣΘΕΣΕΤΕ ΕΝΑ ΝΕΟ ΜΑΘΗΜΑ, ΣΥΝΕΧΙΑ ?"
+
+# @ default
+#~ msgid ""
+#~ "You attempted to edit an item that doesn&#8217;t exist. Perhaps it was "
+#~ "deleted?"
+#~ msgstr ""
+#~ "You attempted to edit an item that doesn&#8217;t exist. Perhaps it was "
+#~ "deleted?"
+
+# @ default
+#~ msgid "You are not allowed to edit this item."
+#~ msgstr "You are not allowed to edit this item."
+
+# @ default
+#~ msgid "Cancel"
+#~ msgstr "ΑΚΥΡΩΣΗ"
+
+# @ default
+#~ msgid "LOCKED"
+#~ msgstr "ΚΛΕΙΔΩΜΕΝΗ"
+
+# @ default
+#~ msgid "OK"
+#~ msgstr "OK"
+
+# @ default
+#~ msgid "Publish on:"
+#~ msgstr "ΔΗΜΟΣΙΕΥΣΗ ΣΤΗΣ : "
+
+# @ default
+#~ msgid "Schedule for:"
+#~ msgstr "ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΓΙΑ : "
+
+# @ default
+#~ msgid "Published on:"
+#~ msgstr "ΔΗΜΟΣΙΕΥΣΗ ΣΤΗΣ : "
+
+# @ default
+#~ msgid "%1$s %2$s, %3$s @ %4$s : %5$s"
+#~ msgstr "%1$s %2$s, %3$s @ %4$s : %5$s"
+
+# @ default
+#~ msgid "Show more comments"
+#~ msgstr "ΠΕΡΙΣΣΟΤΕΡΑ ΣΧΟΛΙΑ"
+
+# @ default
+#~ msgid "No more comments found."
+#~ msgstr "ΔΕΝ ΒΡΕΘΗΚΑΝ ΑΛΛΑ ΣΧΟΛΙΑ "
+
+# @ default
+#~ msgid "Schedule"
+#~ msgstr "ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ"
+
+# @ default
+#~ msgid "Update"
+#~ msgstr "ΑΝΑΝΕΩΣΗ"
+
+# @ default
+#~ msgid "Save as Pending"
+#~ msgstr "ΑΠΟΘΗΚΕΥΣΗ ΩΣ ΠΡΟΣ ΕΠΕΞΕΡΓΑΣΙΑ"
+
+# @ default
+#~ msgid "Save Draft"
+#~ msgstr "Save Draft"
+
+# @ default
+#~ msgid "Public, Sticky"
+#~ msgstr "Public, Sticky"
+
+# @ default
+#~ msgid "Password Protected"
+#~ msgstr "Password Protected"
+
+# @ default
+#~ msgid "Privately Published"
+#~ msgstr "Privately Published"
+
+# @ default
+#~ msgid "Published"
+#~ msgstr "Published"
+
+# @ default
+#~ msgctxt "tag delimiter"
+#~ msgid ","
+#~ msgstr ","
+
+# @ default
+#~ msgid "Saving Draft&#8230;"
+#~ msgstr "Saving Draft&#8230;"
+
+# @ default
+#~ msgid ""
+#~ "The changes you made will be lost if you navigate away from this page."
+#~ msgstr ""
+#~ "The changes you made will be lost if you navigate away from this page."
+
+# @ default
+#~ msgid "Insert/edit link"
+#~ msgstr "Insert/edit link"
+
+# @ default
+#~ msgid "Add Link"
+#~ msgstr "Add Link"
+
+# @ default
+#~ msgid "(no title)"
+#~ msgstr "(no title)"
+
+# @ default
+#~ msgid "No matches found."
+#~ msgstr "No matches found."
+
+# @ default
+#~ msgid "Publishing&hellip;"
+#~ msgstr "Publishing&hellip;"
+
+# @ default
+#~ msgid "Saving&hellip;"
+#~ msgstr "Saving&hellip;"
+
+# @ default
+#~ msgid "Updating&hellip;"
+#~ msgstr "Updating&hellip;"
+
+# @ default
+#~ msgid "Post updated. <a href=\"%s\">View post</a>"
+#~ msgstr "Post updated. <a href=\"%s\">View post</a>"
+
+# @ default
+#~ msgid "Custom field updated."
+#~ msgstr "Custom field updated."
+
+# @ default
+#~ msgid "Custom field deleted."
+#~ msgstr "Custom field deleted."
+
+# @ default
+#~ msgid "Post updated."
+#~ msgstr "ΑΝΑΝΕΩΣΗ"
+
+# @ default
+#~ msgid "Post restored to revision from %s"
+#~ msgstr "Post restored to revision from %s"
+
+# @ default
+#~ msgid "Post published. <a href=\"%s\">View post</a>"
+#~ msgstr "Post published. <a href=\"%s\">View post</a>"
+
+# @ default
+#~ msgid "Post saved."
+#~ msgstr "ΑΠΟΘΗΚΕΥΣΗ"
+
+# @ default
+#~ msgid "Post submitted. <a target=\"_blank\" href=\"%s\">Preview post</a>"
+#~ msgstr "Post submitted. <a target=\"_blank\" href=\"%s\">Preview post</a>"
+
+# @ default
+#~ msgid ""
+#~ "Post scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+#~ "\"%2$s\">Preview post</a>"
+#~ msgstr ""
+#~ "Post scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+#~ "\"%2$s\">Preview post</a>"
+
+# @ default
+#~ msgid "M j, Y @ G:i"
+#~ msgstr "M j, Y @ G:i"
+
+# @ default
+#~ msgid ""
+#~ "Post draft updated. <a target=\"_blank\" href=\"%s\">Preview post</a>"
+#~ msgstr ""
+#~ "Post draft updated. <a target=\"_blank\" href=\"%s\">Preview post</a>"
+
+# @ default
+#~ msgid "Page updated. <a href=\"%s\">View page</a>"
+#~ msgstr "Η ΣΕΛΙΔΑ ΑΝΑΝΕΩΘΙΚΕ. <a href=\"%s\">View page</a>"
+
+# @ default
+#~ msgid "Page updated."
+#~ msgstr "ΑΝΑΝΕΩΣΗ ΣΕΛΙΔΑΣ "
+
+# @ default
+#~ msgid "Page restored to revision from %s"
+#~ msgstr "Page restored to revision from %s"
+
+# @ default
+#~ msgid "Page published. <a href=\"%s\">View page</a>"
+#~ msgstr "ΔΗΜΟΣΙΕΥΣΗ ΣΕΛΙΔΑΣ. <a href=\"%s\">View page</a>"
+
+# @ default
+#~ msgid "Page saved."
+#~ msgstr "ΑΠΟΘΗΚΕΥΣΗ."
+
+# @ default
+#~ msgid "Page submitted. <a target=\"_blank\" href=\"%s\">Preview page</a>"
+#~ msgstr "Page submitted. <a target=\"_blank\" href=\"%s\">Preview page</a>"
+
+# @ default
+#~ msgid ""
+#~ "Page scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+#~ "\"%2$s\">Preview page</a>"
+#~ msgstr ""
+#~ "Page scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+#~ "\"%2$s\">Preview page</a>"
+
+# @ default
+#~ msgid ""
+#~ "Page draft updated. <a target=\"_blank\" href=\"%s\">Preview page</a>"
+#~ msgstr ""
+#~ "Page draft updated. <a target=\"_blank\" href=\"%s\">Preview page</a>"
+
+# @ default
+#~ msgid "Media attachment updated."
+#~ msgstr "Media attachment updated."
+
+# @ default
+#~ msgid ""
+#~ "There is an autosave of this post that is more recent than the version "
+#~ "below. <a href=\"%s\">View the autosave</a>"
+#~ msgstr ""
+#~ "Υπάρχει μια αυτόματη αποθήκευση που είναι πιο πρόσφατη από το παρακάτω "
+#~ "κείμενο. <a href=\"%s\"> Δείτε το </a> αυτόματης αποθήκευσης"
+
+# @ default
+#~ msgid "Revisions"
+#~ msgstr "Revisions"
+
+# @ default
+#~ msgctxt "post format"
+#~ msgid "Format"
+#~ msgstr "ΜΟΡΦΟΠΟΙΗΣΗ"
+
+# @ default
+#~ msgid "Page Attributes"
+#~ msgstr "Page Attributes"
+
+# @ default
+#~ msgid "Attributes"
+#~ msgstr "Attributes"
+
+# @ default
+#~ msgid "Excerpt"
+#~ msgstr "Excerpt"
+
+# @ default
+#~ msgid "Send Trackbacks"
+#~ msgstr "Send Trackbacks"
+
+# @ default
+#~ msgid "Custom Fields"
+#~ msgstr "Custom Fields"
+
+# @ default
+#~ msgid "Discussion"
+#~ msgstr "Discussion"
+
+# @ default
+#~ msgid "Status:"
+#~ msgstr "Status:"
+
+# @ default
+#~ msgid "Scheduled"
+#~ msgstr "Scheduled"
+
+# @ default
+#~ msgid "Pending Review"
+#~ msgstr "Pending Review"
+
+# @ default
+#~ msgid "Draft"
+#~ msgstr "Draft"
+
+# @ default
+#~ msgid "Visibility:"
+#~ msgstr "Visibility:"
+
+# @ default
+#~ msgid "Password protected"
+#~ msgstr "Password protected"
+
+# @ default
+#~ msgid "Stick this post to the front page"
+#~ msgstr "Stick this post to the front page"
+
+# @ default
+#~ msgid "Password:"
+#~ msgstr "ΚΩΔΙΚΟΣ:"
+
+# @ default
+#~ msgid "Scheduled for: <b>%1$s</b>"
+#~ msgstr "ΠΡΟΓΡΑΜΑΤΙΣΜΟΣ ΓΙΑ: <b>%1$s</b>"
+
+# @ default
+#~ msgid "Published on: <b>%1$s</b>"
+#~ msgstr "ΓΗΜΟΣΙΕΥΣΗ ΣΤΗΣ : <b>%1$s</b>"
+
+# @ default
+#~ msgid "Publish <b>immediately</b>"
+#~ msgstr "ΔΗΜΟΣΙΕΥΣΗ <b>ΑΜΕΣΑ</b>"
+
+# @ default
+#~ msgid "Schedule for: <b>%1$s</b>"
+#~ msgstr "ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΓΙΑ : <b>%1$s</b>"
+
+# @ default
+#~ msgid "Publish on: <b>%1$s</b>"
+#~ msgstr "ΔΗΜΟΣΙΕΥΣΗ ΣΤΗΣ : <b>%1$s</b>"
+
+# @ default
+#~ msgid "Slug"
+#~ msgstr "Slug"
+
+# @ default
+#~ msgid "Author"
+#~ msgstr "Author"
+
+# @ default
+#~ msgid "Enter the destination URL"
+#~ msgstr "Enter the destination URL"
+
+# @ default
+#~ msgid "URL"
+#~ msgstr "URL"
+
+# @ default
+#~ msgid "Open link in a new window/tab"
+#~ msgstr "Open link in a new window/tab"
+
+# @ default
+#~ msgid "Or link to existing content"
+#~ msgstr "Or link to existing content"
+
+# @ default
+#~ msgid "Search"
+#~ msgstr "ΑΝΑΖΗΤΗΣΗ"
+
+# @ default
+#~ msgid "No search term specified. Showing recent items."
+#~ msgstr "No search term specified. Showing recent items."
+
+# @ default
+#~ msgid ""
+#~ "<strong>Connection lost.</strong> Saving has been disabled until "
+#~ "you&#8217;re reconnected."
+#~ msgstr ""
+#~ "<strong>Connection lost.</strong> Saving has been disabled until "
+#~ "you&#8217;re reconnected."
+
+# @ default
+#~ msgid "We&#8217;re backing up this post in your browser, just in case."
+#~ msgstr "We&#8217;re backing up this post in your browser, just in case."

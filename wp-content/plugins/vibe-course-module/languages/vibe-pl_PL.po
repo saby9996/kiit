@@ -1,0 +1,5380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vibe Course Module\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-30 12:24+0530\n"
+"PO-Revision-Date: 2016-11-30 12:24+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: vibethemes <vibethemes@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: autoupdate/class-envato-protected-api.php:67
+#, fuzzy
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Bitte geben Sie Ihren Envato-Marktplatz Benutzernamen ein."
+
+#: autoupdate/class-envato-protected-api.php:71
+#, fuzzy
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Bitte geben Sie Ihren Envato-Marktplatz API Key ein."
+
+#: autoupdate/class-envato-protected-api.php:96
+#, fuzzy
+msgid "The API \"set\" is a required parameter."
+msgstr "Der API Parameter \"set\" ist erforderlich."
+
+#: autoupdate/class-envato-protected-api.php:167
+#, fuzzy
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "Der API Parameter \"item ID\" ist erforderlich"
+
+#: autoupdate/class-plugin-update.php:376
+#, fuzzy
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "Ein unerwarteter HTTP-Fehler trat während der API-Anfrage auf."
+
+#: autoupdate/class-plugin-update.php:376
+#: autoupdate/class-plugin-update.php:541
+#, fuzzy
+msgid "Try again"
+msgstr "Bitte versuchen es erneut"
+
+#: autoupdate/class-plugin-update.php:417
+#, fuzzy
+msgid "An unknown error occurred"
+msgstr "Ein unbekannter Fehler ist aufgetreten"
+
+#: autoupdate/class-plugin-update.php:453
+#, fuzzy
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"Das Plugin ist aktualisiert worden, wurde aber nicht wieder aktiviert. Bitte "
+"reaktivieren Sie es manuell."
+
+#: autoupdate/class-plugin-update.php:454
+#, fuzzy
+msgid "Plugin reactivated successfully. "
+msgstr "Plugin erfolgreich aktiviert. "
+
+#: autoupdate/class-plugin-update.php:476
+#, fuzzy
+msgid " Plugin Updates"
+msgstr " Plugin Updates "
+
+#: autoupdate/class-plugin-update.php:515
+#, fuzzy
+msgid "Username: "
+msgstr "Benutzername:  "
+
+#: autoupdate/class-plugin-update.php:519
+#, fuzzy
+msgid "Email: "
+msgstr "E-Mail: "
+
+#: autoupdate/class-plugin-update.php:525
+#, fuzzy
+msgid "Key: "
+msgstr "Key: "
+
+#: autoupdate/class-plugin-update.php:531
+#, fuzzy
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<p> Ihre Plugin-Update ist <span style =\"color: green \"> aktiv </span> </p>"
+
+#: autoupdate/class-plugin-update.php:535
+#, fuzzy
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p> Ihre Eingabe ist <span style=\"color: red \"> nicht gültig </span>, "
+"automatische Updates sind <span style=\"color: red \">nicht aktiv </span> </"
+"p>"
+
+#: autoupdate/class-plugin-update.php:536
+#, fuzzy
+msgid "Edit Key"
+msgstr "Key bearbeiten"
+
+#: autoupdate/class-plugin-update.php:540
+#, fuzzy
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p> Kann Update-Aktivierung nicht bestätigen. </p>"
+
+#: autoupdate/class-plugin-update.php:546
+#, fuzzy
+msgid "Add Key"
+msgstr "Key hinzufügen"
+
+#: autoupdate/class-plugin-update.php:632
+#, fuzzy
+msgid "User name"
+msgstr "Benutzername"
+
+#: autoupdate/class-plugin-update.php:638
+#, fuzzy
+msgid "Email"
+msgstr "E-Mail"
+
+#: autoupdate/class-plugin-update.php:647
+#, fuzzy
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "Themeforest Benutzername (für Auto-Updates)"
+
+#: includes/bp-course-actions.php:122
+#, fuzzy
+msgid "Removed a student from Course"
+msgstr "Usuario eliminado del curso"
+
+#: includes/bp-course-actions.php:123 includes/bp-course-actions.php:127
+#, fuzzy
+msgid "Student submitted a Course"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-actions.php:124 includes/bp-course-actions.php:126
+#, fuzzy
+msgid "Student started a Course"
+msgstr "L'élève a commencé le devoir"
+
+#: includes/bp-course-actions.php:125
+#, fuzzy
+msgid "Student submitted a Quiz"
+msgstr "Lo studente ha inviato il Test"
+
+#: includes/bp-course-actions.php:128
+#, fuzzy
+msgid "Course reset for Student"
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-actions.php:129
+#, fuzzy
+msgid "Bulk action by instructor"
+msgstr "Il Docente ha inviato un messaggio per gli studenti : "
+
+#: includes/bp-course-actions.php:130
+#, fuzzy
+msgid "Course Evaluated for student"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: includes/bp-course-actions.php:131
+#, fuzzy
+msgid "Student got a Badge"
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: includes/bp-course-actions.php:132
+#, fuzzy
+msgid "Student got a certificate"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: includes/bp-course-actions.php:133
+#, fuzzy
+msgid "Quiz Evaluated for student"
+msgstr "Il Docente ha valutato il Test per lo studente"
+
+#: includes/bp-course-actions.php:134
+#, fuzzy
+msgid "Student subscribed for course"
+msgstr "Studente iscritto al corso "
+
+#: includes/bp-course-actions.php:152 includes/bp-course-actions.php:154
+#, fuzzy
+msgid "per"
+msgstr "%s per %s.   "
+
+#: includes/bp-course-actions.php:172
+#, fuzzy
+msgid "SUBSCRIPTION FOR"
+msgstr "INSCHRIJVING"
+
+#: includes/bp-course-actions.php:355
+#, fuzzy, php-format
+msgid "All Instructors <span>%s</span>"
+msgstr "Todos los instructores  <span>%s</span>"
+
+#: includes/bp-course-actions.php:376 includes/bp-course-screens.php:225
+#, fuzzy
+msgid "Start Course"
+msgstr "Start cursus"
+
+#: includes/bp-course-actions.php:377 includes/bp-course-screens.php:226
+#, fuzzy
+msgid "Continue Course"
+msgstr "CONTINUAR CURSO"
+
+#: includes/bp-course-actions.php:378 includes/bp-course-ajax.php:455
+#: includes/bp-course-screens.php:227
+#, fuzzy
+msgid "Under Evaluation"
+msgstr "In fase di valutazione"
+
+#: includes/bp-course-actions.php:379
+#, fuzzy
+msgid "Course Finished"
+msgstr "CURSO FINALIZADO"
+
+#: includes/bp-course-actions.php:382
+#, fuzzy
+msgid "Active"
+msgstr "actief %s"
+
+#: includes/bp-course-actions.php:383
+#, fuzzy
+msgid "Expired"
+msgstr "COURS :"
+
+#: includes/bp-course-actions.php:386 includes/bp-course-actions.php:391
+#, fuzzy
+msgid "Filter by Status"
+msgstr "Resultados"
+
+#: includes/bp-course-actions.php:397
+msgid "Enter student name/email"
+msgstr ""
+
+#: includes/bp-course-actions.php:411
+#, fuzzy, php-format
+msgid "EXPIRED %s COURSE"
+msgstr "CURSUS BEOORDELING"
+
+#: includes/bp-course-actions.php:419
+#, fuzzy, php-format
+msgid "START %s COURSE"
+msgstr "START CURSUS"
+
+#: includes/bp-course-actions.php:422
+#, fuzzy, php-format
+msgid "CONTINUE %s COURSE"
+msgstr "CONTINUAR CURSO"
+
+#: includes/bp-course-actions.php:425
+#, fuzzy, php-format
+msgid "UNDER %s EVALUATION"
+msgstr "CURSO BAJO EVALUACIÓN"
+
+#: includes/bp-course-actions.php:428
+#, fuzzy, php-format
+msgid "FINISHED %s COURSE"
+msgstr "Toegang tot afgewerkte Cursussen"
+
+#: includes/bp-course-actions.php:431
+#, fuzzy, php-format
+msgid "COURSE %s ENABLED"
+msgstr "CURSO HABILITADO"
+
+#: includes/bp-course-actions.php:437
+#, fuzzy
+msgid "START"
+msgstr "Volg een ​​Cursus om de Test te starten"
+
+#: includes/bp-course-actions.php:437 includes/bp-course-actions.php:440
+#: includes/bp-course-actions.php:446
+#, fuzzy
+msgid "COURSE"
+msgstr "CURSUS"
+
+#: includes/bp-course-actions.php:440
+#, fuzzy
+msgid "CONTINUE"
+msgstr "Weiter"
+
+#: includes/bp-course-actions.php:443
+msgid "UNDER"
+msgstr ""
+
+#: includes/bp-course-actions.php:443
+#, fuzzy
+msgid "EVALUATION"
+msgstr "In der Bewertung berücksichtigen"
+
+#: includes/bp-course-actions.php:446
+#, fuzzy
+msgid "FINISHED"
+msgstr "Stel Studenten in staat Afgewerkte cursussen te bekijken"
+
+#: includes/bp-course-actions.php:517
+#, fuzzy
+msgid "This Course can not be taken. Contact Administrator."
+msgstr "Le Contrôle de Sécurité a échoué. Veuillez contacter l'Administrateur."
+
+#: includes/bp-course-actions.php:529
+#, fuzzy
+msgid "REVIEW COURSE "
+msgstr "CURSUS BEOORDELING"
+
+#: includes/bp-course-actions.php:741
+#, fuzzy
+msgid "Quiz Results"
+msgstr "Testresultaten"
+
+#: includes/bp-course-actions.php:755 includes/bp-course-ajax.php:128
+#, fuzzy, php-format
+msgid "Viewing %d out of %d"
+msgstr "Visitando página %1$s de %2$s"
+
+#: includes/bp-course-actions.php:795
+#, fuzzy
+msgid "Results Available"
+msgstr "Resultaten beschikbaar"
+
+#: includes/bp-course-actions.php:797
+#, fuzzy
+msgid "Results Awaited"
+msgstr "Resultaten afwachten"
+
+#: includes/bp-course-actions.php:805
+#, fuzzy
+msgid "Submitted "
+msgstr "Doorgestuurd "
+
+#: includes/bp-course-actions.php:805
+#, fuzzy
+msgid " ago"
+msgstr "%s geleden"
+
+#: includes/bp-course-actions.php:807
+#, fuzzy
+msgid " Pending Submission"
+msgstr "Inschrijvingen"
+
+#: includes/bp-course-actions.php:988
+#, fuzzy
+msgid "Check Answer"
+msgstr "Juist Antwoord :"
+
+#: includes/bp-course-activity.php:196 includes/bp-course-loader.php:66
+#: includes/bp-course-notifications.php:207
+#, fuzzy
+msgid "Course"
+msgstr "Cursus"
+
+#: includes/bp-course-activity.php:232
+#, fuzzy, php-format
+msgid "Announcement for Course %s "
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-activity.php:246
+#, fuzzy, php-format
+msgid "News published for Course %s "
+msgstr " iscritto al corso"
+
+#: includes/bp-course-activity.php:259 includes/bp-course-mailer.php:601
+#: includes/bp-course-notifications.php:581
+#, fuzzy, php-format
+msgid "Student subscribed for course %s"
+msgstr "Studente iscritto al corso "
+
+#: includes/bp-course-activity.php:260
+#, fuzzy, php-format
+msgid "Student %s subscribed for course %s"
+msgstr "Studente iscritto al corso "
+
+#: includes/bp-course-activity.php:283
+#, fuzzy
+msgid "Student started course "
+msgstr "L'élève a commencé le devoir"
+
+#: includes/bp-course-activity.php:300
+#, fuzzy, php-format
+msgid "Student %s finished and submitted the course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-activity.php:302
+#, fuzzy
+msgid "Student Submitted the course "
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-activity.php:314
+#, fuzzy
+msgid "Instructor evaluated Course for student"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: includes/bp-course-activity.php:315 includes/bp-course-notifications.php:958
+#, fuzzy, php-format
+msgid "Student %s got %s in course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-activity.php:335
+#, fuzzy
+msgid "Course reset for student "
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-activity.php:336
+#, fuzzy, php-format
+msgid "Course %s is reset for student %s"
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-activity.php:345
+#, fuzzy
+msgid "Student retake Course "
+msgstr "L'élève a commencé le devoir"
+
+#: includes/bp-course-activity.php:346
+#, fuzzy, php-format
+msgid "Course %s is retaken by student %s"
+msgstr "Test ritentato dallo studente"
+
+#: includes/bp-course-activity.php:355
+#, fuzzy
+msgid "Student got a Badge in the course "
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: includes/bp-course-activity.php:356
+#, fuzzy, php-format
+msgid "Student %s got a badge in the course %s"
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: includes/bp-course-activity.php:364
+#, fuzzy
+msgid "Student got a Certificate in course"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: includes/bp-course-activity.php:365
+#, fuzzy, php-format
+msgid "Student %s got a certificate in the course %s"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: includes/bp-course-activity.php:374
+#, fuzzy, php-format
+msgid "Student reviewed Course %s"
+msgstr "L'élève a commencé le devoir"
+
+#: includes/bp-course-activity.php:375
+#, fuzzy, php-format
+msgid "Student %s reviewed the Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-activity.php:387
+#, fuzzy
+msgid "Student unsubsribed from course "
+msgstr "Studente iscritto al corso "
+
+#: includes/bp-course-activity.php:388
+#, fuzzy, php-format
+msgid "Student %s is removed from the course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-activity.php:397
+#, fuzzy
+msgid "Course code applied"
+msgstr "Título del curso"
+
+#: includes/bp-course-activity.php:398
+#, fuzzy, php-format
+msgid "Student %s applied Course code for course %s"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-activity.php:413
+#, fuzzy
+msgid "Student renewed a course"
+msgstr "L'élève a commencé le devoir"
+
+#: includes/bp-course-activity.php:414
+#, fuzzy, php-format
+msgid "Student %s renewed the course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-activity.php:424
+#, fuzzy
+msgid "Student started a unit"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-activity.php:425
+#, fuzzy, php-format
+msgid "Student started the unit %s in course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-activity.php:435
+#, fuzzy
+msgid "Student finished unit "
+msgstr "Lo studente ha terminato l'unità "
+
+#: includes/bp-course-activity.php:436
+#, fuzzy, php-format
+msgid "Student %s finished the unit %s in course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-activity.php:452
+#, fuzzy
+msgid "Instructor completed a unit for Student "
+msgstr "Il Docente ha valutato il Test per lo studente"
+
+#: includes/bp-course-activity.php:453
+#: includes/bp-course-notifications.php:1352
+#, fuzzy, php-format
+msgid "Instructor %s completed unit %s for Student %s in course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-activity.php:465
+#, fuzzy
+msgid "Instructor uncompleted a unit for Student "
+msgstr "Il Docente ha valutato il Test per lo studente"
+
+#: includes/bp-course-activity.php:466
+#: includes/bp-course-notifications.php:1409
+#, fuzzy, php-format
+msgid "Instructor %s uncompleted unit %s for Student %s in course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-activity.php:478
+#, fuzzy
+msgid "Student posted comment on unit "
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-activity.php:479
+#, fuzzy, php-format
+msgid "Student %s posted comment on unit %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-activity.php:490
+#, fuzzy
+msgid "Student started a quiz"
+msgstr "Lo studente ha iniziato il Test"
+
+#: includes/bp-course-activity.php:491 includes/bp-course-mailer.php:780
+#: includes/bp-course-notifications.php:2390
+#, fuzzy, php-format
+msgid "Student %s started the quiz %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-activity.php:502
+#, fuzzy
+msgid "Student submitted the Quiz"
+msgstr "Lo studente ha inviato il Test"
+
+#: includes/bp-course-activity.php:503
+#, fuzzy, php-format
+msgid "Quiz %s was submitted by student %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-activity.php:515
+#, fuzzy
+msgid "Instructor evaluated Quiz for student "
+msgstr "Il Docente ha valutato il Test per lo studente"
+
+#: includes/bp-course-activity.php:517
+#, fuzzy, php-format
+msgid "Student %s got %s out of %s in Quiz %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-activity.php:541
+#, fuzzy
+msgid "Quiz retake by Student"
+msgstr "Test ritentato dallo studente"
+
+#: includes/bp-course-activity.php:542
+#, fuzzy, php-format
+msgid "Student %s  initiated retake for quiz %s"
+msgstr "Lo studente ha iniziato il Test"
+
+#: includes/bp-course-activity.php:554
+#, fuzzy
+msgid "Instructor Reseted the Quiz for User"
+msgstr "Il Docente ha azzerato il Test per l'utente"
+
+#: includes/bp-course-activity.php:555
+#, fuzzy, php-format
+msgid "Quiz %s  was reset by the Instructor for user %s"
+msgstr " è stato azzerato dal Docente per l'utente"
+
+#: includes/bp-course-activity.php:567
+#, fuzzy
+msgid "Instructor added students in course  "
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-activity.php:568
+#, fuzzy, php-format
+msgid "Instructor added %s students in course "
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-activity.php:575
+#, fuzzy
+msgid "Instructor changed course status  "
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-activity.php:576
+#, fuzzy, php-format
+msgid "Instructor changed Course Status for %s students in course "
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: includes/bp-course-activity.php:583
+#, fuzzy
+msgid "Instructor sent Bulk message to students"
+msgstr "Il Docente ha inviato un messaggio per gli studenti : "
+
+#: includes/bp-course-activity.php:584
+#, fuzzy, php-format
+msgid "Bulk Message sent to %s students "
+msgstr "Messaggio inviato agli studenti "
+
+#: includes/bp-course-activity.php:591
+#, fuzzy
+msgid "Instructor extended Course subscription"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: includes/bp-course-activity.php:592
+#, fuzzy, php-format
+msgid "Course subscription extended for %s students "
+msgstr " valutazione automatica per lo studente "
+
+#: includes/bp-course-activity.php:602
+#, fuzzy
+msgid "Instructor assigned/removed Certificate/Badges"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-activity.php:603
+#, fuzzy, php-format
+msgid "Instructor added/removed Badges/Certificates from %s students in course"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-activity.php:625
+#: includes/bp-course-notifications.php:1868
+#, fuzzy, php-format
+msgid "Student started assignment %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-activity.php:626 includes/bp-course-mailer.php:830
+#: includes/bp-course-notifications.php:2420
+#, fuzzy, php-format
+msgid "Student %s started the assignment %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-activity.php:644
+#, fuzzy
+msgid "Student submitted assignment "
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-activity.php:645 includes/bp-course-mailer.php:840
+#: includes/bp-course-notifications.php:2426
+#, fuzzy, php-format
+msgid "Student %s submitted the assignment %s"
+msgstr "Lo studente ha inviato il Test"
+
+#: includes/bp-course-activity.php:662 includes/bp-course-mailer.php:844
+#: includes/bp-course-notifications.php:1898
+#, php-format
+msgid "Results available for assignment %s"
+msgstr ""
+
+#: includes/bp-course-activity.php:663
+#, php-format
+msgid "Student %s got marks %s out of %s in assignment %s "
+msgstr ""
+
+#: includes/bp-course-activity.php:681
+#, fuzzy
+msgid "Instructor Reseted the Assignment for User"
+msgstr "Il Docente ha azzerato il Test per l'utente"
+
+#: includes/bp-course-activity.php:682
+#, fuzzy, php-format
+msgid "Assignment %s was reset by the Instructor for user %s"
+msgstr " è stato azzerato dal Docente per l'utente"
+
+#: includes/bp-course-activity.php:702
+#, fuzzy, php-format
+msgid "%1$s wrote a new %2$s, %3$s, on the site %4$s"
+msgstr "%1$s escribió una nueva %2$s, %3$s, en este sitio %4$s"
+
+#: includes/bp-course-activity.php:704
+#, fuzzy, php-format
+msgid "%1$s wrote a new %2$s, %3$s"
+msgstr "%1$s escribió una nueva %2$s, %3$s"
+
+#: includes/bp-course-activity.php:714
+#, fuzzy, php-format
+msgid "%1$s reviewed the %2$s, %3$s, on the site %4$s"
+msgstr "%1$s revisó el %2$s, %3$s, en este sitio %4$s"
+
+#: includes/bp-course-activity.php:716
+#, fuzzy, php-format
+msgid "%1$s reviewed the %2$s, %3$s"
+msgstr "%1$s revisó el %2$s, %3$s"
+
+#: includes/bp-course-activity.php:720
+#, fuzzy, php-format
+msgid "%1$s answered the %2$s, %3$s, on the site %4$s"
+msgstr "%1$s respondió el %2$s, %3$s, en este sitio %4$s"
+
+#: includes/bp-course-activity.php:722
+#, fuzzy, php-format
+msgid "%1$s answered the %2$s, %3$s"
+msgstr "%1$s respondió el %2$s, %3$s"
+
+#: includes/bp-course-activity.php:729
+#, fuzzy, php-format
+msgid "User applied for Course %s "
+msgstr " iscritto al corso"
+
+#: includes/bp-course-activity.php:730
+#, fuzzy, php-format
+msgid "User %s applied for Course %s "
+msgstr " iscritto al corso"
+
+#: includes/bp-course-activity.php:740
+#, fuzzy, php-format
+msgid "User application %s for Course %s "
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-activity.php:741
+#, fuzzy, php-format
+msgid "User %s application %s for Course %s "
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-activity.php:752
+#, fuzzy, php-format
+msgid "Instructor Published the course Course %s "
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-activity.php:753
+#, fuzzy, php-format
+msgid "Instructor %s published the Course %s "
+msgstr " iscritto al corso"
+
+#: includes/bp-course-activity.php:761
+#, fuzzy, php-format
+msgid "Instructor submitted the Course %s for approval"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-activity.php:762
+#, fuzzy, php-format
+msgid "Instructor %s submitted the Course %s for approval"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-admin.php:33
+#, fuzzy
+msgid "Select a Course"
+msgstr "Kurs für Aufgabe auswählen"
+
+#: includes/bp-course-ajax.php:96 includes/bp-course-ajax.php:157
+#: includes/bp-course-ajax.php:1941 includes/bp-course-ajax.php:2159
+#: includes/bp-course-ajax.php:2304 includes/bp-course-ajax.php:2311
+#: includes/bp-course-ajax.php:2409 includes/bp-course-ajax.php:2583
+#: includes/bp-course-ajax.php:2596 includes/bp-course-ajax.php:2653
+#: includes/bp-course-ajax.php:2698 includes/bp-course-ajax.php:2762
+#: includes/bp-course-ajax.php:2869 includes/bp-course-ajax.php:2884
+#: includes/bp-course-ajax.php:2906
+#, fuzzy
+msgid "Security check Failed. Contact Administrator."
+msgstr ""
+"Sicherheits-Check ist fehlgeschlagen. Kontaktieren Sie den Administrator."
+
+#: includes/bp-course-ajax.php:198 includes/bp-course-ajax.php:227
+#: includes/bp-course-ajax.php:275 includes/bp-course-ajax.php:489
+#: includes/bp-course-ajax.php:504 includes/bp-course-ajax.php:535
+#: includes/bp-course-ajax.php:613 includes/bp-course-ajax.php:659
+#: includes/bp-course-ajax.php:743 includes/bp-course-ajax.php:796
+#: includes/bp-course-ajax.php:1410 includes/bp-course-ajax.php:1615
+#, fuzzy
+msgid "Security check failed !"
+msgstr "Le Contrôle de sécurité a échoué!"
+
+#: includes/bp-course-ajax.php:262
+#, fuzzy
+msgid "Answer Reset"
+msgstr "Risposta Azzerata"
+
+#: includes/bp-course-ajax.php:264
+#, fuzzy
+msgid "Unable to Reset"
+msgstr "Impossibile Azzerare"
+
+#: includes/bp-course-ajax.php:280
+#, fuzzy
+msgid "Incorrect Course selected."
+msgstr "Curso seleccionado incorrecto."
+
+#: includes/bp-course-ajax.php:380
+#, fuzzy
+msgid "Statistics successfully calculated. Reloading..."
+msgstr "Estadísticas calculadas correctamente. Recargando..."
+
+#: includes/bp-course-ajax.php:382
+#, fuzzy
+msgid "Unable to calculate Average."
+msgstr "No se ha podido calcular la media."
+
+#: includes/bp-course-ajax.php:398
+#, fuzzy
+msgid "SHOW STATS"
+msgstr "MOSTRAR ESTADÍSTICAS"
+
+#: includes/bp-course-ajax.php:398
+#, fuzzy
+msgid "HIDE"
+msgstr "OCULTAR"
+
+#: includes/bp-course-ajax.php:402
+#, fuzzy
+msgid "Incorrect User selected."
+msgstr "Utilisateur sélectionné incorrecte."
+
+#: includes/bp-course-ajax.php:413
+#, fuzzy
+msgid "This User has not started the course."
+msgstr "Este usuario no ha comenzado el curso."
+
+#: includes/bp-course-ajax.php:417
+#, fuzzy
+msgid "This User has completed the course."
+msgstr "Este usuario ha completado el curso."
+
+#: includes/bp-course-ajax.php:418
+#, fuzzy
+msgid "Student Score for Course "
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-ajax.php:418
+#, fuzzy
+msgid " out of 100"
+msgstr "op 100"
+
+#: includes/bp-course-ajax.php:428
+#, fuzzy
+msgid "Course Started : "
+msgstr "Curso comenzado:"
+
+#: includes/bp-course-ajax.php:435
+#, fuzzy
+msgid "Curriculum :"
+msgstr "Overzicht"
+
+#: includes/bp-course-ajax.php:436
+#, fuzzy
+msgid "Quizes"
+msgstr "Test"
+
+#: includes/bp-course-ajax.php:471
+#, fuzzy
+msgid "Units Completed "
+msgstr "Unidades completadas"
+
+#: includes/bp-course-ajax.php:471 includes/bp-course-ajax.php:767
+#: includes/bp-course-template.php:2726
+#, fuzzy
+msgid " out of "
+msgstr " op "
+
+#: includes/bp-course-ajax.php:509 includes/bp-course-ajax.php:540
+#: includes/bp-course-ajax.php:618 includes/bp-course-ajax.php:748
+#: includes/bp-course-ajax.php:801 includes/bp-course-functions.php:864
+#, fuzzy
+msgid " Incorrect User selected."
+msgstr "Utilisateur sélectionné incorrecte."
+
+#: includes/bp-course-ajax.php:520
+#, fuzzy
+msgid "User removed from the Course"
+msgstr "Usuario eliminado del curso"
+
+#: includes/bp-course-ajax.php:596
+#, fuzzy
+msgid "Course Reset for User"
+msgstr "Restablecer curso para el usuario"
+
+#: includes/bp-course-ajax.php:601
+#, fuzzy
+msgid ""
+"There was issue in resetting this course for the user. Please contact admin."
+msgstr ""
+"Hubo un problema al resetear este curso para el usuario. Por favor, contacte "
+"con el administrador."
+
+#: includes/bp-course-ajax.php:633
+#, fuzzy
+msgid "Quiz Reset for Selected User"
+msgstr "Resetear curso para el usuario seleccionado"
+
+#: includes/bp-course-ajax.php:711
+#, fuzzy
+msgid "COURSE MARKED COMPLETE"
+msgstr "CURSO MARCADO COMO COMPLETO"
+
+#: includes/bp-course-ajax.php:767
+#, fuzzy
+msgid "MARKS: "
+msgstr "PUNKTE: "
+
+#: includes/bp-course-ajax.php:767 includes/bp-course-ajax.php:772
+#, fuzzy
+msgid " PENDING"
+msgstr "Uw gegevens worden verwerkt"
+
+#: includes/bp-course-ajax.php:772
+#, fuzzy
+msgid "DONE"
+msgstr "COMPLETATO"
+
+#: includes/bp-course-ajax.php:781 includes/bp-course-ajax.php:931
+#, fuzzy
+msgid "Total"
+msgstr "Totaal"
+
+#: includes/bp-course-ajax.php:782
+#, fuzzy
+msgid "Course Percentage (Out of 100)"
+msgstr "Porcentaje del curso (sobre 100)"
+
+#: includes/bp-course-ajax.php:782
+#, fuzzy
+msgid "Course Percentage out of 100"
+msgstr "Porcentaje del curso (sobre 100)"
+
+#: includes/bp-course-ajax.php:783
+#, fuzzy
+msgid "Mark Course Complete"
+msgstr "Marcar curso como completo"
+
+#: includes/bp-course-ajax.php:806
+#, fuzzy
+msgid " Incorrect Quiz Id."
+msgstr " Id Test errato."
+
+#: includes/bp-course-ajax.php:835 includes/bp-course-template.php:2479
+#: includes/bp-course-template.php:2560
+#, fuzzy
+msgid "Marked Answer :"
+msgstr "Aangeduid Antwoord :"
+
+#: includes/bp-course-ajax.php:902 includes/bp-course-template.php:2654
+#, fuzzy
+msgid "Correct Answer :"
+msgstr "Richtige Antwort"
+
+#: includes/bp-course-ajax.php:911 includes/bp-course-ajax.php:919
+#: includes/bp-course-template.php:2501 includes/bp-course-template.php:2672
+#, fuzzy
+msgid "Marks Obtained"
+msgstr "Behaalde punten"
+
+#: includes/bp-course-ajax.php:911 includes/bp-course-ajax.php:919
+#, fuzzy
+msgid "Give marks"
+msgstr "NOTER"
+
+#: includes/bp-course-ajax.php:912
+#, fuzzy
+msgid "Update Marks"
+msgstr "Actualizar notas"
+
+#: includes/bp-course-ajax.php:920
+#, fuzzy
+msgid "Give Marks"
+msgstr "NOTER"
+
+#: includes/bp-course-ajax.php:925 includes/bp-course-template.php:2695
+#, fuzzy
+msgid "Total Marks"
+msgstr "Totaal cijferresultaat"
+
+#: includes/bp-course-ajax.php:932
+#, fuzzy
+msgid "Mark Quiz as Checked"
+msgstr "Marcar test como comprobado"
+
+#: includes/bp-course-ajax.php:1033 includes/bp-course-template.php:1249
+#: includes/templates/course/single/admin.php:146
+#, fuzzy, php-format
+msgid "Viewing page %d of %d "
+msgstr "Visitando página %1$s de %2$s"
+
+#: includes/bp-course-ajax.php:1076 includes/bp-course-ajax.php:1081
+#, fuzzy
+msgid "Set a Subject for the message"
+msgstr "Inserisci l'Oggetto nel messaggio"
+
+#: includes/bp-course-ajax.php:1090
+#, fuzzy
+msgid "Messages Sent to "
+msgstr "Messaggio inviato a "
+
+#: includes/bp-course-ajax.php:1090 includes/bp-course-ajax.php:1274
+#: includes/bp-course-ajax.php:1392
+#, fuzzy
+msgid " members"
+msgstr "Leden"
+
+#: includes/bp-course-ajax.php:1092 includes/bp-course-ajax.php:1282
+#: includes/bp-course-ajax.php:1305 includes/bp-course-ajax.php:1398
+#, fuzzy
+msgid "Please select members"
+msgstr "Si prega di selezionare gli utenti"
+
+#: includes/bp-course-ajax.php:1181 includes/bp-course-functions.php:1798
+#: includes/templates/course/single/admin.php:113
+#, fuzzy
+msgid "Reset Course for User"
+msgstr "Stel de cursus opnieuw in voor de gebruiker"
+
+#: includes/bp-course-ajax.php:1182 includes/bp-course-functions.php:1799
+#: includes/templates/course/single/admin.php:114
+#, fuzzy
+msgid "See Course stats for User"
+msgstr "Bekijk de gebruikersstatistieken"
+
+#: includes/bp-course-ajax.php:1183 includes/bp-course-functions.php:1817
+#: includes/templates/course/single/admin.php:132
+#, fuzzy
+msgid "Remove User from this Course"
+msgstr "Verwijder deze gebruiker uit deze cursus"
+
+#: includes/bp-course-ajax.php:1212
+#, fuzzy
+msgid "Select Assign Value"
+msgstr "Sélectionner un Slider"
+
+#: includes/bp-course-ajax.php:1274
+#, fuzzy
+msgid "Action assigned to "
+msgstr "Acción uno"
+
+#: includes/bp-course-ajax.php:1279 includes/bp-course-ajax.php:1395
+msgid "Could not assign action to members"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1300
+msgid "Please enter extension amount"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1328
+#, php-format
+msgid "Subscription extended for %d students, unable to extend for %d students"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1330
+#, fuzzy, php-format
+msgid "Subscription extended for %d students"
+msgstr " valutazione automatica per lo studente "
+
+#: includes/bp-course-ajax.php:1351
+#, fuzzy
+msgid "Select Course Status"
+msgstr "Seleccionar categoría del curso"
+
+#: includes/bp-course-ajax.php:1392
+#, fuzzy
+msgid "Course status changed for "
+msgstr "Ver estadísticas del curso del usuario"
+
+#: includes/bp-course-ajax.php:1414 includes/bp-course-ajax.php:1619
+msgid "User does not have capability to download stats !"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1454 includes/bp-course-ajax.php:1652
+#, fuzzy
+msgid "START DATE"
+msgstr "COMENZAR CURSO"
+
+#: includes/bp-course-ajax.php:1462 includes/bp-course-ajax.php:1474
+#: includes/bp-course-ajax.php:1522 includes/bp-course-ajax.php:1668
+#: includes/bp-course-ajax.php:1685 includes/bp-course-ajax.php:1878
+msgid "N.A"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1466 includes/bp-course-ajax.php:1671
+msgid "COMPLETION DATE"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1477 includes/bp-course-ajax.php:1689
+#: includes/bp-course-ajax.php:1907
+#, fuzzy
+msgid "ID"
+msgstr "Instagram klant ID:"
+
+#: includes/bp-course-ajax.php:1484 includes/bp-course-ajax.php:1696
+#, fuzzy
+msgid "NAME"
+msgstr "Naam"
+
+#: includes/bp-course-ajax.php:1531
+msgid "BADGE"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1543
+#, fuzzy
+msgid "CERTIFICATE"
+msgstr "Vibe Certificate Code validator"
+
+#: includes/bp-course-ajax.php:1555 includes/bp-course-ajax.php:1726
+msgid "SCORE"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1814
+msgid "User not allowed to access stats"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1845
+#, fuzzy
+msgid "No data available"
+msgstr "Resultados del curso disponibles"
+
+#: includes/bp-course-ajax.php:1854 includes/bp-course-loader.php:346
+#, fuzzy
+msgid "Stats"
+msgstr "Statistieken"
+
+#: includes/bp-course-ajax.php:1874
+#, fuzzy
+msgid "Average"
+msgstr "Gemiddeld percentage die behaald is door de studenten"
+
+#: includes/bp-course-ajax.php:1875
+msgid "Max"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1876
+#, fuzzy
+msgid "Min"
+msgstr "Minutos"
+
+#: includes/bp-course-ajax.php:1882
+msgid "Leaderboard"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1902
+msgid "Download Stats"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1905
+msgid "Start Date/Time"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1906
+msgid "End Date/Time"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1908
+#, fuzzy
+msgid "Student Name"
+msgstr "Elève"
+
+#: includes/bp-course-ajax.php:1909
+msgid "Score"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1912
+msgid "Question scores (* for static quizzes only)"
+msgstr ""
+
+#: includes/bp-course-ajax.php:1922
+#, fuzzy
+msgid "All students"
+msgstr "Aggiungi studenti"
+
+#: includes/bp-course-ajax.php:1923
+#, fuzzy
+msgid "Students who finished"
+msgstr "Lo studente ha terminato l'unità "
+
+#: includes/bp-course-ajax.php:1926
+#, fuzzy
+msgid "Process Stats"
+msgstr "Ver estadísticas"
+
+#: includes/bp-course-ajax.php:1948
+#, fuzzy
+msgid "Unit not in Course"
+msgstr "COURS :"
+
+#: includes/bp-course-ajax.php:1966
+#, fuzzy
+msgid "Course Expired."
+msgstr "Cursus is afgelopen"
+
+#: includes/bp-course-ajax.php:1966 includes/bp-course-functions.php:341
+msgid "Click to renew"
+msgstr ""
+
+#: includes/bp-course-ajax.php:2017 includes/bp-course-ajax.php:2039
+#: includes/bp-course-ajax.php:2043 includes/bp-course-ajax.php:2047
+#, fuzzy
+msgid "Unit"
+msgstr "Lesonderdeel aanduiden als voltooid"
+
+#: includes/bp-course-ajax.php:2018 includes/bp-course-ajax.php:2040
+#, fuzzy, php-format
+msgid "%s will be available in %s"
+msgstr "La unidad estará disponible en"
+
+#: includes/bp-course-ajax.php:2044 includes/bp-course-ajax.php:2048
+#, fuzzy, php-format
+msgid "%s can not be accessed."
+msgstr "No se puede acceder a la unidad."
+
+#: includes/bp-course-ajax.php:2067
+#, fuzzy
+msgid "Unlimited"
+msgstr "ONBEPERKTE TIJD"
+
+#: includes/bp-course-ajax.php:2093
+#, fuzzy
+msgid "Previous Quiz"
+msgstr "Pregunta anterior"
+
+#: includes/bp-course-ajax.php:2095
+#, fuzzy
+msgid "Previous Unit"
+msgstr "Vorig Lesonderdeel"
+
+#: includes/bp-course-ajax.php:2108
+#, fuzzy
+msgid "Check Results"
+msgstr "Controleer Resultaten"
+
+#: includes/bp-course-ajax.php:2111
+#, fuzzy
+msgid "Continue Quiz"
+msgstr "Ga door met de test"
+
+#: includes/bp-course-ajax.php:2115
+#, fuzzy
+msgid "Start Quiz"
+msgstr "Start Test"
+
+#: includes/bp-course-ajax.php:2118
+#, fuzzy
+msgid "Mark this Unit Complete"
+msgstr "Lesonderdeel aanduiden als voltooid"
+
+#: includes/bp-course-ajax.php:2139
+#, fuzzy
+msgid "Proceed to Quiz"
+msgstr "Vai al Test"
+
+#: includes/bp-course-ajax.php:2142
+#, fuzzy
+msgid "Next Unit"
+msgstr "Volgend Lesonderdeel"
+
+#: includes/bp-course-ajax.php:2165 includes/bp-course-ajax.php:2223
+#, fuzzy
+msgid "Invalid submission time."
+msgstr "Evaluar presentaciones del test"
+
+#: includes/bp-course-ajax.php:2216
+#, fuzzy
+msgid "security check failed."
+msgstr "Le Contrôle de sécurité a échoué!"
+
+#: includes/bp-course-ajax.php:2287 includes/bp-course-ajax.php:2369
+#: includes/bp-course-ajax.php:2395
+#, fuzzy
+msgid "Quiz Timed Out ."
+msgstr "Tiempo de espera de la prueba agotado."
+
+#: includes/bp-course-ajax.php:2288 includes/bp-course-ajax.php:2370
+#: includes/bp-course-ajax.php:2396 includes/bp-course-ajax.php:2400
+#, fuzzy
+msgid "If you want to attempt again, Contact Instructor to reset the quiz."
+msgstr ""
+"Si quiere intentarlo de nuevo, contacte con el instructor para resetear el "
+"test."
+
+#: includes/bp-course-ajax.php:2295
+#, fuzzy
+msgid "Quiz Already Attempted."
+msgstr "Test ya intentado"
+
+#: includes/bp-course-ajax.php:2296
+#, fuzzy
+msgid "Security Check Failed. Contact Site Admin."
+msgstr ""
+"Comprobación de seguridad fallida. Contacte con el administrador del sitio."
+
+#: includes/bp-course-ajax.php:2374
+#, fuzzy
+msgid "Start Quiz to begin quiz."
+msgstr "Comenzar test"
+
+#: includes/bp-course-ajax.php:2375
+#, fuzzy
+msgid "Click \"Start Quiz\" button to start the Quiz."
+msgstr "Haga clic en el botón \"Start Quiz\" para comenzar el test."
+
+#: includes/bp-course-ajax.php:2379
+msgid "Quiz not active."
+msgstr ""
+
+#: includes/bp-course-ajax.php:2380
+msgid "Contact your instructor or site admin."
+msgstr ""
+
+#: includes/bp-course-ajax.php:2399
+#, fuzzy
+msgid "Quiz Already Attempted ."
+msgstr "Test ya intentado"
+
+#: includes/bp-course-ajax.php:2421
+msgid "Questions not set."
+msgstr ""
+
+#: includes/bp-course-ajax.php:2465 includes/bp-course-functions.php:444
+#, fuzzy
+msgid "SHOW HINT"
+msgstr "Afficher le lieu"
+
+#: includes/bp-course-ajax.php:2466 includes/bp-course-functions.php:445
+msgid "HINT"
+msgstr ""
+
+#: includes/bp-course-ajax.php:2479 includes/bp-course-functions.php:496
+#: includes/bp-course-template.php:2569
+#, fuzzy
+msgid "FALSE"
+msgstr "FOUT"
+
+#: includes/bp-course-ajax.php:2479 includes/bp-course-functions.php:496
+#: includes/bp-course-template.php:2569
+#, fuzzy
+msgid "TRUE"
+msgstr "JUIST"
+
+#: includes/bp-course-ajax.php:2547 includes/bp-course-ajax.php:2550
+#, fuzzy
+msgid "Type Answer"
+msgstr "Respuesta marcada:"
+
+#: includes/bp-course-ajax.php:2558
+#, fuzzy
+msgid "PAGES"
+msgstr ""
+"This is the global default widget area/sidebar for pages, posts, categories, "
+"tags and archive pages"
+
+#: includes/bp-course-ajax.php:2600 includes/bp-course-ajax.php:2643
+#, fuzzy
+msgid "Unable to add message"
+msgstr "Impossibile Azzerare"
+
+#: includes/bp-course-ajax.php:2634
+msgid "JUST NOW"
+msgstr ""
+
+#: includes/bp-course-ajax.php:2743
+#: includes/templates/course/single/submissions.php:106
+#, fuzzy
+msgid "Reset Quiz for User"
+msgstr "Resetear test para el usuario"
+
+#: includes/bp-course-ajax.php:2744
+#: includes/templates/course/single/submissions.php:107
+#, fuzzy
+msgid "Evaluate Quiz for User"
+msgstr "Evaluar test para el usuario"
+
+#: includes/bp-course-ajax.php:2804
+#: includes/templates/course/single/submissions.php:153
+#, fuzzy
+msgid "Evaluate Course for User"
+msgstr "Evaluar curso para el usuario"
+
+#: includes/bp-course-ajax.php:2832
+#, fuzzy
+msgid "Invalid Course or Unit ID"
+msgstr "Evaluar curso para el usuario"
+
+#: includes/bp-course-ajax.php:2839
+#, fuzzy
+msgid "Unit not found in Course"
+msgstr "COURS :"
+
+#: includes/bp-course-ajax.php:2913
+msgid "Question not included in quiz."
+msgstr ""
+
+#: includes/bp-course-ajax.php:2917
+msgid "Unable to fetch quiz questions."
+msgstr ""
+
+#: includes/bp-course-ajax.php:2948 includes/bp-course-ajax.php:2966
+#: includes/bp-course-cssjs.php:124 includes/bp-course-template.php:2605
+#: includes/bp-course-template.php:2630
+#, fuzzy
+msgid "and"
+msgstr "Willekeurig"
+
+#: includes/bp-course-ajax.php:2957
+#, fuzzy
+msgid "True"
+msgstr "JUIST"
+
+#: includes/bp-course-ajax.php:2957
+#, fuzzy
+msgid "False"
+msgstr "FOUT"
+
+#: includes/bp-course-cssjs.php:81
+#, fuzzy
+msgid ""
+"This step is irreversible. Are you sure you want to remove the User from the "
+"course ?"
+msgstr ""
+"Questa è un'azione irreversibile. Sei sicuro di voler rimuovere quest'utente "
+"dal corso?"
+
+#: includes/bp-course-cssjs.php:82
+#, fuzzy
+msgid "Confirm, Remove User from Course"
+msgstr "Conferma"
+
+#: includes/bp-course-cssjs.php:85
+#, fuzzy
+msgid ""
+"This step is irreversible. All Units, Quiz results would be reset for this "
+"user. Are you sure you want to Reset the Course for this User?"
+msgstr ""
+"Questa è un'azione irreversibile. Tutte le unità e i risultati dei Test "
+"dell'utente saranno azzerati. Sei sicuro di voler azzerare il corso per "
+"l'utente?"
+
+#: includes/bp-course-cssjs.php:86
+#, fuzzy
+msgid "Confirm, Reset Course for this User"
+msgstr "Conferma"
+
+#: includes/bp-course-cssjs.php:87
+#, fuzzy
+msgid ""
+"This step is irreversible. All Questions answers would be reset for this "
+"user. Are you sure you want to Reset the Quiz for this User? "
+msgstr ""
+"Questa è un'azione irreversibile. Tutte le risposte dell'utente saranno "
+"azzerate. Sei sicuro di voler azzerare il Test dell'utente?"
+
+#: includes/bp-course-cssjs.php:88
+#, fuzzy
+msgid "Confirm, Reset Quiz for this User"
+msgstr "Conferma"
+
+#: includes/bp-course-cssjs.php:89
+#, fuzzy
+msgid "Marks Saved"
+msgstr "Note enregistrée"
+
+#: includes/bp-course-cssjs.php:90
+#, fuzzy
+msgid "Quiz Marks Saved"
+msgstr "Risposte al Test Salvate"
+
+#: includes/bp-course-cssjs.php:91
+msgid "Save Quiz progress"
+msgstr ""
+
+#: includes/bp-course-cssjs.php:92
+#, fuzzy
+msgid "Saved"
+msgstr "Quiz Einstellungen gespeichert"
+
+#: includes/bp-course-cssjs.php:93
+#, fuzzy
+msgid "Submit Quiz"
+msgstr "Invia Test"
+
+#: includes/bp-course-cssjs.php:94
+#, fuzzy
+msgid "Sending Messages ..."
+msgstr "Messaggio inviato a "
+
+#: includes/bp-course-cssjs.php:95
+#, fuzzy
+msgid "Adding Students to Course ..."
+msgstr "Aggiungi studente al corso ..."
+
+#: includes/bp-course-cssjs.php:96
+#, fuzzy
+msgid "Students successfully added to Course"
+msgstr "Studente iscritto al corso con successo"
+
+#: includes/bp-course-cssjs.php:97
+#, fuzzy
+msgid "Unable to Add students to Course"
+msgstr "Impossibile aggiungere gli studenti al Corso"
+
+#: includes/bp-course-cssjs.php:98
+#, fuzzy
+msgid "Please select fields to download"
+msgstr "Si prega di selezionare gli utenti"
+
+#: includes/bp-course-cssjs.php:99
+msgid "Download"
+msgstr ""
+
+#: includes/bp-course-cssjs.php:100
+msgid "TIMEOUT"
+msgstr ""
+
+#: includes/bp-course-cssjs.php:103
+#, fuzzy
+msgid "for Course"
+msgstr "CURSUS : "
+
+#: includes/bp-course-cssjs.php:104
+#, fuzzy
+msgid "Active Filters"
+msgstr "Active filters"
+
+#: includes/bp-course-cssjs.php:105
+msgid "Clear all filters"
+msgstr ""
+
+#: includes/bp-course-cssjs.php:106
+#, fuzzy
+msgid "Are you sure you want to remove this note?"
+msgstr ""
+"Questa è un'azione irreversibile. Sei sicuro di voler rimuovere quest'utente "
+"dal corso?"
+
+#: includes/bp-course-cssjs.php:107
+#, fuzzy
+msgid "Confirm, remove note"
+msgstr "Conferma"
+
+#: includes/bp-course-cssjs.php:108
+msgid "Make Private"
+msgstr ""
+
+#: includes/bp-course-cssjs.php:109
+msgid "Add your note"
+msgstr ""
+
+#: includes/bp-course-cssjs.php:110
+msgid "Please add questions or retake the quiz !"
+msgstr ""
+
+#: includes/bp-course-cssjs.php:111
+#, fuzzy
+msgid "Are you sure you want to remove this Annoucement?"
+msgstr ""
+"Questa è un'azione irreversibile. Sei sicuro di voler rimuovere quest'utente "
+"dal corso?"
+
+#: includes/bp-course-cssjs.php:112
+msgid "You're about to start the Quiz. Please click confirm to begin the quiz."
+msgstr ""
+
+#: includes/bp-course-cssjs.php:113
+msgid ""
+"Are you sure you want to submit the quiz. Submitting the quiz will freeze "
+"all your answers, you can not change them.  Please confirm."
+msgstr ""
+
+#: includes/bp-course-cssjs.php:114
+#, fuzzy
+msgid "Check results"
+msgstr "Controleer Resultaten"
+
+#: includes/bp-course-cssjs.php:115
+#, fuzzy
+msgid "Correct"
+msgstr "Klicken Sie hier, um eine richtige Antwort zu wählen"
+
+#: includes/bp-course-cssjs.php:116
+#, fuzzy
+msgid "Incorrect"
+msgstr "FOUTE CURSUS WAARDE. CONTACTEER ADMIN"
+
+#: includes/bp-course-cssjs.php:120
+msgid "You have few unanswered questions. Are you sure you want to continue ?"
+msgstr ""
+
+#: includes/bp-course-cssjs.php:121
+#, fuzzy
+msgid "Please enter 4 or more characters ..."
+msgstr "Gelieve de Envato Marketplace API Code in te geven"
+
+#: includes/bp-course-cssjs.php:122
+#, fuzzy
+msgid "Correct Answer"
+msgstr "Richtige Antwort"
+
+#: includes/bp-course-cssjs.php:123
+msgid "Explanation"
+msgstr ""
+
+#: includes/bp-course-filters.php:506
+#, fuzzy
+msgid "No Courses found."
+msgstr "No se encontraron cursos."
+
+#: includes/bp-course-filters.php:852
+msgid "Section"
+msgstr ""
+
+#: includes/bp-course-functions.php:53
+#, fuzzy
+msgid "Course Directory"
+msgstr "Cursus index"
+
+#: includes/bp-course-functions.php:54
+#, fuzzy
+msgid "All Courses by all instructors"
+msgstr "Alle Cursussen door alle lesgevers "
+
+#: includes/bp-course-functions.php:89 includes/bp-course-loader.php:381
+#: includes/templates/course/single/home.php:39
+msgid "Home"
+msgstr "Start"
+
+#: includes/bp-course-functions.php:95
+#: includes/templates/course/single/home.php:40
+#, fuzzy
+msgid "Curriculum"
+msgstr "Overzicht"
+
+#: includes/bp-course-functions.php:97
+#, fuzzy
+msgid "curriculum"
+msgstr "Overzicht"
+
+#: includes/bp-course-functions.php:102
+#: includes/templates/course/single/home.php:41
+#, fuzzy
+msgid "Members"
+msgstr "Leden"
+
+#: includes/bp-course-functions.php:104
+#, fuzzy
+msgid "members"
+msgstr "Leden"
+
+#: includes/bp-course-functions.php:112
+#, fuzzy
+msgid "Activity"
+msgstr "Gebruikersactiviteit bekijken in deze cursus"
+
+#: includes/bp-course-functions.php:114
+#, fuzzy
+msgid "activity"
+msgstr "Gebruikersactiviteit bekijken in deze cursus"
+
+#: includes/bp-course-functions.php:127
+#: includes/templates/course/single/home.php:49
+msgid "Group"
+msgstr ""
+
+#: includes/bp-course-functions.php:140
+#: includes/templates/course/single/home.php:55
+#, fuzzy
+msgid "Forum"
+msgstr "Forum"
+
+#: includes/bp-course-functions.php:196
+#: includes/templates/course/single/home.php:60
+#, fuzzy
+msgid "Admin"
+msgstr "WACHTEN OP GOEDKEURING VAN ADMIN"
+
+#: includes/bp-course-functions.php:228 includes/bp-course-widgets.php:409
+#, fuzzy
+msgid "Search"
+msgstr "Zoekresultaten voor \""
+
+#: includes/bp-course-functions.php:247 includes/bp-course-functions.php:359
+#, fuzzy
+msgid "TAKE THIS COURSE"
+msgstr "Je moet ingelogd zijn om deze cursus te volgen"
+
+#: includes/bp-course-functions.php:295
+#, fuzzy
+msgid "START COURSE"
+msgstr "START CURSUS"
+
+#: includes/bp-course-functions.php:299
+#, fuzzy
+msgid "CONTINUE COURSE"
+msgstr "CONTINUAR CURSO"
+
+#: includes/bp-course-functions.php:303
+#, fuzzy
+msgid "COURSE UNDER EVALUATION"
+msgstr "CURSO BAJO EVALUACIÓN"
+
+#: includes/bp-course-functions.php:309
+#, fuzzy
+msgid "FINISHED COURSE"
+msgstr "Toegang tot afgewerkte Cursussen"
+
+#: includes/bp-course-functions.php:312 includes/bp-course-offline.php:167
+#, fuzzy
+msgid "COURSE FINISHED"
+msgstr "CURSO FINALIZADO"
+
+#: includes/bp-course-functions.php:316 includes/bp-course-functions.php:328
+#, fuzzy
+msgid "COURSE ENABLED"
+msgstr "CURSO HABILITADO"
+
+#: includes/bp-course-functions.php:316 includes/bp-course-functions.php:328
+#, fuzzy
+msgid "CONTACT ADMIN TO ENABLE"
+msgstr "CONTATTA L'AMMINISTRATORE PER ABILITARE"
+
+#: includes/bp-course-functions.php:341
+#, fuzzy
+msgid "Course Expired"
+msgstr "Cursus is afgelopen"
+
+#: includes/bp-course-functions.php:361
+#, fuzzy
+msgid "PRIVATE COURSE"
+msgstr "CORSO PROVATO"
+
+#: includes/bp-course-functions.php:403
+#, fuzzy
+msgid "* REQUIRES"
+msgstr "*CORSI RICHIESTI"
+
+#: includes/bp-course-functions.php:407
+msgid "SEATS"
+msgstr ""
+
+#: includes/bp-course-functions.php:408
+#, fuzzy
+msgid "Course Badge"
+msgstr "Insignia del curso"
+
+#: includes/bp-course-functions.php:409
+#, fuzzy
+msgid "Course Certificate"
+msgstr "Certificado del curso"
+
+#: includes/bp-course-functions.php:566 includes/bp-course-functions.php:576
+#, fuzzy
+msgid "Type answer"
+msgstr "Respuesta marcada:"
+
+#: includes/bp-course-functions.php:615
+#, fuzzy
+msgid "Unlimited Time"
+msgstr "ONBEPERKTE TIJD"
+
+#: includes/bp-course-functions.php:619 includes/bp-course-functions.php:934
+#, fuzzy
+msgid "EXPIRED"
+msgstr "CURSO EXPIRADO"
+
+#: includes/bp-course-functions.php:653 includes/bp-course-functions.php:661
+#, fuzzy
+msgid "Next Question"
+msgstr "Siguiente pregunta"
+
+#: includes/bp-course-functions.php:657 includes/bp-course-functions.php:660
+#, fuzzy
+msgid "Previous Question"
+msgstr "Pregunta anterior"
+
+#: includes/bp-course-functions.php:710 includes/bp-course-functions.php:748
+msgid "Duration not Set"
+msgstr ""
+
+#: includes/bp-course-functions.php:720 includes/bp-course-functions.php:1218
+#, fuzzy
+msgid "Time Remaining"
+msgstr "Temps restant"
+
+#: includes/bp-course-functions.php:721
+#, fuzzy
+msgid "Mins"
+msgstr "Minutos"
+
+#: includes/bp-course-functions.php:721
+#, fuzzy
+msgid "Secs"
+msgstr "Segundos"
+
+#: includes/bp-course-functions.php:756
+msgid "Progress"
+msgstr ""
+
+#: includes/bp-course-functions.php:800
+msgid "Please set questions in quiz or reset quiz !"
+msgstr ""
+
+#: includes/bp-course-functions.php:844
+#, fuzzy
+msgid "QUESTION"
+msgstr "Frage "
+
+#: includes/bp-course-functions.php:864
+#, fuzzy
+msgid "Security Error"
+msgstr "Errore di sicurezza"
+
+#: includes/bp-course-functions.php:917
+msgid "year"
+msgstr ""
+
+#: includes/bp-course-functions.php:917
+#, fuzzy
+msgid "years"
+msgstr "Jahre"
+
+#: includes/bp-course-functions.php:919
+msgid "month"
+msgstr ""
+
+#: includes/bp-course-functions.php:919
+#, fuzzy
+msgid "months"
+msgstr "Monate"
+
+#: includes/bp-course-functions.php:921
+msgid "week"
+msgstr ""
+
+#: includes/bp-course-functions.php:921
+#, fuzzy
+msgid "weeks"
+msgstr "Wochen"
+
+#: includes/bp-course-functions.php:923
+#, fuzzy
+msgid "day"
+msgstr "Jours"
+
+#: includes/bp-course-functions.php:923
+#, fuzzy
+msgid "days"
+msgstr "Tage"
+
+#: includes/bp-course-functions.php:925
+msgid "hour"
+msgstr ""
+
+#: includes/bp-course-functions.php:925
+#, fuzzy
+msgid "hours"
+msgstr "Stunden"
+
+#: includes/bp-course-functions.php:927
+#, fuzzy
+msgid "minute"
+msgstr "Minutes"
+
+#: includes/bp-course-functions.php:927
+#, fuzzy
+msgid "minutes"
+msgstr "Minuten"
+
+#: includes/bp-course-functions.php:929
+msgid "second"
+msgstr ""
+
+#: includes/bp-course-functions.php:929
+#, fuzzy
+msgid "seconds"
+msgstr "Sekunden"
+
+#: includes/bp-course-functions.php:1044
+#, fuzzy
+msgid "Course Curriculum Not Set."
+msgstr "Cursus Curriculum niet ingesteld"
+
+#: includes/bp-course-functions.php:1098
+#, fuzzy
+msgid "Have Questions ? Ask in the Unit Forums"
+msgstr "Vragen ? Vraag het in de forums"
+
+#: includes/bp-course-functions.php:1148
+#, fuzzy
+msgid "Attachments"
+msgstr "Bijlages"
+
+#: includes/bp-course-functions.php:1176 includes/bp-course-mailer.php:466
+#: includes/bp-course-notifications.php:239
+#, fuzzy
+msgid "Instructor"
+msgstr "Instructor"
+
+#: includes/bp-course-functions.php:1511 includes/bp-course-functions.php:1514
+#, fuzzy
+msgid "Certificate not valid for user"
+msgstr "Certificado no válido para el usuario"
+
+#: includes/bp-course-functions.php:1660
+#, fuzzy
+msgid "Evaluate course submissions"
+msgstr "Evaluar presentaciones del curso"
+
+#: includes/bp-course-functions.php:1672
+#, fuzzy
+msgid "Evaluate Quiz submissions"
+msgstr "Evaluar presentaciones del test"
+
+#: includes/bp-course-functions.php:1678
+#, fuzzy
+msgid "Manage Students"
+msgstr "Administrar alumnos"
+
+#: includes/bp-course-functions.php:1679
+#, fuzzy
+msgid "See Stats"
+msgstr "Ver estadísticas"
+
+#: includes/bp-course-functions.php:1680
+#, fuzzy
+msgid "See all Activity"
+msgstr "Ver toda la actividad"
+
+#: includes/bp-course-functions.php:1709
+#, fuzzy
+msgid "Seconds"
+msgstr "Sekunden"
+
+#: includes/bp-course-functions.php:1710
+#, fuzzy
+msgid "Minutes"
+msgstr "Minuten"
+
+#: includes/bp-course-functions.php:1711
+#, fuzzy
+msgid "Hours"
+msgstr "Stunden"
+
+#: includes/bp-course-functions.php:1712
+#, fuzzy
+msgid "Days"
+msgstr "Tage"
+
+#: includes/bp-course-functions.php:1713
+#, fuzzy
+msgid "Weeks"
+msgstr "Wochen"
+
+#: includes/bp-course-functions.php:1714
+#, fuzzy
+msgid "Months"
+msgstr "Monate"
+
+#: includes/bp-course-functions.php:1715
+#, fuzzy
+msgid "Years"
+msgstr "Jahre"
+
+#: includes/bp-course-functions.php:1816
+#: includes/templates/course/single/admin.php:131
+#, fuzzy
+msgid "See User Activity in Course"
+msgstr "Gebruikersactiviteit bekijken in deze cursus"
+
+#: includes/bp-course-loader.php:266
+#, fuzzy
+msgid "Search courses ..."
+msgstr "Rechercher"
+
+#: includes/bp-course-loader.php:288
+#, fuzzy, php-format
+msgid "Courses <span>%s</span>"
+msgstr "Moje Kursy <span>%s</span>"
+
+#: includes/bp-course-loader.php:326
+msgid "My Courses"
+msgstr "Moje Kursy <span>%s</span>"
+
+#: includes/bp-course-loader.php:336
+#, fuzzy
+msgid "Results"
+msgstr "Sorry, geen resultaten gevonden."
+
+#: includes/bp-course-loader.php:356
+msgid "Instructing Courses"
+msgstr "Kursy w których szkolisz"
+
+#: includes/bp-course-loader.php:470 includes/bp-course-loader.php:476
+#: includes/bp-course-loader.php:486
+#, php-format
+msgid "Please Update the %s theme to latest version %s"
+msgstr ""
+
+#: includes/bp-course-mailer.php:141
+#, php-format
+msgid "Click %s to Activate account."
+msgstr ""
+
+#: includes/bp-course-mailer.php:141
+msgid "this link"
+msgstr ""
+
+#: includes/bp-course-mailer.php:249
+#, php-format
+msgid ""
+"%sMigrate WPLMS email templates to BuddyPress Emails.%s  %s mail templates "
+"will be migrated. Refer %s more information & tutorial%s   %s Migrate all "
+"email templates to BuddyPress %s %s No, Thanks, I like  different email "
+"templates. %s"
+msgstr ""
+
+#: includes/bp-course-mailer.php:464
+#, fuzzy
+msgid "Profile"
+msgstr "Profielafbeelding van %s"
+
+#: includes/bp-course-mailer.php:464
+#, fuzzy
+msgid "Courses"
+msgstr "Cursussen"
+
+#: includes/bp-course-mailer.php:466
+#, fuzzy
+msgid "Link"
+msgstr "Link"
+
+#: includes/bp-course-mailer.php:574
+#, fuzzy
+msgid "Student : Announcement in Course"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:575 includes/bp-course-mailer.php:580
+#: includes/bp-course-notifications.php:374
+#: includes/bp-course-notifications.php:402
+#: includes/bp-course-notifications.php:2281
+#: includes/bp-course-notifications.php:2284
+#, fuzzy, php-format
+msgid "Announcement for Course %s"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-mailer.php:579
+#, fuzzy
+msgid "Instructor : Announcement in Course"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-mailer.php:584
+#, fuzzy
+msgid "Student : News in Course"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:585 includes/bp-course-mailer.php:590
+#: includes/bp-course-notifications.php:420
+#: includes/bp-course-notifications.php:465
+#: includes/bp-course-notifications.php:507
+#, fuzzy, php-format
+msgid "News for Course %s"
+msgstr "COURS :"
+
+#: includes/bp-course-mailer.php:589
+#, fuzzy
+msgid "Instructor : News in Course"
+msgstr "Kursy w których szkolisz"
+
+#: includes/bp-course-mailer.php:595
+#, fuzzy
+msgid "Student : Student subscribes to course"
+msgstr "Studente iscritto al corso "
+
+#: includes/bp-course-mailer.php:596
+#, fuzzy, php-format
+msgid "Subscribed for Course %s"
+msgstr " iscritto al corso"
+
+#: includes/bp-course-mailer.php:597 includes/bp-course-notifications.php:520
+#: includes/bp-course-notifications.php:543
+#, fuzzy, php-format
+msgid "You're subscribed for course : %s"
+msgstr " iscritto al corso"
+
+#: includes/bp-course-mailer.php:600
+#, fuzzy
+msgid "Instructor : Student subscribes to course"
+msgstr "Studente iscritto al corso "
+
+#: includes/bp-course-mailer.php:602 includes/bp-course-notifications.php:557
+#: includes/bp-course-notifications.php:582
+#, fuzzy, php-format
+msgid "Student %s subscribed for course : %s"
+msgstr "Studente iscritto al corso "
+
+#: includes/bp-course-mailer.php:606
+#, fuzzy
+msgid "Student : Student added to course"
+msgstr "L'élève a commencé le devoir"
+
+#: includes/bp-course-mailer.php:607 includes/bp-course-notifications.php:629
+#, fuzzy, php-format
+msgid "Added to course %s"
+msgstr "Impossibile aggiungere gli studenti al Corso"
+
+#: includes/bp-course-mailer.php:608 includes/bp-course-notifications.php:630
+#, fuzzy, php-format
+msgid "You've been added to course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:611
+#, fuzzy
+msgid "Instructor : Instructor adds Student to course"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-mailer.php:612
+#, fuzzy, php-format
+msgid "Student added to course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:613
+#, fuzzy, php-format
+msgid "%s student added to course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:617
+#, fuzzy
+msgid "Student : Student started a course"
+msgstr "L'élève a commencé le devoir"
+
+#: includes/bp-course-mailer.php:618 includes/bp-course-notifications.php:718
+#, fuzzy, php-format
+msgid "You started course %s"
+msgstr " ha iniziato il Test "
+
+#: includes/bp-course-mailer.php:619 includes/bp-course-notifications.php:719
+#, fuzzy, php-format
+msgid "You've started the course : %s"
+msgstr " ha iniziato il Test "
+
+#: includes/bp-course-mailer.php:622
+#, fuzzy
+msgid "Instructor : Student started a course"
+msgstr "L'élève a commencé le devoir"
+
+#: includes/bp-course-mailer.php:623 includes/bp-course-notifications.php:755
+#, fuzzy, php-format
+msgid "Student started course %s"
+msgstr "L'élève a commencé le devoir"
+
+#: includes/bp-course-mailer.php:624 includes/bp-course-notifications.php:731
+#: includes/bp-course-notifications.php:756
+#, fuzzy, php-format
+msgid "Student %s started the course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:628
+#, fuzzy
+msgid "Student : Student finishes a course"
+msgstr "L'élève a commencé le devoir"
+
+#: includes/bp-course-mailer.php:629 includes/bp-course-notifications.php:786
+#, fuzzy, php-format
+msgid "Course %s submitted"
+msgstr "Título del curso"
+
+#: includes/bp-course-mailer.php:630 includes/bp-course-notifications.php:765
+#: includes/bp-course-notifications.php:787
+#, fuzzy, php-format
+msgid "You've submitted the course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:633
+#, fuzzy
+msgid "Instructor : Student finishes a course"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-mailer.php:634 includes/bp-course-notifications.php:819
+#, fuzzy, php-format
+msgid "Student submitted course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:635 includes/bp-course-notifications.php:797
+#: includes/bp-course-notifications.php:820
+#, fuzzy, php-format
+msgid "Student %s submitted the course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:639
+#, fuzzy
+msgid "Student : Instructor resets course for a Student"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: includes/bp-course-mailer.php:640 includes/bp-course-notifications.php:847
+#, fuzzy, php-format
+msgid "Course %s reset"
+msgstr "Restablecer curso para el usuario"
+
+#: includes/bp-course-mailer.php:641 includes/bp-course-notifications.php:848
+#, fuzzy, php-format
+msgid "%s Course was reset by Instructor"
+msgstr " è stato azzerato dal Docente per l'utente"
+
+#: includes/bp-course-mailer.php:644
+#, fuzzy
+msgid "Instructor : Instructor resets course for a Student"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: includes/bp-course-mailer.php:645 includes/bp-course-notifications.php:873
+#, fuzzy, php-format
+msgid "Course %s reset for Student"
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-mailer.php:646 includes/bp-course-notifications.php:874
+#, fuzzy, php-format
+msgid "Course %s was reset for student %s "
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-mailer.php:650
+#, fuzzy
+msgid "Student : Student retakes a course"
+msgstr "L'élève a commencé le devoir"
+
+#: includes/bp-course-mailer.php:651
+#, fuzzy, php-format
+msgid "You retook the course %s"
+msgstr " rimosso dal corso "
+
+#: includes/bp-course-mailer.php:652 includes/bp-course-notifications.php:899
+#, fuzzy, php-format
+msgid "You've retaken the Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:655
+#, fuzzy
+msgid "Instructor : Student retakes a course"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-mailer.php:656 includes/bp-course-notifications.php:924
+#, fuzzy, php-format
+msgid "Course %s retaken by the Student"
+msgstr "Test ritentato dallo studente"
+
+#: includes/bp-course-mailer.php:657 includes/bp-course-notifications.php:925
+#, fuzzy, php-format
+msgid "Course %s was retaken by the student %s "
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-mailer.php:661
+#, fuzzy
+msgid "Student : Course evaluated for Student"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: includes/bp-course-mailer.php:662 includes/bp-course-mailer.php:667
+#: includes/bp-course-notifications.php:951
+#, fuzzy, php-format
+msgid "Course %s results available"
+msgstr "Resultados del curso disponibles"
+
+#: includes/bp-course-mailer.php:663 includes/bp-course-notifications.php:934
+#: includes/bp-course-notifications.php:952
+#, fuzzy, php-format
+msgid "You've obtained %s  in Course : %s"
+msgstr "Vous avez obtenu"
+
+#: includes/bp-course-mailer.php:666
+#, fuzzy
+msgid "Instructor : Course evaluated for Student"
+msgstr "Il Docente ha valutato il Test per lo studente"
+
+#: includes/bp-course-mailer.php:668
+#, fuzzy, php-format
+msgid "Student %s got %s out of 100 in course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:672
+#, fuzzy
+msgid "Student : Student obtained course badge"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:673 includes/bp-course-notifications.php:1007
+#, fuzzy, php-format
+msgid "You got a Badge in Course %s"
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: includes/bp-course-mailer.php:674 includes/bp-course-notifications.php:1008
+#, fuzzy, php-format
+msgid "You've obtained a Badge in Course : %s"
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: includes/bp-course-mailer.php:677
+#, fuzzy
+msgid "Instructor : Student obtained course badge"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-mailer.php:678 includes/bp-course-notifications.php:1018
+#: includes/bp-course-notifications.php:1038
+#, fuzzy, php-format
+msgid "Student got a Badge in Course %s"
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: includes/bp-course-mailer.php:679 includes/bp-course-notifications.php:1039
+#: includes/bp-course-notifications.php:2338
+#, fuzzy, php-format
+msgid "Student %s got a Badge in Course %s"
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: includes/bp-course-mailer.php:683
+#, fuzzy
+msgid "Student : Student obtained course certificate"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: includes/bp-course-mailer.php:684 includes/bp-course-notifications.php:1069
+#, fuzzy, php-format
+msgid "You got a Certificate in Course %s"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: includes/bp-course-mailer.php:685
+#, fuzzy, php-format
+msgid "You've obtained a certificate in Course : %s"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: includes/bp-course-mailer.php:688
+#, fuzzy
+msgid "Instructor : Student obtained course certificate"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-mailer.php:689 includes/bp-course-notifications.php:1080
+#: includes/bp-course-notifications.php:1100
+#, fuzzy, php-format
+msgid "Student got a Certificate in Course %s"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: includes/bp-course-mailer.php:690 includes/bp-course-notifications.php:1101
+#: includes/bp-course-notifications.php:2344
+#, fuzzy, php-format
+msgid "Student %s got a Certificate in Course %s"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: includes/bp-course-mailer.php:694
+#, fuzzy
+msgid "Student : Student reviewed course"
+msgstr "L'élève a commencé le devoir"
+
+#: includes/bp-course-mailer.php:695
+#, fuzzy, php-format
+msgid "You submitted a %s star review for Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:696
+#, fuzzy, php-format
+msgid "You submitted a %s star review Course %s - %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:699
+#, fuzzy
+msgid "Instructor : Student reviewed course"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-mailer.php:700
+#, fuzzy, php-format
+msgid "Student submitted a %s star review for Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:701
+#, fuzzy, php-format
+msgid "Student %s submitted a %s star review for the Course %s - %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:705
+#, fuzzy
+msgid "Student : Student unsubscribed from course"
+msgstr "Studente iscritto al corso "
+
+#: includes/bp-course-mailer.php:706 includes/bp-course-notifications.php:1182
+#, fuzzy, php-format
+msgid "You're unsubscribed from course %s"
+msgstr " iscritto al corso"
+
+#: includes/bp-course-mailer.php:707 includes/bp-course-notifications.php:1183
+#, fuzzy, php-format
+msgid "You're unsubscribed from the Course %s"
+msgstr " iscritto al corso"
+
+#: includes/bp-course-mailer.php:710
+#, fuzzy
+msgid "Instructor : Student unsubscribed from course"
+msgstr "Studente iscritto al corso "
+
+#: includes/bp-course-mailer.php:711 includes/bp-course-notifications.php:1191
+#: includes/bp-course-notifications.php:1207
+#, fuzzy, php-format
+msgid "Student unsubscribed from Course %s"
+msgstr "Studente iscritto al corso "
+
+#: includes/bp-course-mailer.php:712 includes/bp-course-notifications.php:1208
+#, fuzzy, php-format
+msgid "Student %s unsubscribed from Course %s"
+msgstr "Studente iscritto al corso "
+
+#: includes/bp-course-mailer.php:716
+#, fuzzy
+msgid "Student : Student applied course code to course"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-mailer.php:717 includes/bp-course-notifications.php:1232
+#, fuzzy, php-format
+msgid "You applied course code in course %s"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-mailer.php:718
+#, fuzzy, php-format
+msgid "You've applied the code %s on the course : %s"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-mailer.php:721
+#, fuzzy
+msgid "Instructor : Student applied course code to course"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-mailer.php:722 includes/bp-course-notifications.php:1258
+#, fuzzy, php-format
+msgid "Student applied code for Course %s"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-mailer.php:723 includes/bp-course-notifications.php:1259
+#, fuzzy, php-format
+msgid "Student %s applied code %s for Course %s"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-mailer.php:727
+#, fuzzy
+msgid "Student : Student completed a unit in course"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:728
+#, fuzzy, php-format
+msgid "You completed unit %s in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:729 includes/bp-course-notifications.php:1288
+#, fuzzy, php-format
+msgid "You completed a unit %s in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:732
+#, fuzzy
+msgid "Instructor : Student completed a unit in course"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:733 includes/bp-course-notifications.php:1315
+#, fuzzy, php-format
+msgid "Student completed unit in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:734 includes/bp-course-notifications.php:1316
+#, fuzzy, php-format
+msgid "Student %s completed unit %s in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:738
+#, fuzzy
+msgid "Student : Instructor marked unit complete for Student in course"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-mailer.php:739
+#, fuzzy, php-format
+msgid "Instructor marked unit complete in course %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-mailer.php:740 includes/bp-course-notifications.php:1345
+#, fuzzy, php-format
+msgid "Unit %s was marked complete by Instructor %s in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:743
+#, fuzzy
+msgid "Instructor : Instructor marked unit complete for Student in course"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-mailer.php:744 includes/bp-course-notifications.php:1372
+#: includes/bp-course-notifications.php:1429
+#, fuzzy, php-format
+msgid "Instructor marked unit %s comple for Student in Course %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-mailer.php:745 includes/bp-course-notifications.php:1373
+#, fuzzy, php-format
+msgid "Instructor %s completed the unit %s for Student %s in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:748
+#, fuzzy
+msgid "Student : Instructor marked unit incomplete for Student in course"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-mailer.php:749
+#, fuzzy, php-format
+msgid "Instructor marked unit incomplete in course %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-mailer.php:750
+#, fuzzy, php-format
+msgid "Unit %s was marked incomplete by Instructor %s in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:753
+#, fuzzy
+msgid "Instructor : Instructor marked unit incomplete for Student in course"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-mailer.php:754
+#, fuzzy, php-format
+msgid "Instructor marked unit %s incomplete for Student in Course %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-mailer.php:755
+#, fuzzy, php-format
+msgid "Instructor %s marked the unit %s incomplete for Student %s in Course %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-mailer.php:758
+#, fuzzy
+msgid "Student : Student added a comment in unit in course"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-mailer.php:759
+#, php-format
+msgid "You added a comment in unit %s"
+msgstr ""
+
+#: includes/bp-course-mailer.php:760
+#, fuzzy, php-format
+msgid "Comment \"%s\" was added to unit %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:763
+#, fuzzy
+msgid "Student : Reply posted on your comment"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-mailer.php:764
+#, fuzzy, php-format
+msgid "Reply posted on your comment in %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-mailer.php:765
+#, fuzzy, php-format
+msgid "%s replied on your comment in Unit %s : %s "
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-mailer.php:768
+#, fuzzy
+msgid "Instructor : Student added a comment on Unit"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-mailer.php:769
+#, fuzzy, php-format
+msgid "Student added a comment in unit %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-mailer.php:770
+#, fuzzy, php-format
+msgid "Student %s added a comment \"%s\" in unit %s in course"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-mailer.php:773
+#, fuzzy
+msgid "Student : You started the quiz"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-mailer.php:774
+#, fuzzy, php-format
+msgid "You started the  quiz %s"
+msgstr " ha iniziato il Test "
+
+#: includes/bp-course-mailer.php:775
+#, fuzzy, php-format
+msgid "You started the quiz %s "
+msgstr " ha iniziato il Test "
+
+#: includes/bp-course-mailer.php:778
+#, fuzzy
+msgid "Instructor : Student started a quiz"
+msgstr "Lo studente ha iniziato il Test"
+
+#: includes/bp-course-mailer.php:779 includes/bp-course-notifications.php:1571
+#, fuzzy, php-format
+msgid "Student started the quiz %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-mailer.php:783
+#, fuzzy
+msgid "Student : Quiz submitted"
+msgstr "Lo studente ha inviato il Test"
+
+#: includes/bp-course-mailer.php:784 includes/bp-course-notifications.php:1680
+#: includes/bp-course-notifications.php:1681
+#, fuzzy, php-format
+msgid "You submitted quiz %s"
+msgstr "Lo studente ha inviato il Test"
+
+#: includes/bp-course-mailer.php:785 includes/bp-course-notifications.php:1663
+#, fuzzy, php-format
+msgid "You submitted quiz %s "
+msgstr "Lo studente ha inviato il Test"
+
+#: includes/bp-course-mailer.php:788
+#, fuzzy
+msgid "Instructor : Student submitted quiz"
+msgstr "Lo studente ha inviato il Test"
+
+#: includes/bp-course-mailer.php:789 includes/bp-course-notifications.php:1712
+#, fuzzy, php-format
+msgid "Student submitted quiz %s"
+msgstr "Lo studente ha inviato il Test"
+
+#: includes/bp-course-mailer.php:790 includes/bp-course-notifications.php:1713
+#, fuzzy, php-format
+msgid "Student %s submitted quiz %s"
+msgstr "Lo studente ha inviato il Test"
+
+#: includes/bp-course-mailer.php:793
+#, fuzzy
+msgid "Student : Results available for quiz"
+msgstr "Resultados del test disponibles"
+
+#: includes/bp-course-mailer.php:794 includes/bp-course-notifications.php:1621
+#, fuzzy, php-format
+msgid "Results available for quiz %s"
+msgstr "Resultados del test disponibles"
+
+#: includes/bp-course-mailer.php:795
+#, fuzzy, php-format
+msgid "You obtained %s out of %s in quiz %s "
+msgstr "Vous avez obtenu"
+
+#: includes/bp-course-mailer.php:798
+#, fuzzy
+msgid "Instructor : Student results available for quiz"
+msgstr "Resultados del test disponibles"
+
+#: includes/bp-course-mailer.php:799 includes/bp-course-notifications.php:1648
+#, fuzzy, php-format
+msgid "Quiz %s evaluated for Student"
+msgstr "Il Docente ha valutato il Test per lo studente"
+
+#: includes/bp-course-mailer.php:800
+#, fuzzy, php-format
+msgid "Student %s got %s from %s in quiz %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:803
+#, fuzzy
+msgid "Student : Quiz retake"
+msgstr "L'élève a commencé le devoir"
+
+#: includes/bp-course-mailer.php:804 includes/bp-course-mailer.php:805
+#: includes/bp-course-notifications.php:2411
+#, fuzzy, php-format
+msgid "You retook the quiz %s"
+msgstr " ha iniziato il Test "
+
+#: includes/bp-course-mailer.php:808
+#, fuzzy
+msgid "Instructor : Student retook quiz"
+msgstr "Il Docente ha aggiunto lo studente "
+
+#: includes/bp-course-mailer.php:809 includes/bp-course-notifications.php:1762
+#, fuzzy, php-format
+msgid "Student retook the quiz %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-mailer.php:810 includes/bp-course-notifications.php:1763
+#, fuzzy, php-format
+msgid "Student %s retook the quiz %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:813
+#, fuzzy
+msgid "Student : Quiz reset"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-mailer.php:814
+#, fuzzy, php-format
+msgid "Quiz %s has been reset"
+msgstr "Test"
+
+#: includes/bp-course-mailer.php:815 includes/bp-course-notifications.php:1770
+#: includes/bp-course-notifications.php:1788
+#, fuzzy, php-format
+msgid "Quiz %s was reset by Instructor"
+msgstr " è stato azzerato dal Docente per l'utente"
+
+#: includes/bp-course-mailer.php:818
+#, fuzzy
+msgid "Instructor : Quiz reset for Student"
+msgstr "Il Docente ha valutato il Test per lo studente"
+
+#: includes/bp-course-mailer.php:819 includes/bp-course-notifications.php:1796
+#: includes/bp-course-notifications.php:1814
+#, fuzzy, php-format
+msgid "Quiz %s reset for Student"
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-mailer.php:820 includes/bp-course-notifications.php:1815
+#, fuzzy, php-format
+msgid "Quiz %s was reset for Student %s"
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-mailer.php:823
+#, fuzzy
+msgid "Student : Student started Assignment"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-mailer.php:824 includes/bp-course-mailer.php:825
+#: includes/bp-course-notifications.php:1842
+#: includes/bp-course-notifications.php:2417
+#, fuzzy, php-format
+msgid "You started the assignment %s"
+msgstr " ha iniziato il Test "
+
+#: includes/bp-course-mailer.php:828
+#, fuzzy
+msgid "Instructor : Student started an assignment"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-mailer.php:829
+#, fuzzy, php-format
+msgid "Student started the assignment %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-mailer.php:833 includes/bp-course-mailer.php:843
+#, fuzzy
+msgid "Student : Results available for assignment"
+msgstr "Resultados del test disponibles"
+
+#: includes/bp-course-mailer.php:834 includes/bp-course-notifications.php:2423
+#, fuzzy, php-format
+msgid "You submitted the assignment %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:835 includes/bp-course-notifications.php:1941
+#, php-format
+msgid "You submitted the assignment %s "
+msgstr ""
+
+#: includes/bp-course-mailer.php:838
+#, fuzzy
+msgid "Instructor : Student submitted assignment"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:839
+#, fuzzy, php-format
+msgid "Student submitted the assignment %s"
+msgstr "Lo studente ha inviato il Test"
+
+#: includes/bp-course-mailer.php:845
+#, fuzzy, php-format
+msgid "You obtained %s out of %s in assignment %s "
+msgstr "Vous avez obtenu"
+
+#: includes/bp-course-mailer.php:848
+#, fuzzy
+msgid "Instructor : Student results available for assignment"
+msgstr "Resultados del test disponibles"
+
+#: includes/bp-course-mailer.php:849 includes/bp-course-notifications.php:1925
+#, fuzzy, php-format
+msgid "Assignment %s evaluated for Student"
+msgstr "In fase di valutazione"
+
+#: includes/bp-course-mailer.php:850
+#, fuzzy, php-format
+msgid "Student %s got %s from %s in assignment %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:853
+#, fuzzy
+msgid "Student : assignment reset"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-mailer.php:854
+#, fuzzy, php-format
+msgid "Assignment %s was reset"
+msgstr "In fase di valutazione"
+
+#: includes/bp-course-mailer.php:855 includes/bp-course-notifications.php:1998
+#: includes/bp-course-notifications.php:2016
+#, fuzzy, php-format
+msgid "Assignment %s was reset by Instructor"
+msgstr " è stato azzerato dal Docente per l'utente"
+
+#: includes/bp-course-mailer.php:858
+#, fuzzy
+msgid "Instructor : assignment reset for Student"
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-mailer.php:859
+#, fuzzy, php-format
+msgid "assignment %s reset for Student"
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-mailer.php:860
+#, fuzzy, php-format
+msgid "assignment %s was reset for Student %s"
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-mailer.php:863
+#, fuzzy
+msgid "Student : Applied for Course"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-mailer.php:864 includes/bp-course-notifications.php:2447
+#, fuzzy, php-format
+msgid "You applied for course %s"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-mailer.php:865
+#, fuzzy, php-format
+msgid "You applied for course %s "
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-mailer.php:868 includes/bp-course-mailer.php:878
+#, fuzzy
+msgid "Instructor : Student applied for course"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-mailer.php:869
+#, fuzzy, php-format
+msgid "Student applied for course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:870
+#, fuzzy, php-format
+msgid "Student %s applied for course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:873
+#, fuzzy
+msgid "Student : Manage application Course"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-mailer.php:874 includes/bp-course-mailer.php:875
+#, fuzzy, php-format
+msgid "Your application was %s for course %s"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-mailer.php:879
+#, fuzzy, php-format
+msgid "Student applied %s for course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:880
+#, fuzzy, php-format
+msgid "Student %s application was %s for course %s"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-mailer.php:883
+#, fuzzy
+msgid "Instructor : Go Live/Publish a Course"
+msgstr " iscritto al corso"
+
+#: includes/bp-course-mailer.php:884
+#, fuzzy, php-format
+msgid "You %s the course %s"
+msgstr " ha iniziato il Test "
+
+#: includes/bp-course-mailer.php:885
+#, fuzzy, php-format
+msgid "You  %s the course %s"
+msgstr " ha iniziato il Test "
+
+#: includes/bp-course-mailer.php:888
+msgid "Administrator : Go Live/Publish a Course"
+msgstr ""
+
+#: includes/bp-course-mailer.php:889
+#, fuzzy, php-format
+msgid "Instructor set the course %s to %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-mailer.php:890
+#, fuzzy, php-format
+msgid "Instructor %s set the course  %s to status %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-mailer.php:893
+msgid "Student : Drip Course Unit available "
+msgstr ""
+
+#: includes/bp-course-mailer.php:894
+#, fuzzy, php-format
+msgid "Unit %s now available in course %s"
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: includes/bp-course-mailer.php:895
+#, fuzzy, php-format
+msgid "Unit %s is now available in course %s"
+msgstr "La unidad estará disponible en"
+
+#: includes/bp-course-mailer.php:898
+#, fuzzy
+msgid "Student : Course about to expire "
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-mailer.php:899
+#, fuzzy, php-format
+msgid "Subscription for course %s will expire soon"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-mailer.php:900
+#, fuzzy, php-format
+msgid "Your subscription to course %s will expire soon"
+msgstr " iscritto al corso"
+
+#: includes/bp-course-notifications.php:208
+#: includes/bp-course-notifications.php:240
+#, fuzzy
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/bp-course-notifications.php:209
+#: includes/bp-course-notifications.php:241
+msgid "No"
+msgstr ""
+
+#: includes/bp-course-notifications.php:221
+#: includes/bp-course-notifications.php:253
+msgid "Yes, send email"
+msgstr ""
+
+#: includes/bp-course-notifications.php:222
+#: includes/bp-course-notifications.php:254
+msgid "No, do not send email"
+msgstr ""
+
+#: includes/bp-course-notifications.php:271
+#: includes/bp-course-notifications.php:384
+#, fuzzy, php-format
+msgid "Announcement for course %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-notifications.php:418
+#: includes/bp-course-notifications.php:466
+#: includes/bp-course-notifications.php:478
+#: includes/bp-course-notifications.php:508
+#, fuzzy
+msgid "Read more"
+msgstr "Lees meer"
+
+#: includes/bp-course-notifications.php:477
+#, fuzzy, php-format
+msgid "News for course %s"
+msgstr "COURS :"
+
+#: includes/bp-course-notifications.php:522
+#: includes/bp-course-notifications.php:542
+#: includes/bp-course-notifications.php:559
+#, fuzzy
+msgid "Subscribed for Course"
+msgstr " iscritto al corso"
+
+#: includes/bp-course-notifications.php:598
+#, fuzzy, php-format
+msgid "You're added to course : %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-notifications.php:600
+#, fuzzy
+msgid "Added to Course"
+msgstr "Impossibile aggiungere gli studenti al Corso"
+
+#: includes/bp-course-notifications.php:645
+#, fuzzy, php-format
+msgid "Student %s added to course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:647
+#, fuzzy
+msgid "Student added to Course"
+msgstr "L'élève a commencé le devoir"
+
+#: includes/bp-course-notifications.php:686
+#, fuzzy, php-format
+msgid "Students added to course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:687
+#, fuzzy, php-format
+msgid "%d students added to course : %s , %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:697
+#, fuzzy, php-format
+msgid "You started the course : %s"
+msgstr " ha iniziato il Test "
+
+#: includes/bp-course-notifications.php:699
+#, fuzzy
+msgid "Started a Course"
+msgstr "COMENZAR CURSO"
+
+#: includes/bp-course-notifications.php:733
+#, fuzzy, php-format
+msgid "Student started the course %s"
+msgstr "L'élève a commencé le devoir"
+
+#: includes/bp-course-notifications.php:767
+#, fuzzy
+msgid "Course submitted"
+msgstr "Título del curso"
+
+#: includes/bp-course-notifications.php:799
+#, fuzzy, php-format
+msgid "Student submitted the course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:829
+#, fuzzy, php-format
+msgid "The Course %s was reset by Course instructor "
+msgstr " è stato azzerato dal Docente per l'utente"
+
+#: includes/bp-course-notifications.php:831
+#, fuzzy
+msgid "Course reset"
+msgstr "COURS :"
+
+#: includes/bp-course-notifications.php:854
+#, fuzzy, php-format
+msgid "%s course reset for student : %s"
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-notifications.php:856
+#: includes/bp-course-notifications.php:907
+#, fuzzy, php-format
+msgid "Course %s reset for student"
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-notifications.php:881
+#, fuzzy, php-format
+msgid "You retook the Course %s "
+msgstr " rimosso dal corso "
+
+#: includes/bp-course-notifications.php:883
+#, fuzzy
+msgid "Course retake"
+msgstr "Insignia del curso"
+
+#: includes/bp-course-notifications.php:898
+#, fuzzy, php-format
+msgid "You retook the course Course %s"
+msgstr " rimosso dal corso "
+
+#: includes/bp-course-notifications.php:905
+#, fuzzy, php-format
+msgid "Student %s retook the course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:936
+#, fuzzy
+msgid "Course results available"
+msgstr "Resultados del curso disponibles"
+
+#: includes/bp-course-notifications.php:960
+#, fuzzy, php-format
+msgid "Course %s evaluated for student"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: includes/bp-course-notifications.php:976
+#, fuzzy, php-format
+msgid "Course %s evaluated for Student"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: includes/bp-course-notifications.php:977
+#, fuzzy, php-format
+msgid "Student %s got %s in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:986
+#, fuzzy, php-format
+msgid "Congratulations ! You've obtained a badge in Course : %s"
+msgstr "Congratulazioni! Hai ricevuto il"
+
+#: includes/bp-course-notifications.php:988
+#, fuzzy
+msgid "You got a new Badge !"
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: includes/bp-course-notifications.php:1016
+#, fuzzy, php-format
+msgid "Student %s got a Badge in course %s"
+msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#: includes/bp-course-notifications.php:1048
+#, fuzzy, php-format
+msgid "Congratulations ! You've obtained a Certificate in Course : %s"
+msgstr "Congratulazioni! Hai ricevuto il"
+
+#: includes/bp-course-notifications.php:1050
+#, fuzzy
+msgid "You got a new Certificate !"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: includes/bp-course-notifications.php:1070
+#, fuzzy, php-format
+msgid "You've obtained a certificate in Course : %s . %s View Certificate %s"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: includes/bp-course-notifications.php:1078
+#, fuzzy, php-format
+msgid "Student %s got a Certificate in course %s"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: includes/bp-course-notifications.php:1109
+#, fuzzy, php-format
+msgid "You've submitted a review of Course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1111
+#, fuzzy
+msgid "You submitted a course review"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1128
+#: includes/bp-course-notifications.php:2347
+#, fuzzy, php-format
+msgid "You submitted a review for Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1129
+#, fuzzy, php-format
+msgid "You submitted a review Course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1136
+#, fuzzy, php-format
+msgid "Student %s submitted a review for the course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1138
+#, fuzzy, php-format
+msgid "Student submitted a review for the course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1156
+#, fuzzy, php-format
+msgid "Student submitted a review for Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1157
+#, fuzzy, php-format
+msgid "Student %s submitted a review for the Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1165
+#, fuzzy, php-format
+msgid "You're unsubscribed from Course : %s"
+msgstr " iscritto al corso"
+
+#: includes/bp-course-notifications.php:1167
+#, fuzzy
+msgid "You unsubscribed from course"
+msgstr " iscritto al corso"
+
+#: includes/bp-course-notifications.php:1189
+#, fuzzy, php-format
+msgid "Student %s unsubscribed course %s"
+msgstr "Studente iscritto al corso "
+
+#: includes/bp-course-notifications.php:1215
+#, fuzzy, php-format
+msgid "You applied a code for Course : %s"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-notifications.php:1217
+msgid "You applied a course code"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1233
+#, fuzzy, php-format
+msgid "You've applied Course Code in Course %s"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-notifications.php:1240
+#, fuzzy, php-format
+msgid "Student %s used course code %s for course %s"
+msgstr "Studente iscritto al corso "
+
+#: includes/bp-course-notifications.php:1242
+#, fuzzy, php-format
+msgid "Student applied Course code for Course %s"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-notifications.php:1267
+#, fuzzy, php-format
+msgid "You've completed the unit %s in Course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1269
+msgid "You completed a unit"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1287
+msgid "You completed unit"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1295
+#, fuzzy, php-format
+msgid "Student %s completed the unit %s in course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1297
+#: includes/bp-course-notifications.php:1354
+#, fuzzy, php-format
+msgid "Student completed a unit in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1324
+#, fuzzy, php-format
+msgid "Instructor %s marked the unit %s complete in Course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1326
+#, fuzzy, php-format
+msgid "Instructor marked a unit complete in Course %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-notifications.php:1344
+#, fuzzy, php-format
+msgid "Instructor marked unit %s complete "
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-notifications.php:1381
+#, fuzzy, php-format
+msgid "Instructor %s marked the unit %s incomplete in Course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1383
+#, fuzzy, php-format
+msgid "Instructor marked a unit uncomplete in Course %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-notifications.php:1401
+#, fuzzy, php-format
+msgid "Instructor marked unit %s uncompleted "
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-notifications.php:1402
+#, fuzzy, php-format
+msgid "Unit %s was marked uncomplete by Instructor %s in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1411
+#, fuzzy, php-format
+msgid "Student uncompleted a unit in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1430
+#, fuzzy, php-format
+msgid "Instructor %s uncompleted the unit %s for Student %s in Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1439
+#, php-format
+msgid "You've submitted a comment on unit : %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1441
+#, fuzzy
+msgid "You added a comment in Unit"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-notifications.php:1451
+#, fuzzy, php-format
+msgid "%s replied on your comment in unit \"%s\" : %s "
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-notifications.php:1453
+msgid "Reply on your comment"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1489
+#: includes/bp-course-notifications.php:1490
+#, php-format
+msgid "You added a comment on Unit %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1502
+#, php-format
+msgid "You received a reply on your comment in Unit %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1503
+#, php-format
+msgid "Reply from %s on Unit %s : %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1512
+#, fuzzy, php-format
+msgid "Student %s submitted a comment on unit %s "
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1514
+#, fuzzy
+msgid "Student submitted a comment on Unit"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1534
+#, fuzzy, php-format
+msgid "Student added comment in unit %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-notifications.php:1535
+#, fuzzy, php-format
+msgid "Student %s added a comment in unit %s "
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-notifications.php:1545
+#, fuzzy, php-format
+msgid "You've started the quiz : %s"
+msgstr " ha iniziato il Test "
+
+#: includes/bp-course-notifications.php:1547
+#, fuzzy
+msgid "You started a Quiz"
+msgstr "Lo studente ha iniziato il Test"
+
+#: includes/bp-course-notifications.php:1562
+#, fuzzy, php-format
+msgid "You started quiz %s"
+msgstr " ha iniziato il Test "
+
+#: includes/bp-course-notifications.php:1563
+#, fuzzy, php-format
+msgid "You started a quiz %s"
+msgstr " ha iniziato il Test "
+
+#: includes/bp-course-notifications.php:1569
+#: includes/bp-course-notifications.php:1590
+#, fuzzy, php-format
+msgid "Student %s started the quiz %s "
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-notifications.php:1589
+#, fuzzy, php-format
+msgid "Student started quiz %s"
+msgstr "Lo studente ha iniziato il Test"
+
+#: includes/bp-course-notifications.php:1603
+#: includes/bp-course-notifications.php:1622
+#, php-format
+msgid "You obtained %d out of %s in Quiz : "
+msgstr ""
+
+#: includes/bp-course-notifications.php:1605
+#, fuzzy
+msgid "Quiz results available"
+msgstr "Resultados del test disponibles"
+
+#: includes/bp-course-notifications.php:1628
+#: includes/bp-course-notifications.php:1649
+#, php-format
+msgid "Student %s got %s from %s in quiz %s "
+msgstr ""
+
+#: includes/bp-course-notifications.php:1630
+#, fuzzy, php-format
+msgid "Quiz %s evaluated for student"
+msgstr "Il Docente ha valutato il Test per lo studente"
+
+#: includes/bp-course-notifications.php:1661
+#, fuzzy, php-format
+msgid "You submitted the Quiz : %s"
+msgstr "Lo studente ha inviato il Test"
+
+#: includes/bp-course-notifications.php:1694
+#, fuzzy, php-format
+msgid "Quiz %s submitted by student %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1696
+#, fuzzy, php-format
+msgid "Quiz %s submitted by Student"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1720
+#, php-format
+msgid "You retook the Quiz : %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1722
+msgid "You retook a Quiz"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1737
+#: includes/bp-course-notifications.php:1738
+#, php-format
+msgid "You retook quiz %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1744
+#, fuzzy, php-format
+msgid "Student %s retook the Quiz : %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1746
+#, fuzzy, php-format
+msgid "Student retook the Quiz %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-notifications.php:1772
+#, fuzzy
+msgid "Quiz reset by Instructor"
+msgstr "Seleziona Docente"
+
+#: includes/bp-course-notifications.php:1787
+#, fuzzy, php-format
+msgid "Quiz %s reset"
+msgstr "Test"
+
+#: includes/bp-course-notifications.php:1794
+#, fuzzy, php-format
+msgid "Quiz %s reset for Student %s"
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-notifications.php:1824
+#, fuzzy, php-format
+msgid "You've started the assignemtn : %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-notifications.php:1826
+#: includes/bp-course-notifications.php:1841
+#, php-format
+msgid "You started assignment %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1848
+#: includes/bp-course-notifications.php:1869
+#, fuzzy, php-format
+msgid "Student %s started the assignment %s "
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-notifications.php:1850
+#, fuzzy, php-format
+msgid "Student started an assignment %s "
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-notifications.php:1880
+#, php-format
+msgid "You obtained %d out of %s in Assignment : %s "
+msgstr ""
+
+#: includes/bp-course-notifications.php:1882
+#, fuzzy
+msgid "Assignment results available"
+msgstr "Resultados del curso disponibles"
+
+#: includes/bp-course-notifications.php:1899
+#, fuzzy, php-format
+msgid "You obtained %d out of %s in Assignment : %s"
+msgstr "Vous avez obtenu"
+
+#: includes/bp-course-notifications.php:1905
+#: includes/bp-course-notifications.php:1926
+#, php-format
+msgid "Student %s got %s from %s in assignment %s "
+msgstr ""
+
+#: includes/bp-course-notifications.php:1907
+#, fuzzy, php-format
+msgid "Assignment %s evaluated for student"
+msgstr " valutazione automatica per lo studente "
+
+#: includes/bp-course-notifications.php:1939
+#, php-format
+msgid "You submitted the assignment : %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:1958
+#: includes/bp-course-notifications.php:1959
+#, fuzzy, php-format
+msgid "You submitted assignment %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1971
+#, fuzzy, php-format
+msgid "Assignment %s submitted by student %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1973
+#, fuzzy, php-format
+msgid "Assignment %s submitted by Student"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1989
+#, fuzzy, php-format
+msgid "Student submitted assignment %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:1990
+#, fuzzy, php-format
+msgid "Student %s submitted assignment %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:2000
+#, fuzzy
+msgid "Assignment reset by Instructor"
+msgstr " è stato azzerato dal Docente per l'utente"
+
+#: includes/bp-course-notifications.php:2015
+#, fuzzy, php-format
+msgid "Assignment %s reset"
+msgstr "In fase di valutazione"
+
+#: includes/bp-course-notifications.php:2022
+#, fuzzy, php-format
+msgid "Assignment %s reset for Student %s"
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-notifications.php:2024
+#: includes/bp-course-notifications.php:2042
+#, fuzzy, php-format
+msgid "Assignment %s reset for Student"
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-notifications.php:2043
+#, fuzzy, php-format
+msgid "Assignment %s was reset for Student %s"
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-notifications.php:2051
+#: includes/bp-course-notifications.php:2070
+#, fuzzy, php-format
+msgid "You applied to course %s "
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-notifications.php:2053
+#, fuzzy
+msgid "You applied for Course"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-notifications.php:2071
+#, fuzzy, php-format
+msgid "You have applied to Course %s "
+msgstr " iscritto al corso"
+
+#: includes/bp-course-notifications.php:2079
+#, fuzzy, php-format
+msgid "Student %s applied to course %s "
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:2081
+#, fuzzy
+msgid "Student applied for Course"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-notifications.php:2099
+#, fuzzy, php-format
+msgid "Application for course %s was submitted by Student"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:2100
+#, fuzzy, php-format
+msgid "Student %s submitted an application for course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:2108
+#: includes/bp-course-notifications.php:2136
+#, fuzzy, php-format
+msgid "Application %s for course %s "
+msgstr "COURS :"
+
+#: includes/bp-course-notifications.php:2110
+#: includes/bp-course-notifications.php:2138
+#, fuzzy, php-format
+msgid "Application %s by Instructor"
+msgstr "Il Docente ha inviato un messaggio per gli studenti : "
+
+#: includes/bp-course-notifications.php:2127
+#, fuzzy, php-format
+msgid "Application %s to course %s "
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:2128
+#, fuzzy, php-format
+msgid "Your application was %s for Course %s "
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-notifications.php:2156
+#, fuzzy, php-format
+msgid "Student application for course %s was %s"
+msgstr "Puntuación del alumno del curso"
+
+#: includes/bp-course-notifications.php:2157
+#, fuzzy, php-format
+msgid "Application by Student %s was %s for course %s"
+msgstr "Studente iscritto al corso "
+
+#: includes/bp-course-notifications.php:2169
+#: includes/bp-course-notifications.php:2195
+#, fuzzy, php-format
+msgid "You published the course %s "
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:2171
+#: includes/bp-course-notifications.php:2198
+#, fuzzy, php-format
+msgid "Course %s sent for approval from admin"
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-notifications.php:2175
+#, fuzzy
+msgid "Course status updated"
+msgstr "Ver estadísticas del curso del usuario"
+
+#: includes/bp-course-notifications.php:2194
+#, fuzzy, php-format
+msgid "Course %s published"
+msgstr "Título del curso"
+
+#: includes/bp-course-notifications.php:2197
+#, fuzzy, php-format
+msgid "Course %s sent for Admin approval"
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-notifications.php:2217
+#, fuzzy, php-format
+msgid "Instructor published the course %s "
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:2219
+#, fuzzy, php-format
+msgid "Instructor %s sent the Course %s for approval"
+msgstr "Il Docente ha azzerato il Test per l'utente"
+
+#: includes/bp-course-notifications.php:2223
+#, fuzzy
+msgid "Instructor changed the Course status"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-notifications.php:2261
+#, fuzzy, php-format
+msgid "Instructor changed status for Course %s to %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-notifications.php:2262
+#, fuzzy, php-format
+msgid "Instructor %s changed status for Course %s to %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-notifications.php:2287
+#: includes/bp-course-notifications.php:2293
+#, fuzzy, php-format
+msgid "Added to Course %s"
+msgstr "Impossibile aggiungere gli studenti al Corso"
+
+#: includes/bp-course-notifications.php:2290
+#: includes/bp-course-notifications.php:2296
+#, fuzzy, php-format
+msgid "Student %s added to Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:2299
+#, fuzzy, php-format
+msgid "You've subscribed to Course %s"
+msgstr " iscritto al corso"
+
+#: includes/bp-course-notifications.php:2302
+#, fuzzy, php-format
+msgid "Student %s subscribed to Course %s"
+msgstr "Studente iscritto al corso "
+
+#: includes/bp-course-notifications.php:2305
+#, fuzzy, php-format
+msgid "You started the course %s"
+msgstr " ha iniziato il Test "
+
+#: includes/bp-course-notifications.php:2308
+#, fuzzy, php-format
+msgid "Student %s started course %s"
+msgstr "L'élève a commencé le devoir"
+
+#: includes/bp-course-notifications.php:2311
+#, fuzzy, php-format
+msgid "You submitted the course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:2314
+#: includes/bp-course-notifications.php:2317
+#, fuzzy, php-format
+msgid "Student %s submitted course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:2320
+#, fuzzy, php-format
+msgid "Course %s was reset for Student %s"
+msgstr "Corso azzerato per lo studente "
+
+#: includes/bp-course-notifications.php:2323
+#, fuzzy, php-format
+msgid "Student %s retook the course course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:2326
+#, fuzzy, php-format
+msgid "Course %s was retaken by Student %s"
+msgstr "Test ritentato dallo studente"
+
+#: includes/bp-course-notifications.php:2329
+#: includes/bp-course-notifications.php:2332
+#, fuzzy, php-format
+msgid "Course %s evaluated for Student %s"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: includes/bp-course-notifications.php:2335
+#, fuzzy, php-format
+msgid "Congratulations ! You got a badge in Course %s"
+msgstr "Congratulazioni! Hai ricevuto il"
+
+#: includes/bp-course-notifications.php:2341
+#, fuzzy, php-format
+msgid "Congratulations ! You got a certificate in Course %s"
+msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#: includes/bp-course-notifications.php:2350
+#, fuzzy, php-format
+msgid "Student %s submitted a review for Course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:2353
+#, fuzzy, php-format
+msgid "You're unsubscribed from Course %s"
+msgstr " iscritto al corso"
+
+#: includes/bp-course-notifications.php:2356
+#, fuzzy, php-format
+msgid "Student %s is unsubscribed from Course %s"
+msgstr "Studente iscritto al corso "
+
+#: includes/bp-course-notifications.php:2359
+#, fuzzy, php-format
+msgid "You completed the unit %s in course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:2362
+#, fuzzy, php-format
+msgid "Student %s completed the unit %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-notifications.php:2365
+#, fuzzy, php-format
+msgid "Instructor marked Unit %s complete for you."
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-notifications.php:2368
+#, fuzzy, php-format
+msgid "Instructor marked Unit %s complete for Student %s"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: includes/bp-course-notifications.php:2371
+#, fuzzy, php-format
+msgid "Instructor marked Unit %s incomplete for you."
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-notifications.php:2374
+#, fuzzy, php-format
+msgid "Instructor marked Unit %s incomplete for Student %s"
+msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#: includes/bp-course-notifications.php:2377
+#, fuzzy, php-format
+msgid "You added a comment in unit %s in course %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-notifications.php:2380
+#, fuzzy, php-format
+msgid "Student %s added a comment in unit %s in course %s"
+msgstr "Lo Studente ha iniziato l'unità"
+
+#: includes/bp-course-notifications.php:2384
+#, fuzzy, php-format
+msgid "%s replied on your comment in unit \"%s\" in Course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:2387
+#, fuzzy, php-format
+msgid "You started the quiz %s"
+msgstr " ha iniziato il Test "
+
+#: includes/bp-course-notifications.php:2393
+#, fuzzy, php-format
+msgid "You submitted the quiz %s"
+msgstr "Lo studente ha inviato il Test"
+
+#: includes/bp-course-notifications.php:2396
+#, fuzzy, php-format
+msgid "Student %s submitted the quiz %s"
+msgstr "Lo studente ha inviato il Test"
+
+#: includes/bp-course-notifications.php:2399
+#, fuzzy, php-format
+msgid "Quiz %s results available"
+msgstr "Resultados del test disponibles"
+
+#: includes/bp-course-notifications.php:2402
+#, fuzzy, php-format
+msgid "Quiz %s results available for student %s"
+msgstr "Resultados del test disponibles"
+
+#: includes/bp-course-notifications.php:2405
+#, fuzzy, php-format
+msgid "Quiz %s reset by Instructor"
+msgstr " è stato azzerato dal Docente per l'utente"
+
+#: includes/bp-course-notifications.php:2408
+#, fuzzy, php-format
+msgid "Quiz %s reset for student %s"
+msgstr " azzera per lo studente "
+
+#: includes/bp-course-notifications.php:2414
+#, fuzzy, php-format
+msgid "Student %s retook the Quiz %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:2429
+#, fuzzy, php-format
+msgid "Assignment %s results available"
+msgstr "Resultados del curso disponibles"
+
+#: includes/bp-course-notifications.php:2432
+#, php-format
+msgid "Assignment %s results available for student %s"
+msgstr ""
+
+#: includes/bp-course-notifications.php:2435
+#, fuzzy, php-format
+msgid "Assignment %s reset by Instructor"
+msgstr " è stato azzerato dal Docente per l'utente"
+
+#: includes/bp-course-notifications.php:2438
+#, fuzzy, php-format
+msgid "Assignment %s reset for student %s"
+msgstr " azzera per lo studente "
+
+#: includes/bp-course-notifications.php:2441
+#, fuzzy, php-format
+msgid "Latest News : %s for Course : %s"
+msgstr "COURS :"
+
+#: includes/bp-course-notifications.php:2444
+#, fuzzy, php-format
+msgid "News : %s was published for your course : %s"
+msgstr " iscritto al corso"
+
+#: includes/bp-course-notifications.php:2450
+#, fuzzy, php-format
+msgid "Student %s applied for course : %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:2453
+#, fuzzy, php-format
+msgid "Application approved for course %s"
+msgstr " rimosso dal corso "
+
+#: includes/bp-course-notifications.php:2456
+#, fuzzy, php-format
+msgid "Student %s application approved for course : %s"
+msgstr "Studente iscritto al corso "
+
+#: includes/bp-course-notifications.php:2459
+#, fuzzy, php-format
+msgid "Application rejected for course %s"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-notifications.php:2462
+#, fuzzy, php-format
+msgid "Student %s application rejected for course : %s"
+msgstr "Studente iscritto al corso "
+
+#: includes/bp-course-notifications.php:2465
+#, fuzzy, php-format
+msgid "You published the course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:2468
+#, fuzzy, php-format
+msgid "You sent the course %s for approval"
+msgstr " ha iniziato il Test "
+
+#: includes/bp-course-notifications.php:2471
+#, fuzzy, php-format
+msgid "Instructor %s published the course %s"
+msgstr " è stato inviato dallo studente"
+
+#: includes/bp-course-notifications.php:2474
+#, fuzzy, php-format
+msgid "Instructor %s sent the course %s for approval"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-screens.php:97
+#, fuzzy
+msgid "Course Settings Header"
+msgstr "Ajustes de la cabecera del curso"
+
+#: includes/bp-course-screens.php:101
+#, fuzzy
+msgid "Course Settings"
+msgstr "Paramètres du Cours"
+
+#: includes/bp-course-screens.php:109
+#, fuzzy
+msgid "Changes Saved."
+msgstr "Cambios guardados."
+
+#: includes/bp-course-screens.php:115
+#, fuzzy
+msgid "Do you love clicking checkboxes?"
+msgstr "¿Te gusta hacer clic en chechboxes?"
+
+#: includes/bp-course-screens.php:117
+#, fuzzy
+msgid "Save Settings"
+msgstr "EINSTELLUGEN SPEICHERN"
+
+#: includes/bp-course-screens.php:151
+#, fuzzy
+msgid "Send Bulk Message"
+msgstr "Messaggio inviato agli studenti "
+
+#: includes/bp-course-screens.php:161
+#, php-format
+msgid "Enter extend amount ( in %s"
+msgstr ""
+
+#: includes/bp-course-screens.php:162
+msgid "Extend Subscription"
+msgstr ""
+
+#: includes/bp-course-screens.php:173
+#, fuzzy
+msgid "Type Message Subject"
+msgstr "Inserisci l'Oggetto nel messaggio"
+
+#: includes/bp-course-screens.php:174
+#, fuzzy
+msgid "Type Message"
+msgstr "Type de Chapitre"
+
+#: includes/bp-course-screens.php:176
+#, fuzzy
+msgid "All Students"
+msgstr "Aggiungi studenti"
+
+#: includes/bp-course-screens.php:178
+#, fuzzy
+msgid "Send Message"
+msgstr "Versturen"
+
+#: includes/bp-course-screens.php:191
+msgid "Enter Student Usernames/Emails, separated by comma"
+msgstr ""
+
+#: includes/bp-course-screens.php:193
+#, fuzzy
+msgid "Add Students"
+msgstr "Toestaan om Lesgevers Studenten toe te voegen"
+
+#: includes/bp-course-screens.php:207
+#, fuzzy
+msgid "ASSIGN COURSE BADGE"
+msgstr "Insignia del curso"
+
+#: includes/bp-course-screens.php:208
+#, fuzzy
+msgid "ASSIGN COURSE CERTIFICATE"
+msgstr "Certificado del curso"
+
+#: includes/bp-course-screens.php:209
+#, fuzzy
+msgid "REMOVE COURSE BADGE"
+msgstr "Insignia del curso"
+
+#: includes/bp-course-screens.php:210
+#, fuzzy
+msgid "REMOVE COURSE CERTIFICATE"
+msgstr "Certificado del curso"
+
+#: includes/bp-course-screens.php:212
+#, fuzzy
+msgid "Assign Action"
+msgstr "Acción uno"
+
+#: includes/bp-course-screens.php:228
+#, fuzzy
+msgid "Finished Course"
+msgstr "Toegang tot afgewerkte Cursussen"
+
+#: includes/bp-course-screens.php:230
+#, fuzzy
+msgid "Enter marks"
+msgstr "NOTER"
+
+#: includes/bp-course-screens.php:231
+#, fuzzy
+msgid "Change Course Status"
+msgstr "Verander Cursus status"
+
+#: includes/bp-course-template.php:99
+#, fuzzy
+msgid "REVIEWS"
+msgstr "Er zijn nog geen beoordelingen gevonden voor deze cursus."
+
+#: includes/bp-course-template.php:104
+#, fuzzy
+msgid "STUDENTS"
+msgstr "Totaal aantal studenten in de cursus "
+
+#: includes/bp-course-template.php:142 includes/bp-course-template.php:1352
+#, fuzzy
+msgid "FREE"
+msgstr "GRATIS"
+
+#: includes/bp-course-template.php:185
+#, fuzzy
+msgid "Price Options +"
+msgstr "Opciones de privacidad"
+
+#: includes/bp-course-template.php:761
+#, fuzzy, php-format
+msgid "Viewing page %1$s of %2$s"
+msgstr "Visitando página %1$s de %2$s"
+
+#: includes/bp-course-template.php:1095
+#, fuzzy
+msgid "PRIVATE"
+msgstr "Privat"
+
+#: includes/bp-course-template.php:2145
+#, fuzzy
+msgid "COURSE EVALUATED "
+msgstr "CORSO VALUTATO"
+
+#: includes/bp-course-template.php:2181
+#, fuzzy
+msgid "Congratulations ! You've earned the "
+msgstr "Congratulazioni! Hai ricevuto il"
+
+#: includes/bp-course-template.php:2181
+#, fuzzy
+msgid "Badge"
+msgstr "Badge"
+
+#: includes/bp-course-template.php:2205
+#, fuzzy
+msgid ""
+"Congratulations ! You've successfully passed the course and earned the "
+"Course Completion Certificate !"
+msgstr ""
+"Congratulazioni! Ha completato con successo il Corso e hai ricevuto "
+"l'Attestato di partecipazione!"
+
+#: includes/bp-course-template.php:2205
+#, fuzzy
+msgid "View Certificate"
+msgstr "Certificado del curso"
+
+#: includes/bp-course-template.php:2214
+#, fuzzy, php-format
+msgid "You've obtained %s in course %s "
+msgstr "Vous avez obtenu"
+
+#: includes/bp-course-template.php:2220
+#, fuzzy
+msgid "COURSE SUBMITTED FOR EVALUATION"
+msgstr "CURSO PRESENTADO PARA SU EVALUACIÓN"
+
+#: includes/bp-course-template.php:2233
+#, fuzzy
+msgid "UNIT"
+msgstr "Lesonderdeel aanduiden als voltooid"
+
+#: includes/bp-course-template.php:2236
+#, fuzzy
+msgid "ASSIGNMENT"
+msgstr "Zuordnung bearbeiten"
+
+#: includes/bp-course-template.php:2239
+#, fuzzy
+msgid "QUIZ"
+msgstr "Gemiddeld behaald cijfer in de test"
+
+#: includes/bp-course-template.php:2242
+#, fuzzy
+msgid "PLEASE COMPLETE THE "
+msgstr "POR FAVOR COMPLETE EL"
+
+#: includes/bp-course-template.php:2246
+#, fuzzy
+msgid "COURSE CURRICULUM NOT SET"
+msgstr "Cursus Curriculum is niet ingesteld"
+
+#: includes/bp-course-template.php:2444
+#, fuzzy
+msgid "BACK TO COURSE"
+msgstr "TERUG NAAR DE CURSUS"
+
+#: includes/bp-course-template.php:2470 includes/bp-course-template.php:2548
+#, fuzzy
+msgid "Marked Choice :"
+msgstr "Aangeduid Antwoord :"
+
+#: includes/bp-course-template.php:2472 includes/bp-course-template.php:2551
+msgid "View explanation"
+msgstr ""
+
+#: includes/bp-course-template.php:2482
+#, fuzzy
+msgid "Correct Answer : "
+msgstr "Richtige Antwort"
+
+#: includes/bp-course-template.php:2484 includes/bp-course-template.php:2655
+msgid "View answer explanation"
+msgstr ""
+
+#: includes/bp-course-template.php:2489 includes/bp-course-template.php:2661
+#, fuzzy
+msgid "Total Marks :"
+msgstr "Totaal cijferresultaat :"
+
+#: includes/bp-course-template.php:2495 includes/bp-course-template.php:2497
+#: includes/bp-course-template.php:2665 includes/bp-course-template.php:2667
+#, fuzzy
+msgid "MARKS OBTAINED"
+msgstr "BEHAALD CIJFERRESULTAAT"
+
+#: includes/bp-course-template.php:2725
+#, fuzzy
+msgid "RETAKE QUIZ"
+msgstr "HERHAAL TEST"
+
+#: includes/bp-course-template.php:2726
+#, fuzzy
+msgid "Number of retakes "
+msgstr "Liczba oceń"
+
+#: includes/bp-course-template.php:2731
+#, fuzzy
+msgid "Previous Results for Quiz "
+msgstr "Vorige resultaten voor test "
+
+#: includes/bp-course-template.php:2748
+#, fuzzy
+msgid "Results not Available"
+msgstr "Resultaten niet beschikbaar"
+
+#: includes/bp-course-widgets.php:36
+#, fuzzy
+msgid "BuddyPress Course Widget"
+msgstr "Widget del curso de BuddyPress"
+
+#: includes/bp-course-widgets.php:118 includes/bp-course-widgets.php:272
+msgid "by"
+msgstr ""
+
+#: includes/bp-course-widgets.php:178 includes/bp-course-widgets.php:304
+#: includes/bp-course-widgets.php:457 includes/bp-course-widgets.php:585
+#: includes/bp-course-widgets.php:1033 includes/bp-course-widgets.php:1248
+#, fuzzy
+msgid "Widget Title"
+msgstr "Widget Titre"
+
+#: includes/bp-course-widgets.php:179 includes/bp-course-widgets.php:1037
+#, fuzzy
+msgid "Style"
+msgstr "Stijl"
+
+#: includes/bp-course-widgets.php:181 includes/bp-course-widgets.php:1039
+#, fuzzy
+msgid "Single"
+msgstr "Single ledenprofiel kan worden bekeken door:"
+
+#: includes/bp-course-widgets.php:182 includes/bp-course-widgets.php:1040
+#, fuzzy
+msgid "List"
+msgstr "Selecteer de mensen die u wilt uitnodigen uit uw vriendenlijst."
+
+#: includes/bp-course-widgets.php:183
+#, fuzzy
+msgid "Ratings List"
+msgstr "Calificación"
+
+#: includes/bp-course-widgets.php:184 includes/bp-course-widgets.php:1041
+#, fuzzy
+msgid "Carousel"
+msgstr "Number of Products in Carousel:"
+
+#: includes/bp-course-widgets.php:187 includes/bp-course-widgets.php:343
+#, fuzzy
+msgid "Select Course Category"
+msgstr "Seleccionar categoría del curso"
+
+#: includes/bp-course-widgets.php:189
+#, fuzzy
+msgid "None"
+msgstr "Keine"
+
+#: includes/bp-course-widgets.php:197 includes/bp-course-widgets.php:1044
+#, fuzzy
+msgid "Order By"
+msgstr "Bestellen via"
+
+#: includes/bp-course-widgets.php:199 includes/bp-course-widgets.php:1047
+#, fuzzy
+msgid "Random"
+msgstr "Willekeurig"
+
+#: includes/bp-course-widgets.php:200
+#, fuzzy
+msgid "Name"
+msgstr "Naam"
+
+#: includes/bp-course-widgets.php:201
+#, fuzzy
+msgid "Course Title"
+msgstr "Título del curso"
+
+#: includes/bp-course-widgets.php:202
+msgid "Number of Reviews"
+msgstr "Liczba oceń"
+
+#: includes/bp-course-widgets.php:203
+#, fuzzy
+msgid "Date Published"
+msgstr "Datos publicados"
+
+#: includes/bp-course-widgets.php:204 includes/bp-course-widgets.php:1048
+#, fuzzy
+msgid "Rating"
+msgstr "Beoordeling"
+
+#: includes/bp-course-widgets.php:205
+#, fuzzy
+msgid "Number of Students"
+msgstr "Aantal studenten die een badge gekregen hebben"
+
+#: includes/bp-course-widgets.php:206
+#, fuzzy
+msgid "Upcoming Courses (Start Date)"
+msgstr "Kursy w których szkolisz"
+
+#: includes/bp-course-widgets.php:209 includes/bp-course-widgets.php:1051
+#, fuzzy
+msgid "Sort "
+msgstr "Sorteer"
+
+#: includes/bp-course-widgets.php:211 includes/bp-course-widgets.php:1053
+#, fuzzy
+msgid "Ascending"
+msgstr "Oplopend"
+
+#: includes/bp-course-widgets.php:212 includes/bp-course-widgets.php:1054
+#, fuzzy
+msgid "Decending"
+msgstr "Descendant"
+
+#: includes/bp-course-widgets.php:215
+#, fuzzy
+msgid "Specific Courses (enter comma saperated ids)"
+msgstr "Cursos específicos (introducir ID's separados por comas)"
+
+#: includes/bp-course-widgets.php:216
+#, fuzzy
+msgid "Number of Courses to show"
+msgstr "Número de cursos a mostrar"
+
+#: includes/bp-course-widgets.php:230
+#, fuzzy
+msgid "BuddyPress Instructor Widget"
+msgstr "BuddyPress Instructor Widget"
+
+#: includes/bp-course-widgets.php:255
+msgid "Check all Courses created by "
+msgstr "Sprawdź wszystkie kursy stworzonez przez"
+
+#: includes/bp-course-widgets.php:256
+#, fuzzy
+msgid "More Courses by "
+msgstr "Más cursos por "
+
+#: includes/bp-course-widgets.php:305
+#, fuzzy
+msgid "Fallback Instructor ID"
+msgstr "ID del instructor suplente"
+
+#: includes/bp-course-widgets.php:306
+#, fuzzy
+msgid "Number of Courses by the Instructor to show"
+msgstr "Número de cursos por instructor a mostrar"
+
+#: includes/bp-course-widgets.php:318
+#, fuzzy
+msgid "BuddyPress Course Search Widget"
+msgstr "Widget del curso de BuddyPress"
+
+#: includes/bp-course-widgets.php:376
+#, fuzzy
+msgid "Select Instructor"
+msgstr "Seleziona Docente"
+
+#: includes/bp-course-widgets.php:390
+#, fuzzy
+msgid "Select Course Location"
+msgstr "Seleccionar categoría del curso"
+
+#: includes/bp-course-widgets.php:401
+#, fuzzy
+msgid "Select Course Level"
+msgstr "Seleccionar categoría del curso"
+
+#: includes/bp-course-widgets.php:408
+#, fuzzy
+msgid "Type Keywords.."
+msgstr "Type de Chapitre"
+
+#: includes/bp-course-widgets.php:458
+#, fuzzy
+msgid "Show Course Category Dropdown"
+msgstr "Seleccionar categoría del curso"
+
+#: includes/bp-course-widgets.php:459
+#, fuzzy
+msgid "Show Instructor Dropdown"
+msgstr "Número de cursos por instructor a mostrar"
+
+#: includes/bp-course-widgets.php:463
+#, fuzzy
+msgid "Show Location Dropdown"
+msgstr "Número de cursos por instructor a mostrar"
+
+#: includes/bp-course-widgets.php:468
+#, fuzzy
+msgid "Show Level Dropdown"
+msgstr "Seleccionar categoría del curso"
+
+#: includes/bp-course-widgets.php:482
+#, fuzzy
+msgid "BuddyPress Course Stats Widget"
+msgstr "Widget del curso de BuddyPress"
+
+#: includes/bp-course-widgets.php:553
+#, fuzzy
+msgid "TOTAL STUDENTS"
+msgstr "Elèves"
+
+#: includes/bp-course-widgets.php:555
+#, fuzzy
+msgid "BADGES"
+msgstr "Badges"
+
+#: includes/bp-course-widgets.php:556
+#, fuzzy
+msgid "CERTIFICATES"
+msgstr ""
+"A Bulk Action is added in Course -> Admin -> Members which enables "
+"Instructos to assign Certificates & Badges to Students for the course"
+
+#: includes/bp-course-widgets.php:586
+#, fuzzy
+msgid "Select Course"
+msgstr "Seleccionar categoría del curso"
+
+#: includes/bp-course-widgets.php:588 includes/bp-course-widgets.php:745
+#: includes/bp-course-widgets.php:763
+#, fuzzy
+msgid "All"
+msgstr "Alles"
+
+#: includes/bp-course-widgets.php:589
+msgid "Current Course (defaults to all)"
+msgstr ""
+
+#: includes/bp-course-widgets.php:600
+msgid "Show Students Stats"
+msgstr ""
+
+#: includes/bp-course-widgets.php:601
+msgid "Show Badge/Certificates Stats"
+msgstr ""
+
+#: includes/bp-course-widgets.php:611
+#, fuzzy
+msgid "BuddyPress Course Filter Widget"
+msgstr "Widget del curso de BuddyPress"
+
+#: includes/bp-course-widgets.php:746
+#, fuzzy
+msgid "Online"
+msgstr "Online"
+
+#: includes/bp-course-widgets.php:747
+#, fuzzy
+msgid "Offline"
+msgstr "Offline"
+
+#: includes/bp-course-widgets.php:755
+#, fuzzy
+msgid "Start Date"
+msgstr "COMENZAR CURSO"
+
+#: includes/bp-course-widgets.php:756
+msgid "End Date"
+msgstr ""
+
+#: includes/bp-course-widgets.php:764
+#, fuzzy
+msgid "Free"
+msgstr "GRATIS"
+
+#: includes/bp-course-widgets.php:765
+msgid "Paid"
+msgstr ""
+
+#: includes/bp-course-widgets.php:769
+#, fuzzy
+msgid "Filter Results"
+msgstr "Resultados"
+
+#: includes/bp-course-widgets.php:802
+#, fuzzy
+msgid "Course Categories"
+msgstr "Cursus categorieën"
+
+#: includes/bp-course-widgets.php:804
+msgid "Location"
+msgstr ""
+
+#: includes/bp-course-widgets.php:806
+#, fuzzy
+msgid "Levels"
+msgstr "Zoomniveaus 0 - 19"
+
+#: includes/bp-course-widgets.php:808
+#, fuzzy
+msgid "Type"
+msgstr "Type"
+
+#: includes/bp-course-widgets.php:810
+#, fuzzy
+msgid "Price"
+msgstr "Prijs"
+
+#: includes/bp-course-widgets.php:812
+#: includes/templates/course/single/course-header.php:40
+#, fuzzy
+msgid "Instructors"
+msgstr "Legevers"
+
+#: includes/bp-course-widgets.php:814
+#, fuzzy
+msgid "Upcoming Courses"
+msgstr "Kursy w których szkolisz"
+
+#: includes/bp-course-widgets.php:840
+#, fuzzy
+msgid "Show Course category filter"
+msgstr "Seleccionar categoría del curso"
+
+#: includes/bp-course-widgets.php:841
+#, fuzzy
+msgid "Course Categories Label"
+msgstr "Certificado del curso"
+
+#: includes/bp-course-widgets.php:843
+msgid "Show Free/Paid/All filter"
+msgstr ""
+
+#: includes/bp-course-widgets.php:844
+msgid "Free/Paid Label"
+msgstr ""
+
+#: includes/bp-course-widgets.php:846
+#, fuzzy
+msgid "Show Offline/Online filter"
+msgstr "Seleccionar categoría del curso"
+
+#: includes/bp-course-widgets.php:847
+msgid "Online/Offline Label"
+msgstr ""
+
+#: includes/bp-course-widgets.php:849
+#, fuzzy
+msgid "Show Upcoming/Past Courses filter"
+msgstr "Número de cursos por instructor a mostrar"
+
+#: includes/bp-course-widgets.php:850
+#, fuzzy
+msgid "Upcoming courses Label"
+msgstr "COURS :"
+
+#: includes/bp-course-widgets.php:858
+#, fuzzy
+msgid "Show Location filter"
+msgstr "Seleccionar categoría del curso"
+
+#: includes/bp-course-widgets.php:859
+#, fuzzy
+msgid "Location Label"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-widgets.php:870
+#, fuzzy
+msgid "Show Levels filter"
+msgstr "Seleccionar categoría del curso"
+
+#: includes/bp-course-widgets.php:871
+msgid "Levels Label"
+msgstr ""
+
+#: includes/bp-course-widgets.php:875
+#, fuzzy
+msgid "Show Instructor filter"
+msgstr "Número de cursos por instructor a mostrar"
+
+#: includes/bp-course-widgets.php:876
+#, fuzzy
+msgid "Instructor Label"
+msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#: includes/bp-course-widgets.php:877
+msgid "Exclude Category/Level Slugs (comma saperated)"
+msgstr ""
+
+#: includes/bp-course-widgets.php:878
+msgid "Auto Click on input select (hides filter button)"
+msgstr ""
+
+#: includes/bp-course-widgets.php:891
+#, fuzzy
+msgid "Course Reviews Widget"
+msgstr "Widget del curso de BuddyPress"
+
+#: includes/bp-course-widgets.php:963 includes/bp-course-widgets.php:984
+msgid "Default avatar"
+msgstr ""
+
+#: includes/bp-course-widgets.php:1034
+msgid "Course ID (optional)"
+msgstr ""
+
+#: includes/bp-course-widgets.php:1046
+#, fuzzy
+msgid "Recent"
+msgstr "Recent"
+
+#: includes/bp-course-widgets.php:1057
+#, fuzzy
+msgid "Specific Reviews/Comments (enter comma saperated ids)"
+msgstr "Cursos específicos (introducir ID's separados por comas)"
+
+#: includes/bp-course-widgets.php:1058
+#, fuzzy
+msgid "Number of Reviews to show"
+msgstr "Liczba oceń"
+
+#: includes/bp-course-widgets.php:1072
+#, fuzzy
+msgid "BuddyPress Related Courses Widget"
+msgstr "Widget del curso de BuddyPress"
+
+#: includes/bp-course-widgets.php:1200
+#, fuzzy
+msgid "No related courses found !"
+msgstr "No se encontraron cursos."
+
+#: includes/bp-course-widgets.php:1249
+#, fuzzy
+msgid "Show from same Course Category"
+msgstr "Seleccionar categoría del curso"
+
+#: includes/bp-course-widgets.php:1250
+#, fuzzy
+msgid "Show from same Instructor"
+msgstr "Número de cursos por instructor a mostrar"
+
+#: includes/bp-course-widgets.php:1254
+#, fuzzy
+msgid "Show from same Course location"
+msgstr "Seleccionar categoría del curso"
+
+#: includes/bp-course-widgets.php:1259
+#, fuzzy
+msgid "Show from same Course Level"
+msgstr "Seleccionar categoría del curso"
+
+#: includes/bp-course-widgets.php:1264
+msgid "Show from same Linkage"
+msgstr ""
+
+#: includes/bp-course-widgets.php:1268
+#, fuzzy
+msgid "Numer of Courses"
+msgstr "Número de cursos a mostrar"
+
+#: includes/bp-course-widgets.php:1269
+#, fuzzy
+msgid "Block Style"
+msgstr "Style"
+
+#: includes/bp-course-widgets.php:1285
+#, fuzzy
+msgid "Comma saperated courses"
+msgstr " ha iniziato il Test "
+
+#: includes/templates/course/course-loop.php:93
+#: includes/templates/course/my-courses.php:98
+#, fuzzy
+msgid "You have not subscribed to any courses."
+msgstr "U bent niet ingeschreven voor een cursus"
+
+#: includes/templates/course/index.php:58
+#, php-format
+msgid "All Courses <span>%s</span>"
+msgstr "Wszystkie Kursy <span>%s</span>"
+
+#: includes/templates/course/index.php:62
+#, php-format
+msgid "My Courses <span>%s</span>"
+msgstr "Moje Kursy <span>%s</span>"
+
+#: includes/templates/course/index.php:65
+#, fuzzy, php-format
+msgid "Instructing Courses <span>%s</span>"
+msgstr "Cursusinstructies <span>%s</span>"
+
+#: includes/templates/course/index.php:83
+#, fuzzy
+msgid "Order By:"
+msgstr "Besteld door:"
+
+#: includes/templates/course/index.php:85
+#, fuzzy
+msgid "Select Order"
+msgstr "Selecteer Bestelling"
+
+#: includes/templates/course/index.php:86
+#, fuzzy
+msgid "Newly Published"
+msgstr "Nieuwe publicaties"
+
+#: includes/templates/course/index.php:87
+#, fuzzy
+msgid "Alphabetical"
+msgstr "Alfabetisch"
+
+#: includes/templates/course/index.php:88
+#, fuzzy
+msgid "Most Members"
+msgstr "Meeste leden"
+
+#: includes/templates/course/index.php:89
+#, fuzzy
+msgid "Highest Rated"
+msgstr "Hoogste score"
+
+#: includes/templates/course/instructor-courses.php:89
+#, fuzzy
+msgid "You have not created any Course."
+msgstr "U heeft nog geen cursus aangemaakt"
+
+#: includes/templates/course/single/activity.php:53
+#, fuzzy
+msgid "All Activity"
+msgstr "Alle Activiteit"
+
+#: includes/templates/course/single/activity.php:57
+#, fuzzy
+msgid "My Activity"
+msgstr "Mine Activity"
+
+#: includes/templates/course/single/activity.php:60
+#, fuzzy
+msgid "Show:"
+msgstr "Toon:"
+
+#: includes/templates/course/single/activity.php:62
+msgid "&mdash; Everything &mdash;"
+msgstr ""
+
+#: includes/templates/course/single/activity.php:95
+msgid "Load More"
+msgstr ""
+
+#: includes/templates/course/single/activity.php:109
+#, fuzzy
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr "Sorry, er is geen activiteit gevonden. Probeer een andere filter."
+
+#: includes/templates/course/single/admin.php:64
+#: includes/templates/course/single/members.php:19
+#, fuzzy
+msgid "Total number of Students in course"
+msgstr "Totaal aantal studenten in de cursus "
+
+#: includes/templates/course/single/admin.php:142
+#, fuzzy
+msgid "No Students found."
+msgstr "Geen Studenten gevonden."
+
+#: includes/templates/course/single/admin.php:164
+#, fuzzy
+msgid "BULK ACTIONS"
+msgstr "BULKACTIES"
+
+#: includes/templates/course/single/curriculum.php:28
+#, fuzzy
+msgid "Course Curriculum"
+msgstr "Cursus Overzicht"
+
+#: includes/templates/course/single/events.php:18
+#, fuzzy
+msgid " Events"
+msgstr "Alle praktijksessies pagina Sidebar"
+
+#: includes/templates/course/single/front.php:33
+#, fuzzy
+msgid " STUDENTS ENROLLED"
+msgstr " INGESCHREVEN STUDENTEN"
+
+#: includes/templates/course/single/front.php:64
+#, fuzzy
+msgid "READ MORE"
+msgstr "LEES MEER"
+
+#: includes/templates/course/single/front.php:76
+#, fuzzy
+msgid "LESS"
+msgstr "MINDER"
+
+#: includes/templates/course/single/members.php:20
+#, fuzzy
+msgid "Students Currently taking this course"
+msgstr "Studenten die deze cursus momenteel volgen"
+
+#: includes/templates/course/single/stats.php:22
+#, fuzzy
+msgid "Total Number of Students who took this course"
+msgstr "Aantal studenten die deze cursus gevolgd heeft"
+
+#: includes/templates/course/single/stats.php:23
+#, fuzzy
+msgid "Average Percentage obtained by Students"
+msgstr "Gemiddeld percentage die behaald is door de studenten"
+
+#: includes/templates/course/single/stats.php:23
+#, fuzzy
+msgid "out of 100"
+msgstr "op 100"
+
+#: includes/templates/course/single/stats.php:24
+#: includes/templates/course/single/stats.php:31
+#, fuzzy
+msgid "Number of Students who got a Badge"
+msgstr "Aantal studenten die een badge gekregen hebben"
+
+#: includes/templates/course/single/stats.php:25
+#: includes/templates/course/single/stats.php:30
+#, fuzzy
+msgid "Number of Passed Students"
+msgstr "Aantal studenten die geslaagd zijn"
+
+#: includes/templates/course/single/stats.php:26
+#, fuzzy
+msgid "Number of Students who did not pass "
+msgstr "Número de alumnos no aprobados"
+
+#: includes/templates/course/single/stats.php:29
+#, fuzzy
+msgid "Average Marks obtained by Students"
+msgstr "Gemiddeld behaald cijfer door de studenten"
+
+#: includes/templates/course/single/stats.php:38
+#, fuzzy
+msgid "No curriculum defined"
+msgstr "Itinerario:"
+
+#: includes/templates/course/single/stats.php:63
+#, fuzzy
+msgid "Average Marks in Quiz "
+msgstr "Gemiddeld behaald cijfer in de test"
+
+#: includes/templates/course/single/stats.php:71
+#, fuzzy
+msgid "Calculate :"
+msgstr "Bereken :"
+
+#: includes/templates/course/single/stats.php:72
+#, fuzzy
+msgid "Calculate Statistics for Course"
+msgstr "Bereken de statistieken voor de cursus"
+
+#: includes/templates/course/single/submissions.php:20
+#, fuzzy
+msgid "ASSIGNMENTS SUBMISSIONS"
+msgstr "PRESENTACIONES DEL CURSO"
+
+#: includes/templates/course/single/submissions.php:51
+#, fuzzy
+msgid "Reset Assignment for User"
+msgstr "Restablecer curso para el usuario"
+
+#: includes/templates/course/single/submissions.php:52
+msgid "Evaluate Assignment : "
+msgstr ""
+
+#: includes/templates/course/single/submissions.php:69
+#, fuzzy
+msgid "QUIZ SUBMISSIONS"
+msgstr "PRESENTACIONES DEL TEST"
+
+#: includes/templates/course/single/submissions.php:124
+#, fuzzy
+msgid "COURSE SUBMISSIONS"
+msgstr "PRESENTACIONES DEL CURSO"
+
+#, fuzzy
+#~ msgid "ENABLED"
+#~ msgstr "CURSO HABILITADO"
+
+#, fuzzy
+#~ msgid "Student %s added a comment in unit %s"
+#~ msgstr "Lo Studente ha iniziato l'unità"
+
+#, fuzzy
+#~ msgid " Hours"
+#~ msgstr "Uren"
+
+#, fuzzy
+#~ msgid "Marks Obtained : "
+#~ msgstr "Notas obtenidas"
+
+#, fuzzy
+#~ msgid "You're unsubscribed from course"
+#~ msgstr " iscritto al corso"
+
+#, fuzzy
+#~ msgid "You're unsubscribed from course Course %s"
+#~ msgstr " iscritto al corso"
+
+#, fuzzy
+#~ msgid " Minutes"
+#~ msgstr "Minutes"
+
+#, fuzzy
+#~ msgid " minutes"
+#~ msgstr "Minutes"
+
+#, fuzzy
+#~ msgid " hours"
+#~ msgstr "Heures"
+
+#, fuzzy
+#~ msgid "Student %s applied for Course %s"
+#~ msgstr "Puntuación del alumno del curso"
+
+#, fuzzy
+#~ msgid "Student "
+#~ msgstr "Elève"
+
+#, fuzzy
+#~ msgid " started the course "
+#~ msgstr " ha iniziato il Test "
+
+#, fuzzy
+#~ msgid "Course "
+#~ msgstr "COURS :"
+
+#, fuzzy
+#~ msgid " reset for student "
+#~ msgstr " azzera per lo studente "
+
+#, fuzzy
+#~ msgid " retake by student "
+#~ msgstr "Test ritentato dallo studente"
+
+#, fuzzy
+#~ msgid " got a badge in the course "
+#~ msgstr "Lo studente ha ricevuto il Badge del corso "
+
+#, fuzzy
+#~ msgid " got a certificate in the course "
+#~ msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#, fuzzy
+#~ msgid " removed from the course "
+#~ msgstr " rimosso dal corso "
+
+#, fuzzy
+#~ msgid "Student started the unit "
+#~ msgstr "Lo Studente ha iniziato l'unità"
+
+#, fuzzy
+#~ msgid " in course "
+#~ msgstr "COURS :"
+
+#, fuzzy
+#~ msgid "Could not find Quiz results for User. Contact Admin."
+#~ msgstr ""
+#~ "No se pudieron encontrar los resultados del test del usuario. Contacte "
+#~ "con el administrador."
+
+#, fuzzy
+#~ msgid "Too Fast or Answer not marked."
+#~ msgstr "Risposta non salvata. Riprova!"
+
+#, fuzzy
+#~ msgid "Answer Saved."
+#~ msgstr "Risposta Salvata."
+
+#, fuzzy
+#~ msgid "Processing..."
+#~ msgstr "Attendere..."
+
+#, fuzzy
+#~ msgid "Saving Answer...please wait"
+#~ msgstr "Salvataggio in corso..."
+
+#, fuzzy
+#~ msgid "Cancel"
+#~ msgstr "Annuler"
+
+#, fuzzy
+#~ msgid "Save Course Settings"
+#~ msgstr "Paramètres du Cours"
+
+#, fuzzy
+#~ msgid "Connect with Course"
+#~ msgstr "CONTINUAR CURSO"
+
+#, fuzzy
+#~ msgid ""
+#~ "There was issue in removing this user from the Course. Please contact "
+#~ "admin."
+#~ msgstr ""
+#~ "Hubo un problema en la eliminación de este usuario del curso. Por favor, "
+#~ "póngase en contacto con el administrador."
+
+#, fuzzy
+#~ msgid "Annoucements"
+#~ msgstr "Instructores"
+
+#, fuzzy
+#~ msgid "Course Subscribed"
+#~ msgstr "Curso comenzado:"
+
+#, fuzzy
+#~ msgid "User added to Course"
+#~ msgstr "Usuario eliminado del curso"
+
+#, fuzzy
+#~ msgid "User Starts a Course "
+#~ msgstr "COMENZAR CURSO"
+
+#, fuzzy
+#~ msgid "Course Reset by Instructor"
+#~ msgstr "Tutti i corsi dei Docenti"
+
+#, fuzzy
+#~ msgid "Course Retake by User"
+#~ msgstr "Restablecer curso para el usuario"
+
+#, fuzzy
+#~ msgid "Course Submit"
+#~ msgstr "Título del curso"
+
+#, fuzzy
+#~ msgid "Course Evaluation"
+#~ msgstr "Il Docente ha valutato il Corso per lo studente"
+
+#, fuzzy
+#~ msgid "Course Reviews"
+#~ msgstr "Widget del curso de BuddyPress"
+
+#, fuzzy
+#~ msgid "Unsubscribe Course"
+#~ msgstr " iscritto al corso"
+
+#, fuzzy
+#~ msgid "Quiz Start by user"
+#~ msgstr "Test ritentato dallo studente"
+
+#, fuzzy
+#~ msgid "Quiz Submitted by user"
+#~ msgstr " è stato inviato dallo studente"
+
+#, fuzzy
+#~ msgid "Quiz Reset by Instructor"
+#~ msgstr "Seleziona Docente"
+
+#, fuzzy
+#~ msgid "Quiz Retake by User"
+#~ msgstr "Test ritentato dallo studente"
+
+#, fuzzy
+#~ msgid "Quiz Evaluation"
+#~ msgstr " è stato inviato dallo studente"
+
+#, fuzzy
+#~ msgid "Assignment Start by user"
+#~ msgstr "Restablecer curso para el usuario"
+
+#, fuzzy
+#~ msgid "Assignment Submitted by user"
+#~ msgstr " è stato inviato dallo studente"
+
+#, fuzzy
+#~ msgid "Assignment Evaluation"
+#~ msgstr "In fase di valutazione"
+
+#, fuzzy
+#~ msgid " got ="
+#~ msgstr " ottenuto "
+
+#, fuzzy
+#~ msgid "Quiz "
+#~ msgstr "Test"
+
+#, fuzzy
+#~ msgid "FAILED TO MARK COURSE, CONTACT ADMIN"
+#~ msgstr "ERROR AL MARCAR CURSO, CONTACTE CON EL ADMINISTRADOR"
+
+#, fuzzy
+#~ msgid " in Quiz"
+#~ msgstr "Test"
+
+#, fuzzy
+#~ msgid " got "
+#~ msgstr " ottenuto "
+
+#, fuzzy
+#~ msgid " in Quiz "
+#~ msgstr "Test"
+
+#, fuzzy
+#~ msgid "Instructor added "
+#~ msgstr "Il Docente ha aggiunto lo studente al corso "
+
+#, fuzzy
+#~ msgid " students in course "
+#~ msgstr "Nombre total d'élèves dans ce cours"
+
+#, fuzzy
+#~ msgid " initiated quiz retake "
+#~ msgstr " ripetizione Test iniziata "
+
+#, fuzzy
+#~ msgid " in quiz "
+#~ msgstr "Test"
+
+#, fuzzy
+#~ msgid "Quiz Auto Evaluated"
+#~ msgstr "Valutazione Automatica del Test"
+
+#, fuzzy
+#~ msgid " with marks "
+#~ msgstr "NOTE: "
+
+#, fuzzy
+#~ msgid "Quiz %s submitted by student %s for evaluation"
+#~ msgstr " è stato inviato dallo studente"
+
+#, fuzzy
+#~ msgid " days"
+#~ msgstr "Jours"
+
+#, fuzzy
+#~ msgid "Course expire warning notifications"
+#~ msgstr "Certificado del curso"
+
+#, fuzzy
+#~ msgid "Quizes evaluated"
+#~ msgstr "Valutazione Automatica del Test"
+
+#, fuzzy
+#~ msgid "%d Quizes evaluated !"
+#~ msgstr "Valutazione Automatica del Test"
+
+#, fuzzy
+#~ msgid "%s Quiz evaluated!"
+#~ msgstr "Valutazione Automatica del Test"
+
+#, fuzzy
+#~ msgid ""
+#~ "Results for %s are avaialble. You've recieved %s marks. see results %s ,"
+#~ "evaluated by %s [%s]"
+#~ msgstr ""
+#~ "Resultados para %s están fuera. Usted ha recibido %s notas. \n"
+#~ " \n"
+#~ " ver resultados del test %s, evaluado por% s [% s] \n"
+#~ " \n"
+#~ " \n"
+#~ " --------------------- \n"
+
+#, fuzzy
+#~ msgid "Auto evaluated Course for Student"
+#~ msgstr "Corso valutato automaticamente per lo studente"
+
+#, fuzzy
+#~ msgid "Student got a Certificate in the course "
+#~ msgstr "Lo Studente ha ricevuto l'Attestato del corso "
+
+#, fuzzy
+#~ msgid "Student submitted course for evaluation"
+#~ msgstr " è stato inviato dallo studente"
+
+#, fuzzy
+#~ msgid "Marks"
+#~ msgstr "NOTER"
+
+#, fuzzy
+#~ msgid "Back to Quiz"
+#~ msgstr "Torna al Test"
+
+#, fuzzy
+#~ msgid "MEMBERSHIP"
+#~ msgstr "ABONNEMENT"
+
+#, fuzzy
+#~ msgid "Right now"
+#~ msgstr " Adesso"
+
+#, fuzzy
+#~ msgid "course"
+#~ msgstr "COURS :"
+
+#, fuzzy
+#~ msgid "Action One"
+#~ msgstr "Acción uno"
+
+#, fuzzy
+#~ msgid "Action Two"
+#~ msgstr "Acción dos"
+
+#, fuzzy
+#~ msgid "Multiple high-fives"
+#~ msgstr "Choca los cinco múltiples"
+
+#, fuzzy
+#~ msgid "%d new high-fives, multi-five!"
+#~ msgstr "%d nuevo \"¡choca los cinco!\""
+
+#, fuzzy
+#~ msgid "%s sent you a high-five!"
+#~ msgstr "¡ %s te ha chocado los cinco!"
+
+#, fuzzy
+#~ msgid "%s high-fived you!"
+#~ msgstr "¡ %s te chocó los cinco!"
+
+#, fuzzy
+#~ msgid " got a caertificate in the course "
+#~ msgstr " ottenuto l'Attestato del Corso "
+
+#, fuzzy
+#~ msgid "Groups Directory"
+#~ msgstr "Directorio de grupos"
+
+#, fuzzy
+#~ msgid "Group Name (required)"
+#~ msgstr "Nombre del grupo (necesario)"
+
+#, fuzzy
+#~ msgid "Group Description (required)"
+#~ msgstr "Descripción del grupo (necesario)"
+
+#, fuzzy
+#~ msgid "This is a public group"
+#~ msgstr "Este es un grupo público"
+
+#, fuzzy
+#~ msgid "Any site member can join this group."
+#~ msgstr "Cualquier miembro del sitio puede unirse a este grupo."
+
+#, fuzzy
+#~ msgid ""
+#~ "This group will be listed in the groups directory and in search results."
+#~ msgstr ""
+#~ "Este grupo será incluido en el directorio de grupos y en la búsqueda de "
+#~ "resultados."
+
+#, fuzzy
+#~ msgid "Group content and activity will be visible to any site member."
+#~ msgstr ""
+#~ "El contenido y la actividad del grupo serán visibles para cualquier "
+#~ "miembro del sitio."
+
+#, fuzzy
+#~ msgid "This is a private group"
+#~ msgstr "Este es un grupo privado"
+
+#, fuzzy
+#~ msgid ""
+#~ "Only users who request membership and are accepted can join the group."
+#~ msgstr ""
+#~ "Sólamente los usuarios que soliciten membresía y sean aceptados pueden "
+#~ "unirse al grupo."
+
+#, fuzzy
+#~ msgid ""
+#~ "Group content and activity will only be visible to members of the group."
+#~ msgstr ""
+#~ "El contenido y la actividad del grupo sólo será visible para los miembros "
+#~ "del grupo."
+
+#, fuzzy
+#~ msgid "This is a hidden group"
+#~ msgstr "Este es un grupo oculto"
+
+#, fuzzy
+#~ msgid "Only users who are invited can join the group."
+#~ msgstr "Sólo los usuarios que sean invitados pueden unirse al grupo."
+
+#, fuzzy
+#~ msgid ""
+#~ "This group will not be listed in the groups directory or search results."
+#~ msgstr ""
+#~ "Este grupo será incluido en el directorio de grupos y en la búsqueda de "
+#~ "resultados."
+
+#, fuzzy
+#~ msgid "Group Invitations"
+#~ msgstr "Invitaciones de grupo"
+
+#, fuzzy
+#~ msgid "Which members of this group are allowed to invite others?"
+#~ msgstr ""
+#~ "¿Qué miembros de este grupo tienen permiso para invitar a otras personas?"
+
+#, fuzzy
+#~ msgid "All group members"
+#~ msgstr "Todos los miembros del grupo"
+
+#, fuzzy
+#~ msgid "Group admins and mods only"
+#~ msgstr "Sólamente administradores y moderadores de grupo"
+
+#, fuzzy
+#~ msgid "Group admins only"
+#~ msgstr "Solo administradores del grupo"
+
+#, fuzzy
+#~ msgid "Group Forums"
+#~ msgstr "Foros del grupo"
+
+#, fuzzy
+#~ msgid "Should this group have a forum?"
+#~ msgstr "¿Debe este grupo tener un foro?"
+
+#, fuzzy
+#~ msgid "Enable discussion forum"
+#~ msgstr "Habilitar foro de discusión"
+
+#, fuzzy
+#~ msgid ""
+#~ "<strong>Attention Site Admin:</strong> Group forums require the <a href="
+#~ "\"%s\">correct setup and configuration</a> of a bbPress installation."
+#~ msgstr ""
+#~ "<strong>A la atención del administrador del site:</strong> Los foros del "
+#~ "grupo solicitan la <a href=\"%s\">correcta instalación y configuración</"
+#~ "a> de la instalación bbPress."
+
+#, fuzzy
+#~ msgid ""
+#~ "Upload an image to use as an avatar for this group. The image will be "
+#~ "shown on the main group page, and in search results."
+#~ msgstr ""
+#~ "Subir una imagen para usarla de avatar para este grupo. Esta imagen se "
+#~ "muestra en la página del grupo principal, y en la búsqueda de resultados."
+
+#, fuzzy
+#~ msgid "Upload Image"
+#~ msgstr "Subir imagen"
+
+#, fuzzy
+#~ msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+#~ msgstr ""
+#~ "Para saltar el proceso de carga del avatar, pulse el botón \"Next Step\"."
+
+#, fuzzy
+#~ msgid "Crop Group Avatar"
+#~ msgstr "Recortar avatar del grupo"
+
+#, fuzzy
+#~ msgid "Avatar to crop"
+#~ msgstr "Avatar a recortar"
+
+#, fuzzy
+#~ msgid "Avatar preview"
+#~ msgstr "Avatar previo"
+
+#, fuzzy
+#~ msgid "Crop Image"
+#~ msgstr "Recortar imagen"
+
+#, fuzzy
+#~ msgid "Select people to invite from your friends list."
+#~ msgstr "Seleccionar personas a invitar desde tu lista de amigos."
+
+#, fuzzy
+#~ msgid "Remove Invite"
+#~ msgstr "Borrar invitación"
+
+#, fuzzy
+#~ msgid ""
+#~ "Once you have built up friend connections you will be able to invite "
+#~ "others to your group."
+#~ msgstr ""
+#~ "Una vez haya construido conexiones de amigos podrá invitar a otros a su "
+#~ "grupo."
+
+#, fuzzy
+#~ msgid "Back to Previous Step"
+#~ msgstr "Volver al paso previo"
+
+#, fuzzy
+#~ msgid "Next Step"
+#~ msgstr "Siguiente paso"
+
+#, fuzzy
+#~ msgid "Create Group and Continue"
+#~ msgstr "Crear grupo y continuar"
+
+#, fuzzy
+#~ msgid "Finish"
+#~ msgstr "Finalizar"
+
+#, fuzzy
+#~ msgid "Become a Teacher"
+#~ msgstr "Convertirse en profesor"
+
+#, fuzzy
+#~ msgid "Newly Created"
+#~ msgstr "Recién creado"
+
+#, fuzzy
+#~ msgid "Requires completition of course "
+#~ msgstr "Se necesita la finalización del curso"
+
+#, fuzzy
+#~ msgid "Structure"
+#~ msgstr "Estructura"
+
+#, fuzzy
+#~ msgid "Related Courses"
+#~ msgstr "Cursos relacionados"
+
+#, fuzzy
+#~ msgid "Student finished the unit "
+#~ msgstr "Lo studente ha terminato l'unità "
+
+#, fuzzy
+#~ msgid " out of 100 in Course :"
+#~ msgstr "Porcentaje del curso (sobre 100)"
+
+#, fuzzy
+#~ msgid "Security Check Failed ."
+#~ msgstr "Le Contrôle de sécurité a échoué!"
+
+#, fuzzy
+#~ msgid "Contact Site Admin."
+#~ msgstr "Contacte con el administrador del sitio."
+
+#, fuzzy
+#~ msgid " out of 100 in course "
+#~ msgstr "Porcentaje del curso (sobre 100)"
+
+#, fuzzy
+#~ msgid "No Level Selected"
+#~ msgstr "Nessun Livello Selezionato"
